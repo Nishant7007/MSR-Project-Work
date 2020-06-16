@@ -1,0 +1,1830 @@
+Market,Arrival Date,Arrivals (Tonnes),Variety,Minimum Price(Rs./Quintal),Maximum Price(Rs./Quintal),Modal Price(Rs./Quintal)
+Alipurduar,01/04/2019,10,Jyoti,550,600,580
+Alipurduar,01/04/2019,10,Red,800,900,850
+Alipurduar,02/04/2019,10,Jyoti,580,600,600
+Alipurduar,02/04/2019,10,Red,800,900,850
+Alipurduar,03/04/2019,10,Jyoti,550,600,580
+Alipurduar,03/04/2019,10,Red,800,900,850
+Alipurduar,04/04/2019,10,Jyoti,550,600,580
+Alipurduar,04/04/2019,10,Red,800,900,850
+Alipurduar,05/04/2019,10,Jyoti,550,600,580
+Alipurduar,05/04/2019,10,Red,800,900,850
+Alipurduar,06/04/2019,10,Jyoti,550,600,580
+Alipurduar,06/04/2019,10,Red,800,900,850
+Alipurduar,08/04/2019,10,Jyoti,550,600,580
+Alipurduar,08/04/2019,10,Red,850,950,900
+Alipurduar,09/04/2019,10,Jyoti,600,620,610
+Alipurduar,09/04/2019,10,Red,850,950,900
+Alipurduar,16/04/2019,10,Jyoti,650,710,700
+Alipurduar,16/04/2019,10,Red,900,1000,950
+Alipurduar,17/04/2019,10,Jyoti,650,710,700
+Alipurduar,17/04/2019,10,Red,1000,1100,1050
+Alipurduar,18/04/2019,10,Jyoti,650,750,700
+Alipurduar,18/04/2019,10,Red,950,1050,1000
+Alipurduar,19/04/2019,10,Jyoti,680,750,700
+Alipurduar,19/04/2019,10,Red,1000,1100,1050
+Alipurduar,20/04/2019,10,Jyoti,680,750,700
+Alipurduar,20/04/2019,10,Red,1000,1100,1050
+Alipurduar,22/04/2019,10,Jyoti,680,750,700
+Alipurduar,22/04/2019,10,Red,1050,1150,1100
+Alipurduar,23/04/2019,10,Jyoti,680,750,700
+Alipurduar,23/04/2019,10,Red,1000,1100,1050
+Alipurduar,24/04/2019,10,Jyoti,680,750,700
+Alipurduar,24/04/2019,10,Red,1000,1100,1050
+Alipurduar,25/04/2019,10,Jyoti,680,750,700
+Alipurduar,25/04/2019,10,Red,1000,1100,1050
+Alipurduar,26/04/2019,10,Jyoti,620,700,650
+Alipurduar,26/04/2019,10,Red,1000,1100,1050
+Alipurduar,27/04/2019,10,Jyoti,620,700,650
+Alipurduar,27/04/2019,10,Red,1000,1100,1050
+Alipurduar,29/04/2019,10,Jyoti,620,700,650
+Alipurduar,29/04/2019,10,Red,1000,1100,1050
+Alipurduar,30/04/2019,10,Jyoti,620,700,650
+Alipurduar,30/04/2019,10,Red,1000,1100,1050
+Asansol,01/04/2019,72,Jyoti,660,720,700
+Asansol,02/04/2019,71.4,Jyoti,660,700,700
+Asansol,03/04/2019,71.4,Jyoti,660,740,700
+Asansol,04/04/2019,72,Jyoti,640,680,660
+Asansol,05/04/2019,73,Jyoti,620,660,640
+Asansol,06/04/2019,75.9,Jyoti,640,680,640
+Asansol,07/04/2019,20.8,Jyoti,660,700,680
+Asansol,08/04/2019,70,Jyoti,760,800,760
+Asansol,09/04/2019,64,Jyoti,760,840,800
+Asansol,10/04/2019,61.9,Jyoti,820,860,840
+Asansol,11/04/2019,62.5,Jyoti,800,880,840
+Asansol,12/04/2019,65,Jyoti,800,820,800
+Asansol,13/04/2019,67,Jyoti,800,840,800
+Asansol,14/04/2019,20,Jyoti,800,860,840
+Asansol,15/04/2019,60,Jyoti,820,900,860
+Asansol,16/04/2019,62.5,Jyoti,820,860,840
+Asansol,17/04/2019,65,Jyoti,800,860,840
+Asansol,18/04/2019,66.2,Jyoti,800,840,820
+Asansol,19/04/2019,65,Jyoti,820,860,840
+Asansol,20/04/2019,66,Jyoti,640,660,640
+Asansol,21/04/2019,26,Jyoti,840,900,860
+Asansol,22/04/2019,70,Jyoti,820,860,840
+Asansol,23/04/2019,69,Jyoti,840,860,840
+Asansol,24/04/2019,70.2,Jyoti,820,860,840
+Asansol,25/04/2019,68.8,Jyoti,860,900,860
+Asansol,26/04/2019,70,Jyoti,860,900,860
+Asansol,27/04/2019,71,Jyoti,860,900,860
+Asansol,28/04/2019,66,Jyoti,880,940,900
+Asansol,29/04/2019,64.2,Jyoti,900,940,900
+Asansol,30/04/2019,65,Jyoti,900,960,920
+Balarampur,01/04/2019,15.55,Other,580,620,600
+Balarampur,02/04/2019,15.6,Other,560,600,580
+Balarampur,03/04/2019,15.75,Other,580,600,590
+Balarampur,04/04/2019,15.65,Other,580,620,600
+Balarampur,06/04/2019,15.75,Other,620,680,640
+Balarampur,07/04/2019,15.75,Other,640,680,660
+Balarampur,08/04/2019,15.7,Other,700,730,720
+Balarampur,09/04/2019,15.65,Other,700,740,720
+Balarampur,10/04/2019,15.45,Other,740,770,760
+Balarampur,11/04/2019,15.4,Other,750,780,760
+Balarampur,12/04/2019,1540,Other,750,770,760
+Balarampur,13/04/2019,15.45,Other,700,780,760
+Balarampur,14/04/2019,15.45,Other,740,770,760
+Balarampur,15/04/2019,15.45,Other,760,790,780
+Balarampur,16/04/2019,15.35,Other,760,790,780
+Balarampur,17/04/2019,15.4,Other,760,790,780
+Balarampur,19/04/2019,15.45,Other,760,780,770
+Balarampur,20/04/2019,15.35,Other,760,790,780
+Balarampur,21/04/2019,15.45,Other,760,780,770
+Balarampur,22/04/2019,15.35,Other,760,780,770
+Balarampur,23/04/2019,15.4,Other,760,780,770
+Balarampur,24/04/2019,15.35,Other,740,760,750
+Balarampur,25/04/2019,15.3,Other,750,780,760
+Balarampur,26/04/2019,15.35,Other,740,770,760
+Balarampur,27/04/2019,15.25,Other,750,780,760
+Balarampur,28/04/2019,15.25,Other,740,780,760
+Balarampur,29/04/2019,15.25,Other,780,820,800
+Balarampur,30/04/2019,15.15,Other,800,840,820
+Balurghat,01/04/2019,5.2,Local,600,700,650
+Balurghat,02/04/2019,5.4,Local,550,650,600
+Balurghat,03/04/2019,5.3,Local,600,700,650
+Balurghat,04/04/2019,5.5,Local,500,600,530
+Balurghat,05/04/2019,5.7,Local,600,700,650
+Balurghat,06/04/2019,5.6,Local,550,650,600
+Balurghat,07/04/2019,5.8,Local,500,600,550
+Balurghat,08/04/2019,5.9,Local,500,600,550
+Balurghat,09/04/2019,5.7,Local,550,650,600
+Balurghat,10/04/2019,5.3,Local,600,650,620
+Balurghat,11/04/2019,5.4,Local,575,650,620
+Balurghat,12/04/2019,5.5,Local,550,650,600
+Balurghat,14/04/2019,5.6,Local,600,650,625
+Balurghat,15/04/2019,5.7,Local,650,720,700
+Balurghat,16/04/2019,5.8,Local,600,700,650
+Balurghat,17/04/2019,5.9,Local,650,725,700
+Balurghat,18/04/2019,5.7,Local,600,700,650
+Balurghat,20/04/2019,5.8,Local,650,720,700
+Balurghat,21/04/2019,5.6,Local,600,700,650
+Balurghat,22/04/2019,5.9,Local,600,700,650
+Balurghat,23/04/2019,5.7,Local,620,700,650
+Balurghat,24/04/2019,5.6,Local,600,700,650
+Balurghat,25/04/2019,5.9,Local,650,725,700
+Balurghat,26/04/2019,5.6,Local,600,700,650
+Balurghat,28/04/2019,5.9,Local,620,700,650
+Balurghat,29/04/2019,5.8,Local,600,650,620
+Balurghat,30/04/2019,5.6,Local,620,700,650
+Bankura Sadar,06/04/2019,24,Jyoti,600,650,630
+Bankura Sadar,07/04/2019,23,Jyoti,600,650,630
+Bankura Sadar,08/04/2019,24,Jyoti,640,690,670
+Bankura Sadar,09/04/2019,21,Jyoti,650,690,670
+Bankura Sadar,10/04/2019,21,Jyoti,650,690,670
+Bankura Sadar,13/04/2019,24,Jyoti,650,690,670
+Bankura Sadar,14/04/2019,21,Jyoti,650,690,670
+Bankura Sadar,15/04/2019,23,Jyoti,700,740,720
+Bankura Sadar,16/04/2019,24,Jyoti,700,740,720
+Bankura Sadar,17/04/2019,23,Jyoti,700,740,720
+Bankura Sadar,18/04/2019,22,Jyoti,700,750,730
+Bankura Sadar,19/04/2019,22,Jyoti,700,750,730
+Bankura Sadar,20/04/2019,21,Jyoti,700,750,730
+Bankura Sadar,21/04/2019,24,Jyoti,700,750,730
+Bankura Sadar,22/04/2019,22,Jyoti,700,750,730
+Bankura Sadar,23/04/2019,21,Jyoti,700,750,730
+Bankura Sadar,24/04/2019,21,Jyoti,700,750,730
+Bankura Sadar,25/04/2019,22,Jyoti,700,750,730
+Bankura Sadar,26/04/2019,21,Jyoti,700,750,730
+Bankura Sadar,27/04/2019,21,Jyoti,700,750,730
+Bankura Sadar,29/04/2019,21,Jyoti,830,880,860
+Bankura Sadar,30/04/2019,22,Jyoti,830,880,860
+Bara Bazar (Posta Bazar),01/04/2019,20,Jyoti,800,820,820
+Bara Bazar (Posta Bazar),01/04/2019,20,Other,700,720,720
+Bara Bazar (Posta Bazar),02/04/2019,20,Jyoti,800,820,820
+Bara Bazar (Posta Bazar),02/04/2019,20,Other,710,720,720
+Bara Bazar (Posta Bazar),03/04/2019,20,Jyoti,800,840,820
+Bara Bazar (Posta Bazar),03/04/2019,20,Other,680,700,700
+Bara Bazar (Posta Bazar),04/04/2019,20,Jyoti,800,820,820
+Bara Bazar (Posta Bazar),04/04/2019,20,Other,680,690,690
+Bara Bazar (Posta Bazar),05/04/2019,15,Jyoti,820,840,840
+Bara Bazar (Posta Bazar),05/04/2019,15,Other,740,760,750
+Bara Bazar (Posta Bazar),06/04/2019,20,Jyoti,840,860,860
+Bara Bazar (Posta Bazar),06/04/2019,20,Other,780,800,790
+Bara Bazar (Posta Bazar),08/04/2019,20,Jyoti,950,960,960
+Bara Bazar (Posta Bazar),08/04/2019,20,Other,830,840,840
+Bara Bazar (Posta Bazar),09/04/2019,20,Jyoti,980,1000,1000
+Bara Bazar (Posta Bazar),09/04/2019,20,Other,920,930,930
+Bara Bazar (Posta Bazar),10/04/2019,15,Jyoti,1000,1020,1020
+Bara Bazar (Posta Bazar),10/04/2019,15,Other,920,940,930
+Bara Bazar (Posta Bazar),11/04/2019,20,Jyoti,1020,1040,1030
+Bara Bazar (Posta Bazar),11/04/2019,20,Other,920,940,930
+Bara Bazar (Posta Bazar),12/04/2019,20,Jyoti,1020,1040,1040
+Bara Bazar (Posta Bazar),12/04/2019,20,Other,920,940,940
+Bara Bazar (Posta Bazar),13/04/2019,20,Jyoti,1020,1040,1040
+Bara Bazar (Posta Bazar),13/04/2019,20,Other,920,940,930
+Bara Bazar (Posta Bazar),16/04/2019,15,Jyoti,1000,1020,1020
+Bara Bazar (Posta Bazar),16/04/2019,15,Other,920,940,930
+Bara Bazar (Posta Bazar),17/04/2019,15,Jyoti,1000,1020,1020
+Bara Bazar (Posta Bazar),17/04/2019,15,Other,880,900,900
+Bara Bazar (Posta Bazar),18/04/2019,10,Jyoti,1040,1060,1060
+Bara Bazar (Posta Bazar),18/04/2019,10,Other,820,830,830
+Bara Bazar (Posta Bazar),19/04/2019,15,Jyoti,1040,1060,1060
+Bara Bazar (Posta Bazar),19/04/2019,15,Other,830,850,840
+Bara Bazar (Posta Bazar),22/04/2019,7.5,Jyoti,1040,1060,1040
+Bara Bazar (Posta Bazar),22/04/2019,7.5,Other,820,840,820
+Bara Bazar (Posta Bazar),23/04/2019,5,Jyoti,1040,1060,1040
+Bara Bazar (Posta Bazar),23/04/2019,5,Other,800,820,820
+Bara Bazar (Posta Bazar),24/04/2019,8,Jyoti,1040,1060,1040
+Bara Bazar (Posta Bazar),24/04/2019,8,Other,820,840,840
+Bara Bazar (Posta Bazar),25/04/2019,4,Jyoti,980,1000,1000
+Bara Bazar (Posta Bazar),25/04/2019,4,Other,820,830,830
+Bara Bazar (Posta Bazar),26/04/2019,5,Jyoti,1060,1070,1060
+Bara Bazar (Posta Bazar),26/04/2019,5,Other,900,920,900
+Bara Bazar (Posta Bazar),29/04/2019,7.5,Jyoti,1160,1180,1160
+Bara Bazar (Posta Bazar),29/04/2019,7.5,Other,1020,1040,1030
+Bara Bazar (Posta Bazar),30/04/2019,7.5,Jyoti,1120,1130,1120
+Bara Bazar (Posta Bazar),30/04/2019,7.5,Other,1000,1020,1000
+Barasat,01/04/2019,290,Other,760,760,760
+Barasat,02/04/2019,295,Other,760,760,760
+Barasat,03/04/2019,290,Other,770,770,770
+Barasat,04/04/2019,300,Other,780,780,780
+Barasat,05/04/2019,310,Other,790,790,790
+Barasat,06/04/2019,300,Other,790,790,790
+Barasat,07/04/2019,305,Other,800,800,800
+Barasat,08/04/2019,280,Other,890,890,890
+Barasat,09/04/2019,285,Other,890,890,890
+Barasat,10/04/2019,290,Other,900,900,900
+Barasat,11/04/2019,280,Other,920,920,920
+Barasat,12/04/2019,275,Other,930,930,930
+Barasat,13/04/2019,270,Other,930,930,930
+Barasat,14/04/2019,265,Other,NR,NR,NR
+Barasat,15/04/2019,270,Other,NR,NR,NR
+Barasat,16/04/2019,275,Other,980,980,980
+Barasat,17/04/2019,280,Other,980,980,980
+Barasat,18/04/2019,285,Other,990,990,990
+Barasat,19/04/2019,290,Other,1000,1000,1000
+Barasat,20/04/2019,300,Other,1000,1000,1000
+Barasat,21/04/2019,310,Other,1000,1000,1000
+Barasat,22/04/2019,300,Other,1000,1000,1000
+Barasat,23/04/2019,280,Other,1000,1000,1000
+Barasat,24/04/2019,270,Other,1000,1000,1000
+Barasat,25/04/2019,275,Other,1000,1000,1000
+Barasat,26/04/2019,290,Other,960,960,960
+Barasat,28/04/2019,285,Other,1050,1050,1050
+Barasat,29/04/2019,280,Other,1050,1050,1050
+Baruipur(Canning),01/04/2019,27,Jyoti,900,980,950
+Baruipur(Canning),02/04/2019,26,Jyoti,900,960,930
+Baruipur(Canning),03/04/2019,30,Jyoti,880,930,900
+Baruipur(Canning),04/04/2019,30.5,Jyoti,900,950,920
+Baruipur(Canning),05/04/2019,25,Jyoti,880,920,900
+Baruipur(Canning),06/04/2019,24,Jyoti,900,940,920
+Baruipur(Canning),07/04/2019,26,Jyoti,880,920,900
+Baruipur(Canning),08/04/2019,26,Jyoti,900,960,940
+Baruipur(Canning),09/04/2019,25.5,Jyoti,920,980,940
+Baruipur(Canning),10/04/2019,24.5,Jyoti,940,980,960
+Baruipur(Canning),11/04/2019,24,Jyoti,980,1080,1040
+Baruipur(Canning),12/04/2019,23,Jyoti,1000,1080,1050
+Baruipur(Canning),13/04/2019,26,Jyoti,1050,1120,1100
+Baruipur(Canning),14/04/2019,25,Jyoti,1050,1120,1080
+Baruipur(Canning),15/04/2019,27,Jyoti,1050,1120,1100
+Baruipur(Canning),16/04/2019,28,Jyoti,1000,1080,1040
+Baruipur(Canning),17/04/2019,30,Jyoti,1000,1080,1040
+Baruipur(Canning),18/04/2019,26,Jyoti,980,1040,1020
+Baruipur(Canning),19/04/2019,28,Jyoti,1000,1060,1040
+Baruipur(Canning),20/04/2019,26,Jyoti,1000,1080,1050
+Baruipur(Canning),21/04/2019,27,Jyoti,1020,1080,1060
+Baruipur(Canning),22/04/2019,16,Jyoti,900,1000,950
+Baruipur(Canning),24/04/2019,29,Jyoti,1050,1100,1080
+Baruipur(Canning),25/04/2019,30,Jyoti,1050,1100,1080
+Baruipur(Canning),26/04/2019,28,Jyoti,1000,1100,1050
+Baruipur(Canning),27/04/2019,26,Jyoti,1020,1080,1050
+Baruipur(Canning),29/04/2019,29,Jyoti,1050,1100,1080
+Baxirhat,05/04/2019,200,Jyoti,550,650,600
+Baxirhat,06/04/2019,195,Jyoti,550,650,600
+Baxirhat,07/04/2019,195,Jyoti,550,650,600
+Baxirhat,08/04/2019,190,Jyoti,550,650,600
+Baxirhat,09/04/2019,200,Jyoti,550,650,600
+Baxirhat,10/04/2019,195,Jyoti,550,650,600
+Baxirhat,11/04/2019,196,Jyoti,550,650,600
+Baxirhat,12/04/2019,200,Jyoti,550,650,600
+Baxirhat,13/04/2019,210,Jyoti,550,650,600
+Baxirhat,14/04/2019,190,Jyoti,550,650,600
+Baxirhat,15/04/2019,196,Jyoti,550,650,600
+Baxirhat,16/04/2019,210,Jyoti,550,650,600
+Baxirhat,17/04/2019,190,Jyoti,550,650,600
+Baxirhat,21/04/2019,190,Jyoti,550,650,600
+Baxirhat,22/04/2019,195,Jyoti,550,650,600
+Baxirhat,23/04/2019,200,Jyoti,550,650,600
+Baxirhat,24/04/2019,190,Jyoti,550,650,600
+Belacoba,01/04/2019,4,Jyoti,600,650,625
+Belacoba,02/04/2019,4,Jyoti,600,650,625
+Belacoba,03/04/2019,2,Jyoti,1200,1300,1250
+Belacoba,04/04/2019,2,Jyoti,600,650,625
+Beldanga,01/04/2019,55,Jyoti,770,790,780
+Beldanga,02/04/2019,60,Jyoti,770,790,780
+Beldanga,03/04/2019,55,Jyoti,775,790,780
+Beldanga,04/04/2019,55,Jyoti,675,690,680
+Beldanga,05/04/2019,50,Jyoti,675,690,680
+Beldanga,06/04/2019,60,Jyoti,690,710,700
+Beldanga,07/04/2019,55,Jyoti,760,790,780
+Beldanga,08/04/2019,55,Jyoti,760,790,780
+Beldanga,09/04/2019,55,Jyoti,760,790,780
+Beldanga,10/04/2019,55,Jyoti,770,790,780
+Beldanga,11/04/2019,50,Jyoti,770,790,780
+Beldanga,12/04/2019,50,Jyoti,770,790,780
+Beldanga,13/04/2019,50,Jyoti,790,810,800
+Beldanga,14/04/2019,50,Jyoti,810,825,820
+Beldanga,15/04/2019,55,Jyoti,810,825,820
+Beldanga,16/04/2019,55,Jyoti,810,825,820
+Beldanga,17/04/2019,50,Jyoti,795,810,800
+Beldanga,18/04/2019,50,Jyoti,795,810,800
+Beldanga,19/04/2019,50,Jyoti,800,820,810
+Beldanga,20/04/2019,55,Jyoti,850,870,860
+Beldanga,21/04/2019,55,Jyoti,860,875,870
+Beldanga,23/04/2019,55,Jyoti,940,955,950
+Beldanga,24/04/2019,50,Jyoti,950,965,960
+Beldanga,25/04/2019,50,Jyoti,950,965,960
+Beldanga,26/04/2019,55,Jyoti,950,965,960
+Beldanga,28/04/2019,55,Jyoti,950,960,955
+Beldanga,30/04/2019,50,Jyoti,805,820,810
+Bethuadahari,01/04/2019,19,F.A.Q.,600,640,620
+Bethuadahari,02/04/2019,18,F.A.Q.,840,880,860
+Bethuadahari,03/04/2019,17,F.A.Q.,840,880,860
+Bethuadahari,04/04/2019,19,F.A.Q.,840,880,860
+Bethuadahari,05/04/2019,18,F.A.Q.,850,890,870
+Bethuadahari,06/04/2019,19,F.A.Q.,840,880,860
+Bethuadahari,07/04/2019,18,F.A.Q.,820,860,840
+Bethuadahari,08/04/2019,16,F.A.Q.,840,880,860
+Bethuadahari,10/04/2019,17,F.A.Q.,850,890,870
+Bethuadahari,14/04/2019,16,F.A.Q.,800,840,820
+Bethuadahari,15/04/2019,18,F.A.Q.,800,840,820
+Bethuadahari,16/04/2019,17,F.A.Q.,800,840,820
+Bethuadahari,17/04/2019,17,F.A.Q.,800,840,820
+Bethuadahari,18/04/2019,19,F.A.Q.,820,860,840
+Bethuadahari,19/04/2019,19,F.A.Q.,800,840,820
+Bethuadahari,20/04/2019,18,F.A.Q.,800,840,820
+Bethuadahari,21/04/2019,17,F.A.Q.,880,920,900
+Bethuadahari,22/04/2019,17,F.A.Q.,880,920,900
+Bethuadahari,23/04/2019,18,F.A.Q.,900,940,920
+Bethuadahari,24/04/2019,16,F.A.Q.,900,940,920
+Bethuadahari,25/04/2019,18,F.A.Q.,930,970,950
+Bethuadahari,26/04/2019,18,F.A.Q.,930,970,950
+Bethuadahari,27/04/2019,17,F.A.Q.,930,970,950
+Bethuadahari,28/04/2019,17,F.A.Q.,930,970,950
+Bethuadahari,29/04/2019,18,F.A.Q.,930,970,950
+Bethuadahari,30/04/2019,18,F.A.Q.,930,970,950
+Birbhum,01/04/2019,65,Other,500,570,540
+Birbhum,02/04/2019,68,Other,530,580,550
+Birbhum,03/04/2019,65,Other,550,570,560
+Birbhum,04/04/2019,62,Other,520,540,530
+Birbhum,05/04/2019,70,Other,NR,NR,NR
+Birbhum,06/04/2019,70,Other,520,560,530
+Birbhum,07/04/2019,70,Other,550,580,570
+Birbhum,08/04/2019,70,Other,560,600,580
+Birbhum,09/04/2019,75,Other,530,600,560
+Birbhum,11/04/2019,70,Other,560,600,580
+Birbhum,12/04/2019,75,Other,570,600,590
+Birbhum,13/04/2019,74,Other,580,620,600
+Birbhum,14/04/2019,68,Other,580,600,590
+Birbhum,15/04/2019,70,Other,560,580,570
+Birbhum,16/04/2019,70,Other,500,550,520
+Birbhum,17/04/2019,70,Other,600,630,620
+Birbhum,18/04/2019,70,Other,580,660,620
+Birbhum,19/04/2019,70,Other,550,600,560
+Birbhum,20/04/2019,70,Other,500,600,550
+Birbhum,21/04/2019,70,Other,570,600,590
+Birbhum,22/04/2019,70,Other,570,590,580
+Birbhum,25/04/2019,68,Other,560,600,590
+Birbhum,26/04/2019,69,Other,540,580,560
+Bishnupur(Bankura),01/04/2019,5.5,Jyoti,560,600,580
+Bishnupur(Bankura),02/04/2019,7,Jyoti,560,600,580
+Bishnupur(Bankura),03/04/2019,6.5,Jyoti,560,600,580
+Bishnupur(Bankura),04/04/2019,6,Jyoti,560,600,580
+Bishnupur(Bankura),05/04/2019,5.5,Jyoti,560,600,580
+Bishnupur(Bankura),06/04/2019,6,Jyoti,560,600,580
+Bishnupur(Bankura),07/04/2019,5,Jyoti,560,600,580
+Bishnupur(Bankura),08/04/2019,6,Jyoti,560,600,580
+Bishnupur(Bankura),09/04/2019,6.5,Jyoti,620,660,640
+Bishnupur(Bankura),10/04/2019,6,Jyoti,650,700,670
+Bishnupur(Bankura),11/04/2019,5.5,Jyoti,650,700,670
+Bishnupur(Bankura),12/04/2019,6,Jyoti,650,700,670
+Bishnupur(Bankura),13/04/2019,5,Jyoti,650,700,670
+Bishnupur(Bankura),14/04/2019,4.6,Jyoti,660,700,680
+Bishnupur(Bankura),15/04/2019,5.5,Jyoti,670,700,680
+Bishnupur(Bankura),16/04/2019,6.5,Jyoti,670,710,690
+Bishnupur(Bankura),17/04/2019,5.5,Jyoti,680,750,700
+Bishnupur(Bankura),18/04/2019,6,Jyoti,740,800,760
+Bishnupur(Bankura),19/04/2019,6,Jyoti,750,800,770
+Bishnupur(Bankura),20/04/2019,5.5,Jyoti,760,800,780
+Bishnupur(Bankura),21/04/2019,5,Jyoti,770,820,790
+Bishnupur(Bankura),22/04/2019,6.5,Jyoti,770,810,790
+Bishnupur(Bankura),23/04/2019,6.5,Jyoti,780,820,800
+Bishnupur(Bankura),24/04/2019,5.5,Jyoti,790,830,810
+Bishnupur(Bankura),25/04/2019,6.5,Jyoti,790,830,810
+Bishnupur(Bankura),26/04/2019,6,Jyoti,780,830,800
+Bishnupur(Bankura),27/04/2019,6,Jyoti,790,830,810
+Bishnupur(Bankura),28/04/2019,5,Jyoti,790,830,810
+Bishnupur(Bankura),29/04/2019,5.5,Jyoti,790,840,820
+Bishnupur(Bankura),30/04/2019,6.5,Jyoti,800,850,820
+Bolpur,01/04/2019,64,Jyoti,630,700,660
+Bolpur,02/04/2019,64,Jyoti,660,680,670
+Bolpur,03/04/2019,64,Jyoti,650,680,670
+Bolpur,04/04/2019,65,Jyoti,560,590,570
+Bolpur,05/04/2019,64,Jyoti,660,680,670
+Bolpur,06/04/2019,65,Jyoti,640,690,660
+Bolpur,07/04/2019,64,Jyoti,680,730,720
+Bolpur,08/04/2019,62,Jyoti,700,730,720
+Bolpur,09/04/2019,62,Jyoti,700,740,720
+Bolpur,11/04/2019,65,Jyoti,690,730,700
+Bolpur,12/04/2019,65,Jyoti,700,730,720
+Bolpur,14/04/2019,65,Jyoti,710,730,720
+Bolpur,15/04/2019,65,Jyoti,700,730,720
+Bolpur,16/04/2019,65,Jyoti,700,740,720
+Bolpur,17/04/2019,63,Jyoti,720,750,730
+Bolpur,18/04/2019,66,Jyoti,720,760,740
+Bolpur,19/04/2019,70,Jyoti,600,700,650
+Bolpur,20/04/2019,65,Jyoti,660,700,680
+Bolpur,21/04/2019,65,Jyoti,680,710,700
+Bolpur,22/04/2019,65,Jyoti,680,720,700
+Bolpur,25/04/2019,65,Jyoti,640,690,670
+Bolpur,26/04/2019,65,Jyoti,640,680,660
+Burdwan,01/04/2019,41,Jyoti,720,760,740
+Burdwan,02/04/2019,45,Jyoti,720,760,740
+Burdwan,03/04/2019,44,Jyoti,720,760,740
+Burdwan,04/04/2019,44,Jyoti,740,780,760
+Burdwan,05/04/2019,45,Jyoti,780,820,800
+Burdwan,06/04/2019,41,Jyoti,780,820,800
+Burdwan,08/04/2019,43,Jyoti,840,880,860
+Burdwan,09/04/2019,44,Jyoti,820,860,840
+Burdwan,10/04/2019,43,Jyoti,800,840,820
+Burdwan,11/04/2019,42,Jyoti,820,860,840
+Burdwan,12/04/2019,49,Jyoti,820,860,840
+Burdwan,15/04/2019,45,Jyoti,820,860,840
+Burdwan,16/04/2019,46,Jyoti,900,940,920
+Burdwan,17/04/2019,46,Jyoti,900,940,920
+Burdwan,18/04/2019,48,Jyoti,900,940,920
+Burdwan,19/04/2019,47,Jyoti,900,940,920
+Burdwan,20/04/2019,46,Jyoti,900,940,920
+Burdwan,22/04/2019,45,Jyoti,880,920,900
+Burdwan,23/04/2019,48,Jyoti,880,920,900
+Burdwan,24/04/2019,44,Jyoti,880,920,900
+Burdwan,25/04/2019,46,Jyoti,880,920,900
+Burdwan,26/04/2019,45,Jyoti,900,940,920
+Burdwan,27/04/2019,46,Jyoti,900,940,920
+Chakdah,01/04/2019,64,Jyoti,870,890,880
+Chakdah,02/04/2019,65,Jyoti,860,880,870
+Chakdah,03/04/2019,66,Jyoti,880,900,890
+Chakdah,04/04/2019,64,Jyoti,860,880,870
+Chakdah,05/04/2019,63,Jyoti,870,890,880
+Chakdah,06/04/2019,65,Jyoti,890,910,900
+Chakdah,07/04/2019,66,Jyoti,860,880,870
+Chakdah,08/04/2019,64,Jyoti,860,880,870
+Chakdah,09/04/2019,65,Jyoti,940,960,950
+Chakdah,10/04/2019,63,Jyoti,950,970,960
+Chakdah,11/04/2019,64,Jyoti,950,970,960
+Chakdah,12/04/2019,65,Jyoti,980,1000,990
+Chakdah,13/04/2019,63,Jyoti,990,1010,1000
+Chakdah,14/04/2019,64,Jyoti,980,1000,990
+Chakdah,15/04/2019,65,Jyoti,980,1000,990
+Chakdah,16/04/2019,63,Jyoti,990,1010,1000
+Chakdah,17/04/2019,64,Jyoti,1020,1040,1030
+Chakdah,18/04/2019,62,Jyoti,1020,1040,1030
+Chakdah,19/04/2019,63,Jyoti,1020,1040,1030
+Chakdah,20/04/2019,64,Jyoti,990,1010,1000
+Chakdah,21/04/2019,65,Jyoti,980,1000,990
+Chakdah,22/04/2019,63,Jyoti,980,1000,990
+Chakdah,23/04/2019,64,Jyoti,980,1000,990
+Chakdah,24/04/2019,65,Jyoti,1010,1030,1020
+Chakdah,25/04/2019,63,Jyoti,1030,1050,1040
+Chakdah,26/04/2019,64,Jyoti,1010,1030,1020
+Chakdah,27/04/2019,62,Jyoti,1010,1030,1020
+Chakdah,28/04/2019,63,Jyoti,1010,1030,1020
+Chakdah,29/04/2019,61,Jyoti,1030,1050,1040
+Chakdah,30/04/2019,62,Jyoti,1030,1050,1040
+Champadanga,01/04/2019,70,Jyoti,730,740,740
+Champadanga,02/04/2019,66,Jyoti,700,730,720
+Champadanga,03/04/2019,62,Jyoti,720,750,740
+Champadanga,04/04/2019,56,Jyoti,740,770,760
+Champadanga,05/04/2019,48,Jyoti,780,820,800
+Champadanga,06/04/2019,42,Jyoti,840,880,860
+Champadanga,07/04/2019,40,Jyoti,860,900,880
+Champadanga,08/04/2019,44,Jyoti,880,900,900
+Champadanga,09/04/2019,43,Jyoti,880,900,880
+Champadanga,10/04/2019,45,Jyoti,880,900,880
+Champadanga,11/04/2019,45,Jyoti,860,880,880
+Champadanga,12/04/2019,48,Jyoti,860,880,880
+Champadanga,13/04/2019,46,Jyoti,860,880,880
+Champadanga,14/04/2019,50,Jyoti,860,880,880
+Champadanga,15/04/2019,52,Jyoti,860,880,880
+Champadanga,16/04/2019,48,Jyoti,860,880,880
+Champadanga,17/04/2019,54,Jyoti,860,880,880
+Champadanga,18/04/2019,50,Jyoti,860,900,880
+Champadanga,19/04/2019,54,Jyoti,860,900,880
+Champadanga,20/04/2019,56,Jyoti,860,900,880
+Champadanga,21/04/2019,48,Jyoti,860,900,880
+Champadanga,22/04/2019,52,Jyoti,860,900,880
+Champadanga,23/04/2019,51,Jyoti,860,880,880
+Champadanga,24/04/2019,56,Jyoti,850,880,860
+Champadanga,25/04/2019,54,Jyoti,850,870,860
+Champadanga,26/04/2019,58,Jyoti,850,870,860
+Champadanga,27/04/2019,55,Jyoti,900,940,920
+Champadanga,28/04/2019,52,Jyoti,940,980,960
+Champadanga,29/04/2019,48,Jyoti,980,1020,1000
+Champadanga,30/04/2019,50,Jyoti,1020,1060,1040
+Coochbehar,01/04/2019,1.5,Jyoti,530,570,560
+Coochbehar,02/04/2019,1.3,Jyoti,530,570,560
+Coochbehar,03/04/2019,1.6,Jyoti,530,570,560
+Coochbehar,04/04/2019,1.5,Jyoti,530,575,560
+Coochbehar,05/04/2019,1.5,Jyoti,520,570,560
+Coochbehar,06/04/2019,1.6,Jyoti,520,560,550
+Coochbehar,07/04/2019,1.6,Jyoti,530,570,560
+Coochbehar,08/04/2019,1.5,Jyoti,530,560,550
+Coochbehar,09/04/2019,1.3,Jyoti,530,560,550
+Coochbehar,10/04/2019,1.5,Jyoti,520,560,550
+Coochbehar,11/04/2019,1.3,Jyoti,520,560,550
+Coochbehar,12/04/2019,1.5,Jyoti,530,560,550
+Coochbehar,14/04/2019,1.3,Jyoti,530,560,550
+Coochbehar,15/04/2019,1.1,Jyoti,530,580,560
+Coochbehar,16/04/2019,1.8,Jyoti,540,570,550
+Coochbehar,17/04/2019,1.5,Jyoti,530,580,550
+Coochbehar,18/04/2019,1.4,Jyoti,540,600,570
+Coochbehar,19/04/2019,1.5,Jyoti,540,600,570
+Coochbehar,20/04/2019,1.3,Jyoti,540,600,575
+Coochbehar,21/04/2019,1.3,Jyoti,540,600,570
+Coochbehar,22/04/2019,1.3,Jyoti,540,600,570
+Coochbehar,23/04/2019,1.4,Jyoti,540,600,570
+Coochbehar,24/04/2019,1.6,Jyoti,550,600,580
+Coochbehar,25/04/2019,1.4,Jyoti,550,600,580
+Coochbehar,26/04/2019,1.3,Jyoti,550,600,580
+Coochbehar,27/04/2019,1.5,Jyoti,570,630,600
+Coochbehar,28/04/2019,1.4,Jyoti,580,650,610
+Coochbehar,29/04/2019,1.5,Jyoti,580,650,620
+Coochbehar,30/04/2019,1.5,Jyoti,580,650,630
+Darjeeling,01/04/2019,0.5,Local,1300,1500,1400
+Darjeeling,02/04/2019,1,Local,1300,1500,1400
+Darjeeling,03/04/2019,1,Local,1300,1500,1400
+Darjeeling,04/04/2019,0.8,Local,1300,1500,1400
+Darjeeling,05/04/2019,0.7,Local,1100,1300,1200
+Darjeeling,06/04/2019,1,Local,1100,1300,1200
+Darjeeling,07/04/2019,0.5,Local,1100,1300,1200
+Darjeeling,08/04/2019,0.6,Local,1100,1300,1200
+Darjeeling,09/04/2019,0.5,Local,1100,1300,1200
+Darjeeling,10/04/2019,0.8,Local,1100,1300,1200
+Darjeeling,11/04/2019,0.4,Local,1100,1300,1200
+Darjeeling,19/04/2019,0.7,Local,1100,1300,1200
+Darjeeling,20/04/2019,1,Local,1100,1300,1200
+Darjeeling,21/04/2019,0.6,Local,1100,1300,1200
+Darjeeling,22/04/2019,0.7,Local,1100,1300,1200
+Darjeeling,23/04/2019,0.7,Local,1100,1300,1200
+Darjeeling,24/04/2019,0.8,Local,1100,1300,1200
+Darjeeling,25/04/2019,0.7,Local,1100,1300,1200
+Darjeeling,26/04/2019,0.5,Local,1100,1300,1200
+Darjeeling,27/04/2019,0.8,Local,1200,1400,1300
+Darjeeling,28/04/2019,0.6,Local,1200,1400,1300
+Darjeeling,29/04/2019,1,Local,1200,1400,1300
+Darjeeling,30/04/2019,1.2,Local,1400,1600,1500
+Dhupguri,01/04/2019,34,Jyoti,525,650,575
+Dhupguri,02/04/2019,44,Jyoti,550,675,650
+Dhupguri,03/04/2019,44,Jyoti,500,600,550
+Dhupguri,04/04/2019,34,Jyoti,480,600,550
+Dhupguri,05/04/2019,34,Jyoti,500,600,550
+Dhupguri,08/04/2019,44,Jyoti,520,600,550
+Dhupguri,09/04/2019,33,Jyoti,525,650,575
+Dhupguri,10/04/2019,33,Jyoti,525,600,560
+Dhupguri,11/04/2019,33,Jyoti,550,700,600
+Dhupguri,12/04/2019,32,Jyoti,550,700,650
+Dhupguri,13/04/2019,28,Jyoti,550,700,625
+Dhupguri,14/04/2019,35,Jyoti,550,725,650
+Dhupguri,15/04/2019,35,Jyoti,550,725,650
+Dhupguri,16/04/2019,34,Jyoti,550,725,650
+Dhupguri,17/04/2019,33,Jyoti,625,700,680
+Dhupguri,18/04/2019,35,Jyoti,570,725,650
+Dhupguri,19/04/2019,36,Jyoti,650,700,680
+Dhupguri,20/04/2019,33,Jyoti,650,700,680
+Dhupguri,21/04/2019,35,Jyoti,650,750,700
+Dhupguri,22/04/2019,36,Jyoti,600,750,700
+Dhupguri,23/04/2019,35,Jyoti,650,800,700
+Dhupguri,24/04/2019,35,Jyoti,650,750,700
+Dhupguri,25/04/2019,35,Jyoti,650,750,700
+Dhupguri,26/04/2019,35,Jyoti,660,700,680
+Dhupguri,27/04/2019,28,Jyoti,670,700,680
+Dhupguri,28/04/2019,35,Jyoti,670,700,680
+Dhupguri,29/04/2019,35,Jyoti,660,700,680
+Dhupguri,30/04/2019,35,Jyoti,650,775,725
+Diamond Harbour(South 24-pgs),01/04/2019,35,Jyoti,860,900,880
+Diamond Harbour(South 24-pgs),02/04/2019,34,Jyoti,820,860,840
+Diamond Harbour(South 24-pgs),03/04/2019,35,Jyoti,830,850,840
+Diamond Harbour(South 24-pgs),04/04/2019,33,Jyoti,830,890,860
+Diamond Harbour(South 24-pgs),05/04/2019,32,Jyoti,880,920,900
+Diamond Harbour(South 24-pgs),06/04/2019,30,Jyoti,970,1030,1000
+Diamond Harbour(South 24-pgs),07/04/2019,28,Jyoti,990,1050,1020
+Diamond Harbour(South 24-pgs),08/04/2019,30,Jyoti,1000,1040,1020
+Diamond Harbour(South 24-pgs),09/04/2019,33,Jyoti,990,1050,1020
+Diamond Harbour(South 24-pgs),10/04/2019,34,Jyoti,1010,1030,1020
+Diamond Harbour(South 24-pgs),11/04/2019,32,Jyoti,980,1060,1020
+Diamond Harbour(South 24-pgs),12/04/2019,33,Jyoti,990,1050,1020
+Diamond Harbour(South 24-pgs),13/04/2019,35,Jyoti,1000,1040,1020
+Diamond Harbour(South 24-pgs),14/04/2019,36,Jyoti,1000,1020,1010
+Diamond Harbour(South 24-pgs),15/04/2019,34,Jyoti,990,1050,1020
+Diamond Harbour(South 24-pgs),17/04/2019,30,Jyoti,1020,1060,1040
+Diamond Harbour(South 24-pgs),18/04/2019,33,Jyoti,1000,1040,1020
+Diamond Harbour(South 24-pgs),19/04/2019,32,Jyoti,990,1050,1020
+Diamond Harbour(South 24-pgs),20/04/2019,33,Jyoti,1000,1040,1020
+Diamond Harbour(South 24-pgs),21/04/2019,32,Jyoti,1010,1050,1030
+Diamond Harbour(South 24-pgs),22/04/2019,34,Jyoti,990,1050,1020
+Diamond Harbour(South 24-pgs),23/04/2019,35,Jyoti,1000,1060,1030
+Diamond Harbour(South 24-pgs),24/04/2019,33,Jyoti,1000,1040,1020
+Diamond Harbour(South 24-pgs),25/04/2019,35,Jyoti,1020,1040,1030
+Diamond Harbour(South 24-pgs),26/04/2019,33,Jyoti,1010,1030,1020
+Diamond Harbour(South 24-pgs),27/04/2019,34,Jyoti,1020,1040,1030
+Diamond Harbour(South 24-pgs),28/04/2019,35,Jyoti,1010,1030,1020
+Diamond Harbour(South 24-pgs),29/04/2019,33,Jyoti,1180,1220,1200
+Diamond Harbour(South 24-pgs),30/04/2019,34,Jyoti,1200,1240,1220
+Dinhata,01/04/2019,6,Jyoti,500,550,525
+Dinhata,02/04/2019,6.5,Jyoti,500,550,525
+Dinhata,03/04/2019,7,Jyoti,500,550,525
+Dinhata,04/04/2019,6.5,Jyoti,525,575,550
+Dinhata,06/04/2019,6,Jyoti,525,575,550
+Dinhata,07/04/2019,6.5,Jyoti,525,575,550
+Dinhata,08/04/2019,6,Jyoti,525,575,550
+Dinhata,09/04/2019,6.5,Jyoti,525,575,550
+Dinhata,15/04/2019,6,Jyoti,550,600,575
+Dinhata,16/04/2019,5.5,Jyoti,550,600,575
+Dinhata,17/04/2019,5,Jyoti,550,600,575
+Dinhata,18/04/2019,5.5,Jyoti,550,600,575
+Dinhata,20/04/2019,5,Jyoti,550,600,575
+Dinhata,21/04/2019,4.5,Jyoti,550,600,575
+Dinhata,22/04/2019,4,Jyoti,550,600,575
+Dinhata,23/04/2019,4.5,Other,550,600,575
+Dinhata,24/04/2019,4,Jyoti,500,600,550
+Dinhata,25/04/2019,0.37,Jyoti,500,600,550
+Dinhata,26/04/2019,3.5,Jyoti,525,600,550
+Dinhata,27/04/2019,3,Jyoti,550,600,575
+Dinhata,28/04/2019,2.7,Jyoti,550,600,575
+Dinhata,29/04/2019,2.5,Jyoti,550,600,575
+Dinhata,30/04/2019,3,Jyoti,550,600,575
+Durgapur,01/04/2019,780,Jyoti,580,600,590
+Durgapur,01/04/2019,780,Other,570,590,580
+Durgapur,02/04/2019,790,Jyoti,580,600,590
+Durgapur,02/04/2019,790,Other,570,590,580
+Durgapur,03/04/2019,780,Jyoti,600,620,610
+Durgapur,03/04/2019,780,Other,580,600,590
+Durgapur,04/04/2019,770,Jyoti,600,620,610
+Durgapur,04/04/2019,770,Other,590,610,600
+Durgapur,05/04/2019,790,Jyoti,600,620,610
+Durgapur,05/04/2019,790,Other,590,610,600
+Durgapur,06/04/2019,800,Jyoti,620,640,630
+Durgapur,06/04/2019,800,Other,600,620,610
+Durgapur,07/04/2019,780,Jyoti,700,740,720
+Durgapur,07/04/2019,780,Other,680,700,690
+Durgapur,08/04/2019,760,Jyoti,800,840,820
+Durgapur,08/04/2019,760,Other,780,820,800
+Durgapur,09/04/2019,750,Jyoti,850,900,870
+Durgapur,09/04/2019,750,Other,820,870,850
+Durgapur,10/04/2019,780,Jyoti,410,420,415
+Durgapur,10/04/2019,780,Other,390,410,400
+Durgapur,11/04/2019,800,Jyoti,820,840,830
+Durgapur,11/04/2019,800,Other,780,820,800
+Durgapur,12/04/2019,810,Jyoti,800,820,810
+Durgapur,12/04/2019,810,Other,780,800,790
+Durgapur,13/04/2019,820,Jyoti,810,830,820
+Durgapur,13/04/2019,820,Other,800,820,810
+Durgapur,14/04/2019,830,Jyoti,810,830,820
+Durgapur,14/04/2019,830,Other,800,820,810
+Durgapur,15/04/2019,830,Jyoti,810,830,820
+Durgapur,15/04/2019,830,Other,800,820,810
+Durgapur,16/04/2019,840,Jyoti,800,820,810
+Durgapur,16/04/2019,840,Other,790,810,800
+Durgapur,19/04/2019,870,Jyoti,840,860,850
+Durgapur,19/04/2019,870,Other,820,840,830
+Durgapur,20/04/2019,880,Jyoti,830,850,840
+Durgapur,20/04/2019,880,Other,810,830,820
+Durgapur,21/04/2019,900,Jyoti,810,830,820
+Durgapur,21/04/2019,900,Other,770,810,790
+Durgapur,22/04/2019,920,Jyoti,800,820,810
+Durgapur,22/04/2019,920,Other,760,800,780
+Durgapur,23/04/2019,930,Jyoti,820,840,830
+Durgapur,23/04/2019,930,Other,760,800,780
+Durgapur,24/04/2019,910,Jyoti,830,850,840
+Durgapur,24/04/2019,910,Other,760,800,790
+Durgapur,25/04/2019,890,Jyoti,860,880,870
+Durgapur,25/04/2019,890,Other,790,820,810
+Durgapur,26/04/2019,870,Jyoti,800,840,820
+Durgapur,26/04/2019,870,Other,700,730,720
+Durgapur,27/04/2019,890,Jyoti,800,840,820
+Durgapur,27/04/2019,890,Other,760,810,790
+Durgapur,29/04/2019,850,Jyoti,820,860,840
+Durgapur,29/04/2019,850,Other,780,820,800
+Durgapur,30/04/2019,870,Jyoti,800,840,820
+Durgapur,30/04/2019,870,Other,760,800,780
+English Bazar,01/04/2019,46.5,Local,560,600,580
+English Bazar,02/04/2019,52.4,Local,520,560,550
+English Bazar,03/04/2019,51.6,Local,520,560,550
+English Bazar,06/04/2019,54,Local,500,540,520
+English Bazar,07/04/2019,51.6,Local,500,550,540
+English Bazar,08/04/2019,52,Local,NR,NR,NR
+English Bazar,09/04/2019,48.6,Local,580,620,600
+English Bazar,10/04/2019,48.8,Local,580,620,600
+English Bazar,11/04/2019,48,Local,580,620,600
+English Bazar,12/04/2019,47,Local,580,620,600
+English Bazar,13/04/2019,45.8,Local,560,600,580
+English Bazar,14/04/2019,47.6,Local,540,580,560
+English Bazar,15/04/2019,45.6,Local,550,580,560
+English Bazar,17/04/2019,45.6,Local,580,620,600
+English Bazar,18/04/2019,44.6,Local,580,620,600
+English Bazar,20/04/2019,46.8,Local,580,620,600
+English Bazar,21/04/2019,46.5,Local,580,620,600
+English Bazar,22/04/2019,42.6,Local,560,620,600
+English Bazar,24/04/2019,45.6,Local,600,640,620
+English Bazar,25/04/2019,45,Local,650,680,660
+English Bazar,27/04/2019,47.6,Local,680,720,700
+English Bazar,28/04/2019,44,Local,680,720,700
+English Bazar,29/04/2019,46,Local,700,720,700
+English Bazar,30/04/2019,46.5,Local,700,740,720
+Falakata,01/04/2019,10,Jyoti,550,600,580
+Falakata,01/04/2019,10,Red,800,900,850
+Falakata,02/04/2019,10,Jyoti,580,620,600
+Falakata,02/04/2019,10,Red,800,900,850
+Falakata,03/04/2019,10,Jyoti,560,600,580
+Falakata,03/04/2019,10,Red,800,900,850
+Falakata,04/04/2019,10,Jyoti,560,600,580
+Falakata,04/04/2019,10,Red,800,900,850
+Falakata,05/04/2019,10,Jyoti,550,600,580
+Falakata,05/04/2019,10,Red,800,900,850
+Falakata,06/04/2019,10,Jyoti,550,600,580
+Falakata,06/04/2019,10,Red,800,900,850
+Falakata,08/04/2019,10,Jyoti,550,600,580
+Falakata,08/04/2019,10,Red,800,900,850
+Falakata,09/04/2019,10,Jyoti,600,620,610
+Falakata,09/04/2019,10,Red,800,900,850
+Falakata,10/04/2019,10,Jyoti,600,620,610
+Falakata,10/04/2019,10,Red,800,900,850
+Falakata,16/04/2019,10,Jyoti,680,710,700
+Falakata,16/04/2019,10,Red,850,950,900
+Falakata,17/04/2019,10,Jyoti,650,720,700
+Falakata,17/04/2019,10,Red,850,950,900
+Falakata,18/04/2019,10,Jyoti,670,720,700
+Falakata,18/04/2019,10,Red,900,1000,950
+Falakata,22/04/2019,10,Jyoti,680,750,700
+Falakata,22/04/2019,10,Red,1050,1150,1100
+Falakata,23/04/2019,10,Jyoti,680,750,700
+Falakata,23/04/2019,10,Red,1050,1150,1100
+Falakata,24/04/2019,10,Jyoti,680,750,700
+Falakata,24/04/2019,10,Red,1050,1150,1100
+Falakata,25/04/2019,10,Jyoti,680,730,700
+Falakata,25/04/2019,10,Red,1050,1150,1100
+Falakata,26/04/2019,10,Jyoti,620,700,650
+Falakata,26/04/2019,10,Red,1000,1100,1050
+Falakata,27/04/2019,10,Jyoti,620,700,650
+Falakata,27/04/2019,10,Red,1000,1100,1050
+Falakata,29/04/2019,10,Jyoti,620,700,650
+Falakata,29/04/2019,10,Red,1000,1100,1050
+Falakata,30/04/2019,10,Jyoti,620,700,650
+Falakata,30/04/2019,10,Red,1000,1100,1050
+Gajol,01/04/2019,20,Local,500,540,520
+Gajol,02/04/2019,20,Local,480,520,500
+Gajol,03/04/2019,20,Local,480,520,500
+Gajol,06/04/2019,23.5,Local,480,520,500
+Gajol,07/04/2019,22,Local,480,520,500
+Gajol,08/04/2019,20,Local,NR,NR,NR
+Gajol,09/04/2019,22,Local,560,580,570
+Gajol,10/04/2019,20,Local,560,580,570
+Gajol,11/04/2019,40,Local,540,560,550
+Gajol,12/04/2019,25,Local,540,560,550
+Gajol,13/04/2019,20,Local,520,560,540
+Gajol,14/04/2019,23,Local,540,560,550
+Gajol,15/04/2019,24,Local,520,560,540
+Gajol,16/04/2019,20,Local,540,560,550
+Gajol,17/04/2019,20,Local,540,560,550
+Gajol,18/04/2019,30,Local,540,560,550
+Gajol,19/04/2019,22,Local,540,560,550
+Gajol,20/04/2019,23.5,Local,520,560,550
+Gajol,21/04/2019,26.4,Local,580,620,600
+Gajol,22/04/2019,25,Local,520,560,540
+Gajol,24/04/2019,24,Local,560,600,580
+Gajol,25/04/2019,25,Local,580,640,600
+Gajol,26/04/2019,20,Local,600,700,650
+Gajol,27/04/2019,22,Local,640,680,660
+Gajol,28/04/2019,24,Local,660,700,680
+Gajol,29/04/2019,22,Local,680,720,700
+Gajol,30/04/2019,22,Local,680,720,700
+Gangarampur(Dakshin Dinajpur),01/04/2019,4.3,Local,530,560,550
+Gangarampur(Dakshin Dinajpur),02/04/2019,4,Local,550,600,580
+Gangarampur(Dakshin Dinajpur),03/04/2019,3.8,Local,580,630,600
+Gangarampur(Dakshin Dinajpur),04/04/2019,3.7,Local,600,650,630
+Gangarampur(Dakshin Dinajpur),05/04/2019,3.6,Local,620,650,640
+Gangarampur(Dakshin Dinajpur),06/04/2019,3.5,Local,600,650,630
+Gangarampur(Dakshin Dinajpur),07/04/2019,3.8,Local,620,640,630
+Gangarampur(Dakshin Dinajpur),08/04/2019,4,Local,600,630,620
+Gangarampur(Dakshin Dinajpur),09/04/2019,4.2,Local,600,630,620
+Gangarampur(Dakshin Dinajpur),10/04/2019,4.3,Local,610,640,630
+Gangarampur(Dakshin Dinajpur),11/04/2019,4,Local,610,640,630
+Gangarampur(Dakshin Dinajpur),15/04/2019,3.8,Local,640,680,660
+Gangarampur(Dakshin Dinajpur),16/04/2019,3.5,Local,650,690,670
+Gangarampur(Dakshin Dinajpur),17/04/2019,3.4,Local,660,700,680
+Gangarampur(Dakshin Dinajpur),18/04/2019,3.5,Local,670,700,680
+Gangarampur(Dakshin Dinajpur),19/04/2019,3.6,Local,670,700,690
+Gangarampur(Dakshin Dinajpur),20/04/2019,3.9,Local,670,700,680
+Gangarampur(Dakshin Dinajpur),21/04/2019,3.7,Local,670,700,690
+Gangarampur(Dakshin Dinajpur),22/04/2019,3.5,Local,680,700,690
+Gangarampur(Dakshin Dinajpur),23/04/2019,3.3,Local,670,700,690
+Gangarampur(Dakshin Dinajpur),24/04/2019,3.4,Local,680,700,690
+Gangarampur(Dakshin Dinajpur),25/04/2019,3,Local,680,700,690
+Gangarampur(Dakshin Dinajpur),26/04/2019,3.2,Local,680,700,690
+Gangarampur(Dakshin Dinajpur),28/04/2019,3.4,Local,690,710,700
+Gangarampur(Dakshin Dinajpur),30/04/2019,3.6,Local,680,700,690
+Garbeta(Medinipur),01/04/2019,2,Jyoti,530,570,550
+Garbeta(Medinipur),02/04/2019,2,Jyoti,510,550,530
+Garbeta(Medinipur),03/04/2019,2,Jyoti,490,530,510
+Garbeta(Medinipur),06/04/2019,2,Jyoti,490,530,510
+Garbeta(Medinipur),07/04/2019,2,Jyoti,490,530,510
+Garbeta(Medinipur),08/04/2019,2,Jyoti,720,760,740
+Garbeta(Medinipur),09/04/2019,2,Jyoti,720,760,740
+Garbeta(Medinipur),10/04/2019,2,Jyoti,720,760,740
+Garbeta(Medinipur),11/04/2019,3,Jyoti,680,720,700
+Garbeta(Medinipur),14/04/2019,2,Jyoti,680,720,700
+Garbeta(Medinipur),15/04/2019,2,Jyoti,680,720,700
+Garbeta(Medinipur),16/04/2019,3,Jyoti,780,820,800
+Garbeta(Medinipur),17/04/2019,2,Jyoti,780,820,800
+Garbeta(Medinipur),18/04/2019,2,Jyoti,780,820,800
+Garbeta(Medinipur),19/04/2019,2,Jyoti,780,820,800
+Garbeta(Medinipur),20/04/2019,2,Jyoti,780,820,800
+Garbeta(Medinipur),21/04/2019,2,Jyoti,780,820,800
+Ghatal,01/04/2019,210,Jyoti,500,550,530
+Ghatal,02/04/2019,160,Jyoti,550,600,580
+Ghatal,03/04/2019,150,Jyoti,550,600,580
+Ghatal,04/04/2019,120,Jyoti,650,700,680
+Ghatal,05/04/2019,110,Jyoti,650,700,680
+Ghatal,06/04/2019,120,Jyoti,680,730,700
+Ghatal,08/04/2019,130,Jyoti,680,730,700
+Ghatal,09/04/2019,150,Jyoti,680,730,700
+Ghatal,10/04/2019,120,Jyoti,650,730,700
+Ghatal,12/04/2019,110,Jyoti,700,750,730
+Ghatal,13/04/2019,110,Jyoti,680,730,700
+Ghatal,16/04/2019,90,Jyoti,750,800,780
+Ghatal,17/04/2019,110,Jyoti,750,800,780
+Ghatal,18/04/2019,120,Jyoti,700,750,730
+Ghatal,19/04/2019,140,Jyoti,700,800,750
+Ghatal,20/04/2019,110,Jyoti,700,800,750
+Ghatal,22/04/2019,120,Jyoti,700,750,730
+Ghatal,23/04/2019,110,Jyoti,700,750,730
+Ghatal,24/04/2019,120,Jyoti,750,800,780
+Ghatal,25/04/2019,95,Jyoti,850,900,880
+Ghatal,26/04/2019,120,Jyoti,850,900,880
+Ghatal,27/04/2019,110,Jyoti,850,900,880
+Ghatal,30/04/2019,120,Jyoti,900,980,950
+Guskara(Burdwan),01/04/2019,37,Jyoti,660,700,680
+Guskara(Burdwan),02/04/2019,39,Jyoti,680,720,700
+Guskara(Burdwan),03/04/2019,39,Jyoti,680,720,700
+Guskara(Burdwan),04/04/2019,38,Jyoti,700,740,720
+Guskara(Burdwan),05/04/2019,37,Jyoti,700,740,720
+Guskara(Burdwan),06/04/2019,37,Jyoti,700,740,720
+Guskara(Burdwan),08/04/2019,37,Jyoti,700,740,720
+Guskara(Burdwan),09/04/2019,40,Jyoti,700,740,720
+Guskara(Burdwan),10/04/2019,37,Jyoti,700,740,720
+Guskara(Burdwan),11/04/2019,37,Jyoti,680,720,700
+Guskara(Burdwan),12/04/2019,39,Jyoti,680,720,700
+Guskara(Burdwan),13/04/2019,38,Jyoti,680,720,700
+Guskara(Burdwan),15/04/2019,39,Jyoti,680,720,700
+Guskara(Burdwan),16/04/2019,39,Jyoti,780,820,800
+Guskara(Burdwan),17/04/2019,39,Jyoti,780,820,800
+Guskara(Burdwan),18/04/2019,42,Jyoti,780,820,800
+Guskara(Burdwan),19/04/2019,38,Jyoti,780,820,800
+Guskara(Burdwan),20/04/2019,39,Jyoti,780,820,800
+Guskara(Burdwan),22/04/2019,41,Jyoti,780,820,800
+Guskara(Burdwan),23/04/2019,42,Jyoti,780,820,800
+Guskara(Burdwan),24/04/2019,38,Jyoti,780,820,800
+Guskara(Burdwan),25/04/2019,39,Jyoti,780,820,800
+Guskara(Burdwan),26/04/2019,39,Jyoti,780,820,800
+Guskara(Burdwan),27/04/2019,38,Jyoti,780,820,800
+Habra,01/04/2019,210,Other,760,800,760
+Habra,02/04/2019,215,Other,760,800,760
+Habra,03/04/2019,220,Other,760,800,760
+Habra,04/04/2019,220,Other,780,820,780
+Habra,05/04/2019,210,Other,800,840,820
+Habra,06/04/2019,200,Other,800,840,820
+Habra,07/04/2019,170,Other,NR,NR,NR
+Habra,08/04/2019,150,Other,840,860,840
+Habra,09/04/2019,150,Other,840,860,840
+Habra,10/04/2019,140,Other,880,920,900
+Habra,11/04/2019,130,Other,880,920,900
+Habra,12/04/2019,125,Other,880,920,900
+Habra,13/04/2019,124,Other,880,920,900
+Habra,14/04/2019,120,Other,880,920,900
+Habra,15/04/2019,110,Other,880,920,900
+Habra,16/04/2019,100,Other,980,1000,980
+Habra,17/04/2019,100,Other,980,1000,980
+Habra,18/04/2019,100,Other,980,1000,980
+Habra,19/04/2019,95,Other,980,1000,980
+Habra,20/04/2019,90,Other,1000,1000,1000
+Habra,21/04/2019,87,Other,1000,1020,1000
+Habra,22/04/2019,85,Other,1000,1020,1000
+Habra,23/04/2019,35,Other,1000,1020,1000
+Habra,24/04/2019,32,Other,1000,1020,1000
+Habra,25/04/2019,32,Other,1000,1020,1000
+Habra,26/04/2019,25,Other,1000,1020,1000
+Habra,27/04/2019,27,Other,1000,1020,1000
+Habra,28/04/2019,27,Other,1100,1200,1160
+Habra,29/04/2019,26,Other,1100,1200,1160
+Habra,30/04/2019,25.5,Other,1100,1200,1160
+Haldibari,07/04/2019,4,Jyoti,550,570,560
+Haldibari,08/04/2019,5,Jyoti,560,600,580
+Haldibari,09/04/2019,5.5,Jyoti,560,600,580
+Haldibari,10/04/2019,5,Jyoti,570,620,590
+Haldibari,11/04/2019,5.5,Jyoti,570,620,590
+Haldibari,12/04/2019,5,Jyoti,560,600,580
+Haldibari,13/04/2019,4.5,Jyoti,560,600,580
+Haldibari,14/04/2019,4,Jyoti,580,620,600
+Haldibari,15/04/2019,4.5,Jyoti,580,620,600
+Haldibari,16/04/2019,4.7,Jyoti,580,620,600
+Haldibari,17/04/2019,4.5,Jyoti,590,630,610
+Haldibari,18/04/2019,4,Jyoti,590,630,610
+Haldibari,19/04/2019,0.4,Jyoti,580,610,600
+Haldibari,20/04/2019,4,Jyoti,580,610,600
+Haldibari,24/04/2019,3.5,Jyoti,610,630,610
+Haldibari,25/04/2019,3.7,Jyoti,610,630,620
+Haldibari,26/04/2019,3.2,Jyoti,620,640,630
+Haldibari,28/04/2019,3.2,Jyoti,620,640,630
+Haldibari,29/04/2019,3.5,Jyoti,630,650,640
+Haldibari,30/04/2019,3.2,Jyoti,630,650,640
+Indus(Bankura Sadar),01/04/2019,14,Jyoti,600,640,630
+Indus(Bankura Sadar),02/04/2019,12,Jyoti,600,620,610
+Indus(Bankura Sadar),03/04/2019,10,Jyoti,600,620,610
+Indus(Bankura Sadar),04/04/2019,10,Jyoti,600,620,610
+Indus(Bankura Sadar),05/04/2019,11,Jyoti,640,680,660
+Indus(Bankura Sadar),06/04/2019,10,Jyoti,640,680,660
+Indus(Bankura Sadar),08/04/2019,12,Jyoti,640,680,660
+Indus(Bankura Sadar),09/04/2019,10,Jyoti,640,680,660
+Indus(Bankura Sadar),10/04/2019,12,Jyoti,640,670,660
+Indus(Bankura Sadar),11/04/2019,10,Jyoti,640,670,660
+Indus(Bankura Sadar),12/04/2019,8,Jyoti,710,740,730
+Indus(Bankura Sadar),13/04/2019,10,Jyoti,710,740,730
+Indus(Bankura Sadar),16/04/2019,8,Jyoti,700,720,710
+Indus(Bankura Sadar),17/04/2019,10,Jyoti,700,720,710
+Indus(Bankura Sadar),18/04/2019,8,Jyoti,720,750,740
+Indus(Bankura Sadar),20/04/2019,10,Jyoti,720,750,740
+Indus(Bankura Sadar),22/04/2019,8,Jyoti,720,750,740
+Indus(Bankura Sadar),23/04/2019,10,Jyoti,720,760,740
+Indus(Bankura Sadar),24/04/2019,8,Jyoti,720,760,740
+Indus(Bankura Sadar),25/04/2019,10,Jyoti,720,760,740
+Indus(Bankura Sadar),26/04/2019,8,Jyoti,720,760,740
+Indus(Bankura Sadar),27/04/2019,6,Jyoti,720,760,740
+Indus(Bankura Sadar),29/04/2019,8,Jyoti,730,760,750
+Indus(Bankura Sadar),30/04/2019,10,Jyoti,800,840,830
+Islampur,01/04/2019,64,Jyoti,560,590,580
+Islampur,02/04/2019,64,Jyoti,560,590,580
+Islampur,03/04/2019,63,Jyoti,550,590,580
+Islampur,04/04/2019,63,Jyoti,550,590,580
+Islampur,05/04/2019,63,Jyoti,550,590,580
+Islampur,06/04/2019,60,Jyoti,540,580,560
+Islampur,07/04/2019,60,Jyoti,540,580,560
+Islampur,08/04/2019,57.5,Jyoti,540,570,560
+Islampur,09/04/2019,57.5,Jyoti,540,570,560
+Islampur,10/04/2019,57.5,Jyoti,540,570,560
+Islampur,11/04/2019,60,Jyoti,550,590,570
+Islampur,12/04/2019,60,Jyoti,550,590,570
+Islampur,13/04/2019,54,Jyoti,550,590,570
+Islampur,14/04/2019,54,Jyoti,550,590,570
+Islampur,15/04/2019,55,Jyoti,570,600,580
+Islampur,16/04/2019,55,Jyoti,570,600,580
+Islampur,17/04/2019,55,Jyoti,570,600,580
+Islampur,18/04/2019,50,Jyoti,560,590,570
+Islampur,19/04/2019,50,Jyoti,560,590,570
+Islampur,20/04/2019,45,Jyoti,580,610,600
+Islampur,21/04/2019,45,Jyoti,580,610,600
+Islampur,22/04/2019,45,Jyoti,580,610,600
+Islampur,23/04/2019,43,Jyoti,580,610,600
+Islampur,24/04/2019,43,Jyoti,580,610,600
+Islampur,25/04/2019,43,Jyoti,580,610,600
+Islampur,26/04/2019,40,Jyoti,580,610,600
+Islampur,27/04/2019,37,Jyoti,570,620,600
+Islampur,28/04/2019,37,Jyoti,570,620,600
+Islampur,29/04/2019,36,Jyoti,580,630,600
+Islampur,30/04/2019,35,Jyoti,580,630,600
+Jangipur,01/04/2019,193.5,Jyoti,640,710,675
+Jangipur,02/04/2019,194,Jyoti,640,710,680
+Jangipur,03/04/2019,193.5,Jyoti,655,720,690
+Jangipur,04/04/2019,193,Jyoti,660,725,690
+Jangipur,05/04/2019,192.5,Jyoti,685,740,710
+Jangipur,06/04/2019,193,Jyoti,685,740,710
+Jangipur,07/04/2019,192.5,Jyoti,695,750,720
+Jangipur,08/04/2019,192,Jyoti,695,750,725
+Jangipur,09/04/2019,191.5,Jyoti,695,750,725
+Jangipur,10/04/2019,192,Jyoti,NR,NR,NR
+Jangipur,11/04/2019,192.5,Jyoti,685,735,710
+Jangipur,12/04/2019,192,Jyoti,690,740,720
+Jangipur,13/04/2019,191.5,Jyoti,700,750,730
+Jangipur,14/04/2019,191,Jyoti,700,750,730
+Jangipur,15/04/2019,191.5,Jyoti,700,745,725
+Jangipur,16/04/2019,191,Jyoti,700,745,725
+Jangipur,17/04/2019,190,Jyoti,710,755,730
+Jangipur,18/04/2019,189,Jyoti,725,765,745
+Jangipur,19/04/2019,188.5,Jyoti,725,770,745
+Jangipur,20/04/2019,188,Jyoti,725,775,745
+Jangipur,21/04/2019,187.5,Jyoti,730,780,755
+Jangipur,24/04/2019,186.5,Jyoti,750,800,770
+Jangipur,25/04/2019,186,Jyoti,750,810,775
+Jangipur,26/04/2019,186,Jyoti,760,810,785
+Jangipur,27/04/2019,186.5,Jyoti,760,810,790
+Jangipur,29/04/2019,187,Jyoti,760,800,780
+Jangipur,30/04/2019,187.5,Jyoti,760,800,775
+Jhargram,01/04/2019,29,Jyoti,650,750,700
+Jhargram,02/04/2019,29,Jyoti,660,750,700
+Jhargram,03/04/2019,32,Jyoti,620,820,720
+Jhargram,04/04/2019,29,Jyoti,600,800,700
+Jhargram,05/04/2019,35,Jyoti,600,800,700
+Jhargram,06/04/2019,29,Jyoti,600,800,700
+Jhargram,07/04/2019,34,Jyoti,600,800,700
+Jhargram,08/04/2019,32,Jyoti,600,800,700
+Jhargram,09/04/2019,29,Jyoti,650,800,750
+Jhargram,10/04/2019,29,Jyoti,700,900,800
+Jhargram,11/04/2019,29,Jyoti,700,900,800
+Jhargram,12/04/2019,29,Jyoti,720,920,820
+Jhargram,14/04/2019,32,Jyoti,760,900,860
+Jhargram,15/04/2019,29,Jyoti,760,960,860
+Jhargram,16/04/2019,29,Jyoti,800,1000,900
+Jhargram,17/04/2019,29,Jyoti,800,1000,900
+Jhargram,18/04/2019,29,Jyoti,900,1050,1000
+Jhargram,19/04/2019,32,Jyoti,900,1100,1000
+Jhargram,20/04/2019,32,Jyoti,900,1100,1000
+Jhargram,21/04/2019,29,Jyoti,900,1100,1000
+Jhargram,22/04/2019,29,Jyoti,900,1100,1000
+Jhargram,23/04/2019,29,Jyoti,900,1100,1000
+Jhargram,24/04/2019,29,Jyoti,900,1100,1000
+Jhargram,25/04/2019,29,Jyoti,950,1150,1050
+Jhargram,26/04/2019,29,Jyoti,960,1160,1060
+Jhargram,29/04/2019,29,Jyoti,960,1100,1000
+Jhargram,30/04/2019,29,Jyoti,960,1160,1060
+Jiaganj,01/04/2019,5.9,Jyoti,580,600,590
+Jiaganj,02/04/2019,5.3,Other,560,600,580
+Jiaganj,03/04/2019,5,Other,560,600,580
+Jiaganj,04/04/2019,6.3,Other,570,600,590
+Jiaganj,05/04/2019,6.8,Other,580,610,600
+Jiaganj,09/04/2019,5,Jyoti,700,740,720
+Jiaganj,10/04/2019,6.1,Jyoti,700,740,720
+Jiaganj,11/04/2019,5.7,Jyoti,710,730,720
+Jiaganj,14/04/2019,5.3,Jyoti,720,780,750
+Jiaganj,15/04/2019,5.8,Jyoti,740,780,760
+Jiaganj,16/04/2019,6.3,Jyoti,740,780,760
+Jiaganj,17/04/2019,5.5,Jyoti,740,780,760
+Jiaganj,18/04/2019,4.9,Jyoti,750,790,780
+Jiaganj,20/04/2019,5.8,Jyoti,740,780,760
+Jiaganj,22/04/2019,5.1,Jyoti,740,790,760
+Jiaganj,23/04/2019,5.2,Jyoti,750,800,780
+Jiaganj,24/04/2019,5.4,Jyoti,760,820,780
+Jiaganj,25/04/2019,5.4,Jyoti,780,900,850
+Jiaganj,26/04/2019,6.4,Jyoti,840,900,880
+Jiaganj,28/04/2019,5,Jyoti,840,860,850
+Jiaganj,29/04/2019,5.7,Jyoti,900,920,910
+Jiaganj,30/04/2019,5.4,Jyoti,890,930,920
+Kalimpong,01/04/2019,1,Jyoti,950,1150,1050
+Kalimpong,01/04/2019,1,Local,2000,2200,2100
+Kalimpong,02/04/2019,1.5,Jyoti,950,1150,1050
+Kalimpong,02/04/2019,1.5,Local,2000,2200,2100
+Kalimpong,03/04/2019,1.6,Jyoti,950,1150,1050
+Kalimpong,03/04/2019,1.6,Local,2000,2200,2100
+Kalimpong,04/04/2019,0.6,Jyoti,950,1150,1050
+Kalimpong,04/04/2019,0.6,Local,2000,2200,2100
+Kalimpong,05/04/2019,0.8,Jyoti,1300,1500,1400
+Kalimpong,05/04/2019,0.8,Local,2000,2200,2100
+Kalimpong,08/04/2019,1.5,Jyoti,950,1150,1050
+Kalimpong,08/04/2019,1.5,Local,2000,2200,2100
+Kalimpong,09/04/2019,2,Jyoti,950,1150,1050
+Kalimpong,09/04/2019,2,Local,2000,2200,2100
+Kalimpong,10/04/2019,2,Jyoti,950,1150,1050
+Kalimpong,10/04/2019,2,Local,2000,2200,2100
+Kalimpong,12/04/2019,1.5,Jyoti,950,1150,1050
+Kalimpong,12/04/2019,1.5,Local,2000,2200,2100
+Kalimpong,13/04/2019,1.8,Jyoti,950,1150,1050
+Kalimpong,13/04/2019,1.8,Local,2000,2200,2100
+Kalimpong,22/04/2019,0.8,Jyoti,1300,1500,1400
+Kalimpong,22/04/2019,0.8,Local,2000,2200,2100
+Kalimpong,23/04/2019,0.7,Jyoti,1300,1500,1400
+Kalimpong,23/04/2019,0.7,Local,2000,2200,2100
+Kalimpong,24/04/2019,1.5,Jyoti,1300,1500,1400
+Kalimpong,24/04/2019,1.5,Local,2000,2200,2100
+Kalimpong,25/04/2019,0.8,Jyoti,1300,1500,1400
+Kalimpong,25/04/2019,0.8,Local,2000,2200,2100
+Kalimpong,26/04/2019,1,Jyoti,1300,1500,1400
+Kalimpong,26/04/2019,1,Local,2000,2200,2100
+Kalimpong,27/04/2019,0.8,Jyoti,2000,2200,2100
+Kalimpong,29/04/2019,0.7,Jyoti,1300,1500,1400
+Kalimpong,30/04/2019,1,Jyoti,950,1150,1050
+Kalimpong,30/04/2019,1,Local,2000,2200,2100
+Kalipur,01/04/2019,28,Jyoti,660,680,660
+Kalipur,02/04/2019,24,Jyoti,660,680,660
+Kalipur,03/04/2019,22,Jyoti,670,700,680
+Kalipur,04/04/2019,18,Jyoti,680,720,700
+Kalipur,05/04/2019,20,Jyoti,720,760,740
+Kalipur,06/04/2019,16,Jyoti,760,780,780
+Kalipur,07/04/2019,17,Jyoti,780,800,800
+Kalipur,08/04/2019,15,Jyoti,780,800,800
+Kalipur,09/04/2019,16,Jyoti,760,800,780
+Kalipur,10/04/2019,18,Jyoti,760,800,780
+Kalipur,11/04/2019,20,Jyoti,740,780,760
+Kalipur,12/04/2019,22,Jyoti,740,780,760
+Kalipur,13/04/2019,26,Jyoti,740,780,760
+Kalipur,14/04/2019,24,Jyoti,740,780,760
+Kalipur,15/04/2019,20,Jyoti,780,800,800
+Kalipur,16/04/2019,22,Jyoti,780,800,800
+Kalipur,17/04/2019,20,Jyoti,780,820,800
+Kalipur,18/04/2019,17,Jyoti,780,820,800
+Kalipur,19/04/2019,20,Jyoti,780,820,800
+Kalipur,20/04/2019,22,Jyoti,780,820,800
+Kalipur,21/04/2019,18,Jyoti,780,820,800
+Kalipur,22/04/2019,20,Jyoti,780,820,800
+Kalipur,23/04/2019,16,Jyoti,780,820,800
+Kalipur,24/04/2019,14,Jyoti,780,800,800
+Kalipur,25/04/2019,14,Jyoti,780,800,800
+Kalipur,26/04/2019,18,Jyoti,780,820,800
+Kalipur,27/04/2019,16,Jyoti,800,840,820
+Kalipur,28/04/2019,14,Jyoti,840,860,840
+Kalipur,29/04/2019,10,Jyoti,900,920,900
+Kalipur,30/04/2019,8,Jyoti,920,960,940
+Kalna,01/04/2019,17.5,Jyoti,650,670,660
+Kalna,02/04/2019,17.5,Jyoti,640,660,650
+Kalna,03/04/2019,18.5,Jyoti,640,660,650
+Kalna,04/04/2019,19.5,Jyoti,640,650,650
+Kalna,05/04/2019,17.5,Jyoti,620,640,630
+Kalna,06/04/2019,17.5,Jyoti,620,640,640
+Kalna,08/04/2019,17.5,Jyoti,680,700,700
+Kalna,09/04/2019,17.5,Jyoti,680,690,680
+Kalna,10/04/2019,17.5,Jyoti,680,700,690
+Kalna,11/04/2019,17.5,Jyoti,700,710,710
+Kalna,12/04/2019,17.5,Jyoti,700,710,700
+Kalna,16/04/2019,17.5,Jyoti,760,770,760
+Kalna,17/04/2019,17.5,Jyoti,760,770,760
+Kalna,18/04/2019,17.5,Jyoti,760,770,770
+Kalna,23/04/2019,17,Jyoti,950,970,960
+Kalna,24/04/2019,17,Jyoti,960,960,960
+Kalna,25/04/2019,17,Jyoti,960,960,960
+Kalna,26/04/2019,16.5,Jyoti,920,920,920
+Kalna,30/04/2019,17.5,Jyoti,980,1000,1000
+Kalyani,01/04/2019,3,Jyoti,550,570,560
+Kalyani,02/04/2019,5,Jyoti,860,900,880
+Kalyani,03/04/2019,6,Jyoti,860,900,890
+Kalyani,04/04/2019,6.5,Jyoti,NR,NR,NR
+Kalyani,05/04/2019,6,Jyoti,860,900,890
+Kalyani,06/04/2019,6.1,Jyoti,870,900,890
+Kalyani,08/04/2019,6,Jyoti,860,900,890
+Kalyani,09/04/2019,6.1,Jyoti,950,980,960
+Kalyani,10/04/2019,6,Jyoti,960,1000,980
+Kalyani,11/04/2019,6.3,Jyoti,950,990,980
+Kalyani,12/04/2019,6.4,Jyoti,980,1010,1000
+Kalyani,13/04/2019,6.5,Jyoti,990,1020,1010
+Kalyani,15/04/2019,6.5,Jyoti,980,1010,1000
+Kalyani,16/04/2019,6.6,Jyoti,990,1020,1010
+Kalyani,17/04/2019,6.4,Jyoti,1020,1050,1040
+Kalyani,18/04/2019,6.3,Jyoti,1020,1050,1040
+Kalyani,19/04/2019,6.2,Jyoti,1030,1070,1050
+Kalyani,20/04/2019,6.3,Jyoti,1020,1060,1040
+Kalyani,22/04/2019,6.4,Jyoti,980,1020,1000
+Kalyani,23/04/2019,6.5,Jyoti,980,1020,1000
+Kalyani,24/04/2019,6.3,Jyoti,1010,1050,1030
+Kalyani,25/04/2019,6.1,Jyoti,1030,1070,1050
+Kalyani,26/04/2019,6.3,Jyoti,1010,1050,1030
+Kalyani,27/04/2019,6.2,Jyoti,1010,1050,1030
+Kalyani,29/04/2019,6.2,Jyoti,1010,1050,1030
+Kalyani,30/04/2019,6.1,Jyoti,1020,1060,1040
+Kandi,01/04/2019,30,Other,370,390,380
+Kandi,02/04/2019,30,Other,500,540,520
+Kandi,03/04/2019,32,Other,520,560,540
+Kandi,05/04/2019,30,Other,540,560,550
+Kandi,06/04/2019,35,Other,600,640,630
+Kandi,07/04/2019,32,Other,600,640,630
+Kandi,08/04/2019,30,Other,600,680,640
+Kandi,09/04/2019,32,Other,640,660,650
+Kandi,10/04/2019,34,Other,630,650,640
+Kandi,13/04/2019,32,Other,620,640,630
+Kandi,14/04/2019,30,Other,600,640,620
+Kandi,15/04/2019,28,Other,600,640,620
+Kandi,16/04/2019,30,Jyoti,900,1000,950
+Kandi,17/04/2019,15,Jyoti,880,920,900
+Kandi,18/04/2019,20,Jyoti,890,910,900
+Kandi,19/04/2019,28,Jyoti,910,930,920
+Kandi,20/04/2019,25,Jyoti,910,930,920
+Kandi,21/04/2019,24,Jyoti,910,930,920
+Kandi,22/04/2019,25,Jyoti,910,930,920
+Kandi,23/04/2019,20,Jyoti,905,915,910
+Kandi,24/04/2019,28,Jyoti,910,930,920
+Kandi,26/04/2019,27,Jyoti,910,940,920
+Karimpur,01/04/2019,45,Jyoti,300,400,360
+Karimpur,02/04/2019,45,Jyoti,830,860,850
+Karimpur,03/04/2019,45,Jyoti,800,890,860
+Karimpur,04/04/2019,45,Jyoti,820,890,860
+Karimpur,05/04/2019,45,Jyoti,830,895,860
+Karimpur,06/04/2019,45,Jyoti,830,890,860
+Karimpur,07/04/2019,45,Jyoti,790,860,800
+Karimpur,08/04/2019,45,Jyoti,750,860,800
+Karimpur,09/04/2019,45,Jyoti,840,900,860
+Karimpur,10/04/2019,45,Jyoti,860,960,920
+Karimpur,11/04/2019,45,Jyoti,750,860,800
+Karimpur,12/04/2019,45,Jyoti,840,940,900
+Karimpur,13/04/2019,45,Jyoti,850,930,890
+Karimpur,14/04/2019,45,Jyoti,800,940,870
+Karimpur,15/04/2019,45,Jyoti,850,990,920
+Karimpur,16/04/2019,45,Jyoti,850,990,920
+Karimpur,17/04/2019,45,Jyoti,860,990,930
+Karimpur,18/04/2019,45,Jyoti,850,990,900
+Karimpur,19/04/2019,45,Jyoti,860,950,910
+Karimpur,20/04/2019,45,Jyoti,890,980,920
+Karimpur,21/04/2019,45,Jyoti,890,980,920
+Karimpur,22/04/2019,45,Jyoti,890,980,920
+Karimpur,23/04/2019,45,Jyoti,900,990,930
+Karimpur,24/04/2019,45,Jyoti,890,980,920
+Karimpur,25/04/2019,45,Jyoti,890,980,920
+Karimpur,26/04/2019,45,Jyoti,900,990,950
+Karimpur,27/04/2019,45,Jyoti,890,990,950
+Karimpur,28/04/2019,60,Jyoti,890,980,950
+Karimpur,29/04/2019,45,Jyoti,890,980,950
+Karimpur,30/04/2019,45,Jyoti,850,990,920
+Karsiyang(Matigara),01/04/2019,6.5,Local,1000,1400,1200
+Karsiyang(Matigara),01/04/2019,6.5,Red,2000,2400,2200
+Karsiyang(Matigara),02/04/2019,6.2,Local,1000,1400,1200
+Karsiyang(Matigara),02/04/2019,6.2,Red,2000,2400,2200
+Karsiyang(Matigara),03/04/2019,6.5,Local,1000,1400,1200
+Karsiyang(Matigara),03/04/2019,6.5,Red,2000,2400,2200
+Karsiyang(Matigara),04/04/2019,7,Local,1000,1400,1200
+Karsiyang(Matigara),04/04/2019,7,Red,2000,2400,2200
+Karsiyang(Matigara),05/04/2019,7.5,Local,1000,1400,1200
+Karsiyang(Matigara),05/04/2019,7.5,Red,2000,2400,2200
+Karsiyang(Matigara),06/04/2019,8,Local,1000,1400,1200
+Karsiyang(Matigara),06/04/2019,8,Red,2000,2400,2200
+Karsiyang(Matigara),08/04/2019,8.5,Local,1000,1400,1200
+Karsiyang(Matigara),08/04/2019,8.5,Red,2000,2400,2200
+Karsiyang(Matigara),09/04/2019,7.5,Local,1000,1400,1200
+Karsiyang(Matigara),09/04/2019,7.5,Red,2000,2400,2200
+Karsiyang(Matigara),10/04/2019,8,Local,1000,1400,1200
+Karsiyang(Matigara),10/04/2019,8,Red,2000,2400,2200
+Karsiyang(Matigara),11/04/2019,8.5,Local,1200,1600,1400
+Karsiyang(Matigara),11/04/2019,8.5,Red,2000,2400,2200
+Karsiyang(Matigara),12/04/2019,8,Local,1200,1600,1400
+Karsiyang(Matigara),12/04/2019,8,Red,2000,2400,2200
+Karsiyang(Matigara),15/04/2019,8.5,Local,1200,1600,1400
+Karsiyang(Matigara),15/04/2019,8.5,Red,2000,2400,2200
+Karsiyang(Matigara),16/04/2019,8.6,Local,1200,1600,1400
+Karsiyang(Matigara),16/04/2019,8.6,Red,2000,2400,2200
+Karsiyang(Matigara),22/04/2019,4.5,Local,1200,1600,1400
+Karsiyang(Matigara),22/04/2019,4.5,Red,2000,2400,2200
+Karsiyang(Matigara),23/04/2019,4.2,Local,1200,1600,1400
+Karsiyang(Matigara),23/04/2019,4.2,Red,2000,2400,2200
+Karsiyang(Matigara),24/04/2019,4.5,Local,1200,1600,1400
+Karsiyang(Matigara),24/04/2019,4.5,Red,2000,2400,2200
+Karsiyang(Matigara),25/04/2019,4.6,Local,1200,1600,1400
+Karsiyang(Matigara),25/04/2019,4.6,Red,2000,2400,2200
+Karsiyang(Matigara),26/04/2019,4.8,Local,1200,1600,1400
+Karsiyang(Matigara),26/04/2019,4.8,Red,2000,2400,2200
+Karsiyang(Matigara),30/04/2019,5.2,Local,1200,1600,1400
+Karsiyang(Matigara),30/04/2019,5.2,Red,2000,2400,2200
+Kasipur,01/04/2019,0.37,Jyoti,550,620,600
+Kasipur,02/04/2019,0.35,Jyoti,560,630,600
+Kasipur,03/04/2019,0.36,Jyoti,560,630,600
+Kasipur,05/04/2019,0.35,Jyoti,580,630,600
+Kasipur,06/04/2019,0.35,Jyoti,600,640,620
+Kasipur,07/04/2019,0.35,Jyoti,600,640,620
+Kasipur,08/04/2019,0.36,Jyoti,600,640,620
+Kasipur,09/04/2019,0.34,Jyoti,620,660,640
+Kasipur,10/04/2019,0.32,Jyoti,650,700,680
+Kasipur,11/04/2019,0.33,Jyoti,670,720,700
+Kasipur,12/04/2019,0.32,Jyoti,680,740,710
+Kasipur,13/04/2019,0.3,Jyoti,700,740,720
+Kasipur,14/04/2019,0.29,Jyoti,720,760,740
+Kasipur,15/04/2019,0.29,Jyoti,730,770,750
+Kasipur,16/04/2019,0.3,Jyoti,730,780,750
+Kasipur,17/04/2019,0.3,Jyoti,750,800,770
+Kasipur,18/04/2019,0.29,Jyoti,760,800,780
+Kasipur,19/04/2019,0.33,Jyoti,700,740,720
+Kasipur,20/04/2019,0.34,Jyoti,700,740,720
+Kasipur,21/04/2019,0.35,Jyoti,680,720,700
+Kasipur,22/04/2019,0.36,Jyoti,680,720,700
+Kasipur,23/04/2019,0.37,Jyoti,670,720,700
+Kasipur,24/04/2019,0.35,Jyoti,700,750,730
+Kasipur,25/04/2019,0.34,Jyoti,720,760,740
+Kasipur,28/04/2019,0.32,Jyoti,750,810,780
+Kasipur,29/04/2019,0.33,Jyoti,780,820,800
+Katwa,01/04/2019,4.1,Jyoti,660,700,680
+Katwa,02/04/2019,4.2,Jyoti,680,720,700
+Katwa,03/04/2019,4.2,Jyoti,680,720,700
+Katwa,04/04/2019,3.7,Jyoti,700,740,720
+Katwa,05/04/2019,4.1,Jyoti,700,740,720
+Katwa,06/04/2019,4.3,Other,700,740,720
+Katwa,08/04/2019,3.9,Jyoti,700,740,720
+Katwa,09/04/2019,4.2,Jyoti,700,740,720
+Katwa,10/04/2019,3.9,Jyoti,680,720,700
+Katwa,11/04/2019,4.1,Jyoti,680,720,700
+Katwa,12/04/2019,4.2,Jyoti,680,720,700
+Katwa,13/04/2019,4.2,Jyoti,680,720,700
+Katwa,15/04/2019,4.1,Jyoti,680,720,700
+Katwa,16/04/2019,4.2,Jyoti,780,820,800
+Katwa,17/04/2019,4.4,Jyoti,780,820,800
+Katwa,18/04/2019,4.4,Jyoti,780,820,800
+Katwa,19/04/2019,4.4,Jyoti,780,820,800
+Katwa,20/04/2019,4.2,Jyoti,780,820,800
+Katwa,22/04/2019,4.2,Jyoti,780,820,800
+Katwa,23/04/2019,4.3,Jyoti,780,820,800
+Katwa,24/04/2019,4.1,Jyoti,780,820,800
+Katwa,25/04/2019,4,Jyoti,780,820,800
+Katwa,26/04/2019,4.2,Jyoti,780,820,800
+Katwa,27/04/2019,4.2,Jyoti,780,820,800
+Khatra,01/04/2019,12,Other,560,600,580
+Khatra,02/04/2019,11,Jyoti,560,600,580
+Khatra,03/04/2019,11.5,Jyoti,560,600,580
+Khatra,04/04/2019,10,Jyoti,560,600,580
+Khatra,05/04/2019,12,Jyoti,560,600,580
+Khatra,06/04/2019,10,Jyoti,560,600,580
+Khatra,07/04/2019,6.5,Jyoti,560,600,580
+Khatra,08/04/2019,11,Jyoti,560,600,580
+Khatra,09/04/2019,11,Jyoti,600,660,630
+Khatra,10/04/2019,10,Jyoti,650,700,670
+Khatra,11/04/2019,9,Jyoti,650,700,670
+Khatra,12/04/2019,10,Jyoti,650,700,670
+Khatra,13/04/2019,9.5,Jyoti,650,700,670
+Khatra,14/04/2019,7,Jyoti,660,700,680
+Khatra,15/04/2019,8.5,Jyoti,670,700,680
+Khatra,16/04/2019,11,Jyoti,660,700,680
+Khatra,17/04/2019,10,Jyoti,680,750,700
+Khatra,18/04/2019,10.5,Jyoti,730,800,750
+Khatra,19/04/2019,10,Jyoti,740,800,760
+Khatra,20/04/2019,11,Jyoti,740,800,760
+Khatra,21/04/2019,6,Jyoti,740,800,760
+Khatra,22/04/2019,11,Jyoti,760,800,780
+Khatra,23/04/2019,10,Jyoti,780,820,800
+Khatra,24/04/2019,11,Jyoti,780,820,800
+Khatra,25/04/2019,10,Jyoti,780,820,800
+Khatra,26/04/2019,12,Jyoti,780,820,800
+Khatra,27/04/2019,10,Jyoti,780,820,800
+Khatra,28/04/2019,7,Jyoti,780,830,800
+Khatra,29/04/2019,11,Jyoti,790,830,810
+Khatra,30/04/2019,12,Jyoti,790,830,810
+Kolaghat,01/04/2019,32,Jyoti,930,980,950
+Kolaghat,02/04/2019,33,Jyoti,930,980,950
+Kolaghat,03/04/2019,34,Jyoti,930,980,950
+Kolaghat,04/04/2019,35,Jyoti,930,980,950
+Kolaghat,05/04/2019,35,Jyoti,930,980,950
+Kolaghat,08/04/2019,36,Jyoti,950,990,970
+Kolaghat,09/04/2019,36,Jyoti,950,990,970
+Kolaghat,10/04/2019,37,Jyoti,950,990,970
+Kolaghat,11/04/2019,37,Jyoti,950,990,970
+Kolaghat,12/04/2019,37,Jyoti,950,990,970
+Kolaghat,13/04/2019,37,Jyoti,950,990,970
+Kolaghat,16/04/2019,38,Jyoti,950,990,970
+Kolaghat,17/04/2019,39,Jyoti,950,990,970
+Kolaghat,18/04/2019,39,Jyoti,950,990,970
+Kolaghat,22/04/2019,40,Jyoti,950,990,970
+Kolaghat,23/04/2019,39,Jyoti,950,990,970
+Kolaghat,24/04/2019,40,Jyoti,950,990,970
+Kolaghat,25/04/2019,40,Jyoti,950,990,970
+Kolaghat,26/04/2019,40,Jyoti,950,990,970
+Kolaghat,29/04/2019,40,Jyoti,950,990,970
+Kolaghat,30/04/2019,38,Jyoti,1030,1070,1050
+Mathabhanga,01/04/2019,3,Jyoti,500,600,550
+Mathabhanga,02/04/2019,3,Jyoti,500,600,550
+Mathabhanga,03/04/2019,2.5,Jyoti,500,600,550
+Mathabhanga,04/04/2019,3,Jyoti,500,600,550
+Mathabhanga,05/04/2019,3,Jyoti,500,600,550
+Mathabhanga,06/04/2019,1.5,Jyoti,500,600,550
+Mathabhanga,07/04/2019,2.5,Jyoti,500,600,550
+Mathabhanga,08/04/2019,3,Jyoti,500,600,550
+Mathabhanga,13/04/2019,2.5,Jyoti,500,600,550
+Mathabhanga,14/04/2019,3.5,Jyoti,500,600,550
+Mathabhanga,15/04/2019,3.5,Jyoti,500,600,550
+Mathabhanga,16/04/2019,2.5,Jyoti,500,600,550
+Mathabhanga,17/04/2019,2.5,Jyoti,600,700,650
+Mathabhanga,18/04/2019,3,Jyoti,600,700,650
+Mathabhanga,19/04/2019,2,Jyoti,600,700,650
+Mathabhanga,20/04/2019,1,Jyoti,600,700,650
+Mathabhanga,21/04/2019,2.5,Jyoti,600,700,650
+Mathabhanga,22/04/2019,3,Jyoti,600,700,650
+Mathabhanga,23/04/2019,2.5,Jyoti,600,700,650
+Mathabhanga,24/04/2019,2.5,Jyoti,600,700,650
+Mathabhanga,25/04/2019,2,Jyoti,600,700,640
+Mathabhanga,26/04/2019,1.5,Jyoti,600,700,650
+Mathabhanga,27/04/2019,1,Jyoti,600,700,650
+Mathabhanga,28/04/2019,2.5,Jyoti,600,700,650
+Mathabhanga,29/04/2019,3,Jyoti,600,700,650
+Mathabhanga,30/04/2019,2.5,Jyoti,600,700,650
+Medinipur(West),01/04/2019,15,Jyoti,600,630,620
+Medinipur(West),02/04/2019,16,Jyoti,600,630,620
+Medinipur(West),03/04/2019,17,Jyoti,600,630,620
+Medinipur(West),04/04/2019,16,Jyoti,700,730,720
+Medinipur(West),05/04/2019,15,Jyoti,700,730,720
+Medinipur(West),06/04/2019,15,Jyoti,700,730,720
+Medinipur(West),07/04/2019,16,Jyoti,770,800,780
+Medinipur(West),08/04/2019,16,Jyoti,770,800,780
+Medinipur(West),09/04/2019,15,Jyoti,760,800,780
+Medinipur(West),10/04/2019,16,Jyoti,760,800,780
+Medinipur(West),11/04/2019,15,Jyoti,780,820,800
+Medinipur(West),12/04/2019,16,Jyoti,780,810,800
+Medinipur(West),14/04/2019,16,Jyoti,2750,2820,2800
+Medinipur(West),15/04/2019,15,Jyoti,800,830,820
+Medinipur(West),16/04/2019,15,Jyoti,800,830,820
+Medinipur(West),17/04/2019,16,Jyoti,810,830,820
+Medinipur(West),18/04/2019,14,Jyoti,810,840,820
+Medinipur(West),19/04/2019,15,Jyoti,840,860,850
+Medinipur(West),20/04/2019,15,Jyoti,810,840,820
+Medinipur(West),22/04/2019,15,Jyoti,840,860,850
+Medinipur(West),23/04/2019,16,Jyoti,840,860,850
+Medinipur(West),24/04/2019,15,Jyoti,820,840,830
+Medinipur(West),25/04/2019,13,Jyoti,910,930,920
+Medinipur(West),26/04/2019,15,Jyoti,1000,1030,1020
+Medinipur(West),29/04/2019,15,Jyoti,1000,1030,1020
+Medinipur(West),30/04/2019,14,Jyoti,1100,1130,1120
+Mekhliganj,01/04/2019,2.2,Jyoti,500,550,525
+Mekhliganj,02/04/2019,2,Jyoti,500,550,525
+Mekhliganj,03/04/2019,2.2,Jyoti,500,550,525
+Mekhliganj,04/04/2019,2.3,Jyoti,500,550,525
+Mekhliganj,07/04/2019,2.5,Jyoti,500,550,525
+Mekhliganj,08/04/2019,3,Jyoti,500,550,525
+Mekhliganj,09/04/2019,2.5,Jyoti,500,550,525
+Mekhliganj,15/04/2019,2,Jyoti,500,600,550
+Mekhliganj,16/04/2019,2.2,Jyoti,500,600,550
+Mekhliganj,17/04/2019,2.5,Jyoti,500,600,550
+Mekhliganj,18/04/2019,2,Jyoti,550,600,575
+Mekhliganj,19/04/2019,2.3,Jyoti,550,600,575
+Mekhliganj,20/04/2019,2,Jyoti,550,650,600
+Mekhliganj,21/04/2019,1.7,Jyoti,550,650,600
+Mekhliganj,22/04/2019,1.5,Jyoti,600,700,650
+Mekhliganj,23/04/2019,1.6,Jyoti,600,700,650
+Mekhliganj,24/04/2019,1.4,Jyoti,600,700,650
+Mekhliganj,25/04/2019,1.2,Jyoti,600,700,650
+Mekhliganj,27/04/2019,1.4,Jyoti,550,650,600
+Mekhliganj,28/04/2019,1.5,Jyoti,550,650,600
+Mekhliganj,29/04/2019,1.7,Jyoti,550,600,575
+Mekhliganj,30/04/2019,1.5,Jyoti,550,600,575
+Memari,01/04/2019,14,Jyoti,660,690,680
+Memari,02/04/2019,13,Jyoti,660,690,680
+Memari,04/04/2019,13,Jyoti,650,690,680
+Memari,05/04/2019,13,Jyoti,660,690,680
+Memari,08/04/2019,11,Jyoti,680,710,700
+Memari,10/04/2019,11,Jyoti,680,720,700
+Memari,11/04/2019,11,Jyoti,680,720,700
+Memari,12/04/2019,10,Jyoti,700,740,720
+Memari,16/04/2019,10,Jyoti,780,820,800
+Memari,17/04/2019,9,Jyoti,780,820,800
+Memari,18/04/2019,11,Jyoti,780,820,800
+Memari,22/04/2019,12,Jyoti,780,820,800
+Memari,24/04/2019,10,Jyoti,780,820,800
+Memari,25/04/2019,9.5,Jyoti,780,810,800
+Memari,26/04/2019,9,Jyoti,780,820,800
+Memari,30/04/2019,7,Jyoti,970,1010,1000
+Moynaguri,01/04/2019,4,Jyoti,600,650,625
+Moynaguri,02/04/2019,5,Jyoti,600,650,625
+Moynaguri,03/04/2019,5,Jyoti,600,650,625
+Moynaguri,04/04/2019,5,Jyoti,600,650,625
+Nadia,01/04/2019,20,Jyoti,880,910,900
+Nadia,02/04/2019,24,Jyoti,870,900,890
+Nadia,03/04/2019,20,Jyoti,890,910,900
+Nadia,04/04/2019,22,Jyoti,880,900,890
+Nadia,05/04/2019,20,Jyoti,890,910,900
+Nadia,06/04/2019,22,Jyoti,880,900,890
+Nadia,08/04/2019,24,Jyoti,880,900,890
+Nadia,09/04/2019,20,Jyoti,960,980,970
+Nadia,10/04/2019,24,Jyoti,970,1000,990
+Nadia,11/04/2019,22,Jyoti,970,1000,990
+Nadia,12/04/2019,20,Jyoti,1000,1030,1010
+Nadia,13/04/2019,24,Jyoti,1000,1040,1030
+Nadia,15/04/2019,22,Jyoti,1000,1030,1020
+Nadia,16/04/2019,20,Jyoti,1020,1040,1030
+Nadia,17/04/2019,22,Jyoti,1030,1060,1050
+Nadia,18/04/2019,20,Jyoti,1030,1060,1050
+Nadia,19/04/2019,22,Jyoti,1020,1050,1040
+Nadia,20/04/2019,20,Jyoti,1000,1030,1020
+Nadia,22/04/2019,22,Jyoti,1000,1030,1020
+Nadia,23/04/2019,24,Jyoti,1000,1020,1010
+Nadia,24/04/2019,20,Jyoti,1020,1050,1040
+Nadia,25/04/2019,22,Jyoti,1010,1040,1030
+Nadia,26/04/2019,24,Jyoti,1010,1040,1030
+Nadia,27/04/2019,20,Jyoti,1020,1050,1040
+Nadia,29/04/2019,22,Jyoti,1030,1060,1050
+Nadia,30/04/2019,20,Jyoti,1030,1060,1050
+Pandua,01/04/2019,30,Other,650,700,680
+Pandua,02/04/2019,35,Other,600,680,680
+Pandua,03/04/2019,32,Other,680,710,700
+Pandua,04/04/2019,35,Other,680,710,700
+Pandua,05/04/2019,34,Other,720,800,750
+Pandua,06/04/2019,32,Other,750,820,800
+Pandua,07/04/2019,30,Other,780,850,850
+Pandua,08/04/2019,34,Other,800,880,850
+Pandua,09/04/2019,35,Other,800,880,850
+Pandua,10/04/2019,30,Other,780,860,850
+Pandua,11/04/2019,36,Other,750,800,780
+Pandua,12/04/2019,38,Other,780,820,800
+Pandua,14/04/2019,32,Other,800,850,830
+Pandua,15/04/2019,36,Other,800,850,830
+Pandua,16/04/2019,34,Other,800,850,830
+Pandua,17/04/2019,38,Other,800,850,830
+Pandua,18/04/2019,30,Other,800,850,830
+Pandua,19/04/2019,30,Other,800,860,830
+Pandua,20/04/2019,35,Other,NR,NR,NR
+Pandua,21/04/2019,35,Other,800,880,850
+Pandua,22/04/2019,38,Other,800,880,850
+Pandua,23/04/2019,35,Other,800,880,850
+Pandua,25/04/2019,38,Other,840,850,850
+Pandua,26/04/2019,36,Other,830,850,850
+Pandua,27/04/2019,38,Other,860,900,900
+Pandua,28/04/2019,32,Other,880,940,920
+Pandua,29/04/2019,38,Other,950,1000,980
+Pandua,30/04/2019,34,Other,880,920,900
+Pundibari,01/04/2019,1.5,Jyoti,500,550,530
+Pundibari,02/04/2019,1.4,Jyoti,500,550,530
+Pundibari,03/04/2019,1.6,Jyoti,520,560,550
+Pundibari,04/04/2019,1.5,Jyoti,520,560,550
+Pundibari,05/04/2019,1.3,Jyoti,520,560,550
+Pundibari,06/04/2019,1.4,Jyoti,520,560,550
+Pundibari,07/04/2019,1.5,Jyoti,510,550,540
+Pundibari,08/04/2019,1.4,Jyoti,520,560,550
+Pundibari,09/04/2019,1.5,Jyoti,510,550,530
+Pundibari,10/04/2019,1.4,Jyoti,500,550,520
+Pundibari,11/04/2019,1.5,Jyoti,500,550,530
+Pundibari,12/04/2019,1.6,Jyoti,500,550,530
+Pundibari,14/04/2019,1.5,Jyoti,500,550,530
+Pundibari,15/04/2019,1.3,Jyoti,500,560,520
+Pundibari,16/04/2019,1.5,Jyoti,500,560,550
+Pundibari,17/04/2019,1.3,Jyoti,500,550,540
+Pundibari,18/04/2019,1.4,Jyoti,540,600,570
+Pundibari,19/04/2019,1.5,Jyoti,540,600,560
+Pundibari,20/04/2019,1.4,Jyoti,530,590,550
+Pundibari,21/04/2019,1.6,Jyoti,540,600,560
+Pundibari,22/04/2019,1.4,Jyoti,550,600,570
+Pundibari,23/04/2019,1.5,Jyoti,550,600,570
+Pundibari,24/04/2019,1.4,Jyoti,550,600,570
+Pundibari,25/04/2019,1.5,Jyoti,550,600,570
+Pundibari,26/04/2019,1.4,Jyoti,550,600,570
+Pundibari,27/04/2019,1.5,Jyoti,580,640,600
+Pundibari,28/04/2019,1.5,Jyoti,580,650,620
+Pundibari,29/04/2019,1.5,Jyoti,600,650,625
+Pundibari,30/04/2019,1.5,Jyoti,580,650,625
+Purulia,01/04/2019,32,Jyoti,600,620,600
+Purulia,02/04/2019,40,Jyoti,580,600,580
+Purulia,03/04/2019,32,Jyoti,580,600,580
+Purulia,04/04/2019,28,Jyoti,560,600,580
+Purulia,05/04/2019,24,Jyoti,640,650,640
+Purulia,06/04/2019,40,Jyoti,640,660,640
+Purulia,08/04/2019,40,Jyoti,640,660,650
+Purulia,09/04/2019,30,Jyoti,720,730,720
+Purulia,10/04/2019,32,Jyoti,750,760,760
+Purulia,11/04/2019,24,Jyoti,750,760,760
+Purulia,12/04/2019,28,Jyoti,740,760,760
+Purulia,13/04/2019,32,Jyoti,740,760,760
+Purulia,15/04/2019,24,Jyoti,740,760,760
+Purulia,16/04/2019,30,Jyoti,760,780,780
+Purulia,17/04/2019,28,Jyoti,760,780,780
+Purulia,18/04/2019,40,Jyoti,750,760,760
+Purulia,19/04/2019,36,Jyoti,750,780,760
+Purulia,20/04/2019,24,Jyoti,760,780,760
+Purulia,22/04/2019,30,Jyoti,720,740,720
+Purulia,23/04/2019,24,Jyoti,740,760,760
+Purulia,24/04/2019,36,Jyoti,740,760,760
+Purulia,25/04/2019,32,Jyoti,760,780,760
+Purulia,26/04/2019,24,Jyoti,760,780,760
+Purulia,27/04/2019,24,Jyoti,760,780,760
+Purulia,29/04/2019,32,Jyoti,800,820,800
+Purulia,30/04/2019,24,Jyoti,800,840,820
+Ramkrishanpur(Howrah),01/04/2019,14.5,Jyoti,730,760,740
+Ramkrishanpur(Howrah),02/04/2019,16,Jyoti,790,820,800
+Ramkrishanpur(Howrah),03/04/2019,14.5,Jyoti,790,820,800
+Ramkrishanpur(Howrah),04/04/2019,15,Jyoti,810,840,820
+Ramkrishanpur(Howrah),05/04/2019,16.5,Jyoti,820,860,840
+Ramkrishanpur(Howrah),06/04/2019,16.5,Jyoti,NR,NR,NR
+Ramkrishanpur(Howrah),07/04/2019,18,Jyoti,NR,NR,NR
+Ramkrishanpur(Howrah),08/04/2019,16.8,Jyoti,NR,NR,NR
+Ramkrishanpur(Howrah),09/04/2019,15.6,Jyoti,950,980,960
+Ramkrishanpur(Howrah),10/04/2019,18,Jyoti,950,980,960
+Ramkrishanpur(Howrah),11/04/2019,14,Jyoti,930,960,940
+Ramkrishanpur(Howrah),12/04/2019,16,Jyoti,990,1020,1000
+Ramkrishanpur(Howrah),13/04/2019,17.2,Jyoti,970,1000,980
+Ramkrishanpur(Howrah),14/04/2019,18.5,Jyoti,990,1020,1000
+Ramkrishanpur(Howrah),15/04/2019,15.5,Jyoti,990,1020,1000
+Ramkrishanpur(Howrah),16/04/2019,17,Jyoti,980,1010,990
+Ramkrishanpur(Howrah),17/04/2019,16,Jyoti,980,1010,990
+Ramkrishanpur(Howrah),18/04/2019,15,Jyoti,990,1020,1000
+Ramkrishanpur(Howrah),19/04/2019,13.8,Jyoti,990,1020,1000
+Ramkrishanpur(Howrah),20/04/2019,18,Jyoti,970,1010,980
+Ramkrishanpur(Howrah),21/04/2019,16.8,Jyoti,990,1020,1000
+Ramkrishanpur(Howrah),22/04/2019,14,Jyoti,980,1010,990
+Ramkrishanpur(Howrah),23/04/2019,15.6,Jyoti,990,1020,1000
+Ramkrishanpur(Howrah),24/04/2019,17.6,Jyoti,990,1020,1000
+Ramkrishanpur(Howrah),25/04/2019,14.8,Jyoti,980,1010,990
+Ramkrishanpur(Howrah),26/04/2019,17.5,Jyoti,990,1020,1000
+Ramkrishanpur(Howrah),27/04/2019,18,Jyoti,1040,1070,1050
+Ramkrishanpur(Howrah),28/04/2019,17.6,Jyoti,1070,1100,1080
+Ramkrishanpur(Howrah),29/04/2019,14.5,Jyoti,1090,1120,1100
+Ramkrishanpur(Howrah),30/04/2019,16.5,Jyoti,1190,1220,1200
+Rampurhat,01/04/2019,56,Potato,510,530,520
+Rampurhat,02/04/2019,60,Potato,490,510,500
+Rampurhat,03/04/2019,60,Potato,490,510,500
+Rampurhat,04/04/2019,72,Jyoti,570,590,580
+Rampurhat,04/04/2019,72,Potato,510,530,520
+Rampurhat,05/04/2019,62,Jyoti,590,610,600
+Rampurhat,05/04/2019,62,Potato,550,570,560
+Rampurhat,08/04/2019,58,Jyoti,630,650,640
+Rampurhat,08/04/2019,58,Potato,570,590,580
+Rampurhat,09/04/2019,36,Potato,630,650,640
+Rampurhat,10/04/2019,54,Potato,630,650,640
+Rampurhat,11/04/2019,54,Potato,630,650,640
+Rampurhat,12/04/2019,58,Potato,530,550,540
+Rampurhat,14/04/2019,58,Potato,530,550,540
+Rampurhat,15/04/2019,78,Jyoti,640,660,650
+Rampurhat,15/04/2019,78,Potato,550,570,560
+Rampurhat,16/04/2019,62,Jyoti,890,910,900
+Rampurhat,16/04/2019,62,Potato,630,650,640
+Rampurhat,17/04/2019,62,Jyoti,790,810,800
+Rampurhat,17/04/2019,62,Potato,630,650,640
+Rampurhat,18/04/2019,64,Jyoti,690,710,700
+Rampurhat,18/04/2019,64,Potato,590,610,600
+Rampurhat,20/04/2019,70,Jyoti,670,690,680
+Rampurhat,20/04/2019,70,Potato,570,590,580
+Rampurhat,21/04/2019,70,Jyoti,670,690,680
+Rampurhat,21/04/2019,70,Potato,570,590,580
+Rampurhat,22/04/2019,48,Potato,670,690,680
+Rampurhat,23/04/2019,48,Potato,670,690,680
+Rampurhat,24/04/2019,52,Potato,650,670,660
+Rampurhat,25/04/2019,52,Potato,650,670,660
+Rampurhat,26/04/2019,50,Potato,650,670,660
+Rampurhat,28/04/2019,50,Potato,650,670,660
+Ranaghat,01/04/2019,18,Jyoti,870,900,880
+Ranaghat,02/04/2019,17.5,Jyoti,870,900,880
+Ranaghat,03/04/2019,16.5,Jyoti,880,910,900
+Ranaghat,04/04/2019,15.5,Jyoti,880,900,890
+Ranaghat,05/04/2019,16.5,Jyoti,870,890,880
+Ranaghat,06/04/2019,16,Jyoti,860,880,870
+Ranaghat,07/04/2019,17,Jyoti,850,870,860
+Ranaghat,08/04/2019,16,Jyoti,870,900,890
+Ranaghat,09/04/2019,15.2,Jyoti,950,980,960
+Ranaghat,10/04/2019,15,Jyoti,970,990,980
+Ranaghat,11/04/2019,14.5,Jyoti,980,1000,990
+Ranaghat,12/04/2019,13.5,Jyoti,990,1000,1000
+Ranaghat,13/04/2019,13.8,Jyoti,990,1000,1000
+Ranaghat,14/04/2019,13.5,Jyoti,990,1000,1000
+Ranaghat,15/04/2019,12.8,Jyoti,1000,1020,1010
+Ranaghat,16/04/2019,12.5,Jyoti,1000,1040,1020
+Ranaghat,17/04/2019,12,Jyoti,1000,1040,1020
+Ranaghat,18/04/2019,11.8,Jyoti,1000,1040,1020
+Ranaghat,19/04/2019,11,Jyoti,1020,1050,1040
+Ranaghat,20/04/2019,10.5,Jyoti,1030,1050,1040
+Ranaghat,21/04/2019,11,Jyoti,1000,1020,1010
+Ranaghat,22/04/2019,11.5,Jyoti,1000,1020,1010
+Ranaghat,23/04/2019,11,Jyoti,1030,1050,1040
+Ranaghat,24/04/2019,10.5,Jyoti,1040,1060,1050
+Ranaghat,25/04/2019,10.8,Jyoti,1050,1060,1060
+Ranaghat,26/04/2019,11,Jyoti,1040,1060,1050
+Ranaghat,27/04/2019,11.5,Jyoti,1040,1060,1050
+Ranaghat,28/04/2019,11,Jyoti,1040,1060,1050
+Ranaghat,29/04/2019,11.2,Jyoti,1040,1060,1050
+Ranaghat,30/04/2019,11,Jyoti,1050,1070,1060
+Sainthia,01/04/2019,132,Other,560,580,570
+Sainthia,02/04/2019,130,Other,560,580,570
+Sainthia,03/04/2019,127,Other,560,580,570
+Sainthia,04/04/2019,125,Other,560,580,570
+Sainthia,05/04/2019,126,Other,550,570,560
+Sainthia,07/04/2019,122,Other,540,560,550
+Sainthia,08/04/2019,120,Other,560,580,570
+Sainthia,09/04/2019,118,Other,580,600,590
+Sainthia,10/04/2019,116,Other,590,610,600
+Sainthia,11/04/2019,115,Other,590,610,600
+Sainthia,13/04/2019,110,Other,590,610,600
+Sainthia,14/04/2019,108,Other,590,610,600
+Sainthia,16/04/2019,102,Other,610,630,620
+Sainthia,18/04/2019,100,Other,580,600,590
+Sainthia,19/04/2019,98,Other,570,590,580
+Sainthia,20/04/2019,96,Other,560,580,570
+Sainthia,21/04/2019,95,Other,580,600,590
+Sainthia,22/04/2019,97,Other,580,600,590
+Sainthia,23/04/2019,98,Other,580,600,590
+Sainthia,24/04/2019,95,Jyoti,580,600,590
+Sainthia,25/04/2019,94,Other,580,600,590
+Sainthia,26/04/2019,92,Other,590,610,600
+Sainthia,27/04/2019,91,Other,590,610,600
+Sainthia,30/04/2019,88,Other,630,650,640
+Samsi,01/04/2019,33,Local,825,875,850
+Samsi,02/04/2019,30,Local,725,775,760
+Samsi,03/04/2019,30,Local,650,700,680
+Samsi,04/04/2019,35,Local,575,625,600
+Samsi,05/04/2019,30,Local,530,575,560
+Samsi,06/04/2019,29,Local,525,575,550
+Samsi,07/04/2019,28,Local,525,575,550
+Samsi,08/04/2019,32,Local,625,675,650
+Samsi,09/04/2019,32,Local,575,625,600
+Samsi,10/04/2019,32,Local,575,625,600
+Samsi,11/04/2019,36,Local,575,625,600
+Samsi,12/04/2019,30,Local,525,575,560
+Samsi,13/04/2019,28,Local,525,575,550
+Samsi,14/04/2019,27.5,Local,525,575,550
+Samsi,15/04/2019,30,Local,525,575,550
+Samsi,16/04/2019,30,Local,575,625,600
+Samsi,17/04/2019,33,Local,575,625,600
+Samsi,18/04/2019,34,Local,575,625,600
+Samsi,19/04/2019,30,Local,625,675,650
+Samsi,20/04/2019,28,Local,625,675,650
+Samsi,21/04/2019,28,Local,625,675,650
+Samsi,22/04/2019,34,Local,625,675,650
+Samsi,23/04/2019,25,Local,600,650,625
+Samsi,24/04/2019,30,Local,575,625,600
+Samsi,25/04/2019,35,Local,625,675,640
+Samsi,26/04/2019,30,Local,625,675,650
+Samsi,27/04/2019,29,Local,625,675,650
+Samsi,28/04/2019,25,Local,625,675,650
+Samsi,29/04/2019,32,Local,625,675,650
+Samsi,30/04/2019,30,Local,625,675,650
+Sheoraphuly,01/04/2019,16,Jyoti,750,780,760
+Sheoraphuly,02/04/2019,16,Jyoti,660,700,680
+Sheoraphuly,03/04/2019,15,Jyoti,680,720,700
+Sheoraphuly,04/04/2019,18,Jyoti,660,710,690
+Sheoraphuly,05/04/2019,18,Jyoti,670,700,690
+Sheoraphuly,06/04/2019,16,Jyoti,700,750,720
+Sheoraphuly,07/04/2019,17,Jyoti,720,780,750
+Sheoraphuly,08/04/2019,16,Jyoti,775,820,800
+Sheoraphuly,09/04/2019,15,Jyoti,780,820,800
+Sheoraphuly,10/04/2019,14,Jyoti,800,830,820
+Sheoraphuly,11/04/2019,16,Jyoti,840,880,860
+Sheoraphuly,12/04/2019,18,Jyoti,840,880,860
+Sheoraphuly,13/04/2019,17,Jyoti,840,880,860
+Sheoraphuly,14/04/2019,16,Jyoti,840,880,860
+Sheoraphuly,15/04/2019,15,Jyoti,840,880,860
+Sheoraphuly,16/04/2019,19,Jyoti,860,900,880
+Sheoraphuly,17/04/2019,16,Jyoti,860,900,880
+Sheoraphuly,18/04/2019,18,Jyoti,860,900,880
+Sheoraphuly,19/04/2019,17,Jyoti,860,900,880
+Sheoraphuly,20/04/2019,16,Jyoti,860,900,880
+Sheoraphuly,21/04/2019,17,Jyoti,860,900,880
+Sheoraphuly,22/04/2019,19,Jyoti,860,900,880
+Sheoraphuly,24/04/2019,19,Jyoti,860,900,880
+Sheoraphuly,25/04/2019,18,Jyoti,840,880,860
+Sheoraphuly,26/04/2019,17,Jyoti,840,880,860
+Sheoraphuly,27/04/2019,19,Jyoti,840,880,860
+Sheoraphuly,28/04/2019,20,Jyoti,840,880,860
+Sheoraphuly,29/04/2019,19,Jyoti,980,1020,1000
+Sheoraphuly,30/04/2019,18,Jyoti,1000,1040,1020
+Siliguri,01/04/2019,98,Jyoti,450,550,500
+Siliguri,01/04/2019,98,Local,450,550,500
+Siliguri,01/04/2019,98,Red,1000,1200,1100
+Siliguri,02/04/2019,98,Jyoti,450,550,500
+Siliguri,02/04/2019,98,Local,450,550,500
+Siliguri,02/04/2019,98,Red,1000,1200,1100
+Siliguri,03/04/2019,100,Jyoti,650,750,700
+Siliguri,03/04/2019,100,Local,650,750,700
+Siliguri,03/04/2019,100,Red,1150,1250,1200
+Siliguri,04/04/2019,125,Jyoti,650,750,700
+Siliguri,04/04/2019,125,Local,650,750,700
+Siliguri,04/04/2019,125,Red,1150,1250,1200
+Siliguri,05/04/2019,150,Jyoti,650,750,700
+Siliguri,05/04/2019,150,Local,650,750,700
+Siliguri,05/04/2019,150,Red,1150,1250,1200
+Siliguri,06/04/2019,160,Jyoti,650,750,700
+Siliguri,06/04/2019,160,Local,650,750,700
+Siliguri,06/04/2019,160,Red,1150,1250,1200
+Siliguri,08/04/2019,175,Jyoti,650,750,700
+Siliguri,08/04/2019,175,Local,650,750,700
+Siliguri,08/04/2019,175,Red,1150,1250,1200
+Siliguri,09/04/2019,130,Jyoti,650,750,700
+Siliguri,09/04/2019,130,Local,650,750,700
+Siliguri,09/04/2019,130,Red,1150,1250,1200
+Siliguri,10/04/2019,165,Jyoti,650,750,700
+Siliguri,10/04/2019,165,Local,650,750,700
+Siliguri,10/04/2019,165,Red,1150,1250,1200
+Siliguri,11/04/2019,155,Jyoti,650,750,700
+Siliguri,11/04/2019,155,Local,650,750,700
+Siliguri,11/04/2019,155,Red,1150,1250,1200
+Siliguri,12/04/2019,170,Jyoti,650,750,700
+Siliguri,12/04/2019,170,Local,650,750,700
+Siliguri,12/04/2019,170,Red,1150,1250,1200
+Siliguri,15/04/2019,150,Jyoti,650,750,700
+Siliguri,15/04/2019,150,Local,650,750,700
+Siliguri,15/04/2019,150,Red,1150,1250,1200
+Siliguri,16/04/2019,180,Jyoti,650,750,700
+Siliguri,16/04/2019,180,Local,650,750,700
+Siliguri,16/04/2019,180,Red,1150,1250,1200
+Siliguri,22/04/2019,55,Jyoti,650,750,700
+Siliguri,22/04/2019,55,Local,650,750,700
+Siliguri,22/04/2019,55,Red,1150,1250,1200
+Siliguri,23/04/2019,65,Jyoti,650,750,700
+Siliguri,23/04/2019,65,Local,650,750,700
+Siliguri,23/04/2019,65,Red,1150,1250,1200
+Siliguri,24/04/2019,62,Jyoti,650,750,700
+Siliguri,24/04/2019,62,Local,650,750,700
+Siliguri,24/04/2019,62,Red,1150,1250,1200
+Siliguri,25/04/2019,65,Jyoti,650,750,700
+Siliguri,25/04/2019,65,Local,650,750,700
+Siliguri,25/04/2019,65,Red,1150,1250,1200
+Siliguri,26/04/2019,68,Jyoti,650,750,700
+Siliguri,26/04/2019,68,Local,650,750,700
+Siliguri,26/04/2019,68,Red,1150,1250,1200
+Siliguri,30/04/2019,65,Jyoti,650,750,700
+Siliguri,30/04/2019,65,Local,650,750,700
+Siliguri,30/04/2019,65,Red,1150,1250,1200
+Tamluk (Medinipur E),01/04/2019,47,Jyoti,930,980,950
+Tamluk (Medinipur E),02/04/2019,48,Jyoti,930,980,950
+Tamluk (Medinipur E),03/04/2019,49,Jyoti,930,980,950
+Tamluk (Medinipur E),04/04/2019,50,Jyoti,930,980,950
+Tamluk (Medinipur E),05/04/2019,49,Jyoti,930,980,950
+Tamluk (Medinipur E),08/04/2019,49,Jyoti,930,980,950
+Tamluk (Medinipur E),09/04/2019,49,Jyoti,940,990,960
+Tamluk (Medinipur E),10/04/2019,50,Jyoti,940,990,960
+Tamluk (Medinipur E),11/04/2019,50,Jyoti,940,990,960
+Tamluk (Medinipur E),12/04/2019,50,Jyoti,940,990,960
+Tamluk (Medinipur E),13/04/2019,50,Jyoti,940,990,960
+Tamluk (Medinipur E),16/04/2019,50,Jyoti,940,990,960
+Tamluk (Medinipur E),17/04/2019,50,Jyoti,940,990,960
+Tamluk (Medinipur E),18/04/2019,50,Jyoti,940,980,960
+Tamluk (Medinipur E),22/04/2019,50,Jyoti,940,980,960
+Tamluk (Medinipur E),23/04/2019,50,Jyoti,950,990,970
+Tamluk (Medinipur E),24/04/2019,50,Jyoti,950,990,970
+Tamluk (Medinipur E),26/04/2019,5,Jyoti,950,990,970
+Tamluk (Medinipur E),29/04/2019,50,Jyoti,950,990,970
+Tamluk (Medinipur E),30/04/2019,51,Jyoti,1030,1070,1050
+Toofanganj,05/04/2019,19,Jyoti,550,650,600
+Toofanganj,06/04/2019,20,Jyoti,550,650,600
+Toofanganj,07/04/2019,19,Jyoti,550,650,600
+Toofanganj,08/04/2019,21,Jyoti,550,650,600
+Toofanganj,09/04/2019,19,Jyoti,550,650,600
+Toofanganj,10/04/2019,19,Jyoti,550,650,600
+Toofanganj,11/04/2019,21,Jyoti,550,650,600
+Toofanganj,12/04/2019,19.5,Jyoti,550,650,600
+Toofanganj,13/04/2019,19,Jyoti,550,650,600
+Toofanganj,14/04/2019,19.3,Jyoti,550,650,600
+Toofanganj,15/04/2019,22,Jyoti,550,650,600
+Toofanganj,16/04/2019,19.6,Jyoti,550,650,600
+Toofanganj,17/04/2019,19.8,Jyoti,550,650,600
+Toofanganj,21/04/2019,20,Jyoti,550,650,600
+Toofanganj,22/04/2019,21,Jyoti,550,650,600
+Toofanganj,23/04/2019,20,Jyoti,550,650,600
+Toofanganj,24/04/2019,19.5,Jyoti,550,650,600
+Uluberia,01/04/2019,10.8,Jyoti,740,770,750
+Uluberia,02/04/2019,10.6,Jyoti,840,860,850
+Uluberia,03/04/2019,11.2,Jyoti,840,860,850
+Uluberia,04/04/2019,11.6,Jyoti,830,850,840
+Uluberia,05/04/2019,12,Jyoti,790,820,800
+Uluberia,06/04/2019,11.8,Jyoti,830,860,840
+Uluberia,07/04/2019,11.5,Jyoti,870,900,880
+Uluberia,08/04/2019,11,Jyoti,890,920,900
+Uluberia,09/04/2019,10.6,Jyoti,970,990,980
+Uluberia,10/04/2019,11,Jyoti,970,990,980
+Uluberia,11/04/2019,11.4,Jyoti,940,960,950
+Uluberia,12/04/2019,11,Jyoti,970,1000,980
+Uluberia,13/04/2019,10.8,Jyoti,980,1000,990
+Uluberia,14/04/2019,11.2,Jyoti,960,980,970
+Uluberia,15/04/2019,11.5,Jyoti,950,970,960
+Uluberia,16/04/2019,11.2,Jyoti,970,1000,980
+Uluberia,17/04/2019,11.6,Jyoti,970,1000,980
+Uluberia,18/04/2019,11.4,Jyoti,1010,1040,1020
+Uluberia,19/04/2019,11.2,Jyoti,1020,1040,1030
+Uluberia,20/04/2019,11.6,Jyoti,1010,1040,1020
+Uluberia,21/04/2019,11.8,Jyoti,1000,1020,1010
+Uluberia,22/04/2019,11.7,Jyoti,1000,1020,1010
+Uluberia,23/04/2019,11.4,Jyoti,1010,1030,1020
+Uluberia,25/04/2019,12.2,Jyoti,970,1000,980
+Uluberia,26/04/2019,12.4,Jyoti,970,1000,980
+Uluberia,27/04/2019,11.8,Jyoti,1010,1040,1020
+Uluberia,28/04/2019,11.6,Jyoti,1020,1040,1030
+Uluberia,29/04/2019,11.4,Jyoti,1070,1100,1080
+Uluberia,30/04/2019,11,Jyoti,1190,1210,1200

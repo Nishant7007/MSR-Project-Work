@@ -1,0 +1,111 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Jan 27 23:30:21 2020
+
+@author: ictd
+"""
+
+import pandas as pd
+import numpy as np
+from loadSeries import *
+from datetime import timedelta
+
+def get_rmse(actual,predicted):
+    diff=np.sum((actual-predicted)**2)
+    root=np.sqrt(diff/len(actual))
+    rmse=root/predicted.mean()
+    return rmse
+
+azadpur_mandi_arimax2.index=pd.to_datetime(azadpur_mandi_arimax2[0])
+azadpur_mandi_arimax2=azadpur_mandi_arimax2[1]
+
+bangalore_mandi_arimax2.index=pd.to_datetime(bangalore_mandi_arimax2[0])
+bangalore_mandi_arimax2=bangalore_mandi_arimax2[1]
+
+lasalgaon_mandi_arimax2.index=pd.to_datetime(lasalgaon_mandi_arimax2[0])
+lasalgaon_mandi_arimax2=lasalgaon_mandi_arimax2[1]
+
+azadpur_arrival_arimax2.index=pd.to_datetime(azadpur_arrival_arimax2[0])
+azadpur_arrival_arimax2=azadpur_arrival_arimax2[1]
+
+bangalore_arrival_arimax2.index=pd.to_datetime(bangalore_arrival_arimax2[0])
+bangalore_arrival_arimax2=bangalore_arrival_arimax2[1]
+
+lasalgaon_arrival_arimax2.index=pd.to_datetime(lasalgaon_arrival_arimax2[0])
+lasalgaon_arrival_arimax2=lasalgaon_arrival_arimax2[1]
+
+delhi_retail_arimax2.index=pd.to_datetime(delhi_retail_arimax2[0])
+delhi_retail_arimax2=delhi_retail_arimax2[1]
+
+bangalore_retail_arimax2.index=pd.to_datetime(bangalore_retail_arimax2[0])
+bangalore_retail_arimax2=bangalore_retail_arimax2[1]
+
+mumbai_retail_arimax2.index=pd.to_datetime(mumbai_retail_arimax2[0])
+mumbai_retail_arimax2=mumbai_retail_arimax2[1]
+
+#print(get_rmse(np.array(azadpur_arrival),np.array(azadpur_arrival_arimax2)))    
+
+
+#print(azadpur_mandi_arimax2[1])
+
+
+#print(azadpur_arrival[azadpur_arrival_arimax2.index>='2017-01-01'])
+
+def get_anomaly_rmse(anomalies,priceseriesactual,priceseriespredicted):
+    normal_list=[]
+    anomaly_list=[]
+    #print(anomalies)
+    for i in range(len(anomalies)):
+        start=pd.to_datetime(anomalies[0][i])
+        end=pd.to_datetime(anomalies[1][i])
+        actual=priceseriesactual[priceseriesactual.index>=start]
+        actual=actual[actual.index<=end].values
+        predicted=priceseriespredicted[priceseriespredicted.index>=start]
+        predicted=predicted[predicted.index<=end].values
+        rmse=get_rmse(actual,predicted)
+        if(anomalies[2][i]!=' Normal_train'):
+            anomaly_list.append(rmse)
+        else:
+            normal_list.append(rmse)
+    return np.mean(anomaly_list),np.mean(normal_list)
+        
+#print(get_anomaly_rmse(azadpur_low_anomaly,azadpur_mandi,azadpur_mandi_arimax2))
+#print(get_anomaly_rmse(azadpur_low_anomaly,azadpur_arrival,azadpur_arrival_arimax2))
+#print(get_anomaly_rmse(azadpur_low_anomaly,delhi_retail,delhi_retail_arimax2))
+    
+#print(get_anomaly_rmse(lasalgaon_low_anomaly,lasalgaon_mandi,lasalgaon_mandi_arimax2))
+#print(get_anomaly_rmse(lasalgaon_low_anomaly,lasalgaon_arrival,lasalgaon_arrival_arimax2))
+#print(get_anomaly_rmse(lasalgaon_low_anomaly,mumbai_retail,mumbai_retail_arimax2))
+    
+#print(get_anomaly_rmse(bangalore_low_anomaly,bangalore_mandi,bangalore_mandi_arimax2))
+#print(get_anomaly_rmse(bangalore_low_anomaly,bangalore_arrival,bangalore_arrival_arimax2))
+#print(get_anomaly_rmse(bangalore_low_anomaly,bangalore_retail,bangalore_retail_arimax2))
+
+
+#print(get_anomaly_rmse(azadpur_high_anomaly,azadpur_mandi,azadpur_mandi_arimax2))
+#print(get_anomaly_rmse(azadpur_high_anomaly,azadpur_arrival,azadpur_arrival_arimax2))
+#print(get_anomaly_rmse(azadpur_high_anomaly,delhi_retail,delhi_retail_arimax2))
+    
+
+#print(get_anomaly_rmse(lasalgaon_high_anomaly,lasalgaon_mandi,lasalgaon_mandi_arimax2))
+#print(get_anomaly_rmse(lasalgaon_high_anomaly,lasalgaon_arrival,lasalgaon_arrival_arimax2))
+#print(get_anomaly_rmse(lasalgaon_high_anomaly,mumbai_retail,mumbai_retail_arimax2))
+    
+print(get_anomaly_rmse(bangalore_high_anomaly,bangalore_mandi,bangalore_mandi_arimax2))
+print(get_anomaly_rmse(bangalore_high_anomaly,bangalore_arrival,bangalore_arrival_arimax2))
+print(get_anomaly_rmse(bangalore_high_anomaly,bangalore_retail,bangalore_retail_arimax2))
+
+
+
+
+
+
+
+
+
+
+
+
+
+

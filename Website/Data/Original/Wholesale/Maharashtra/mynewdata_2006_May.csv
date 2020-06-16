@@ -1,0 +1,640 @@
+Market,Arrival Date,Arrivals (Tonnes),Variety,Minimum Price(Rs./Quintal),Maximum Price(Rs./Quintal),Modal Price(Rs./Quintal)
+Ahmednagar,22/05/2006,1392.8, ,NR,NR,NR
+Ahmednagar,25/05/2006,1016.7, ,NR,NR,NR
+Aurangabad,02/05/2006,6, ,NR,NR,NR
+Aurangabad,03/05/2006,20, ,NR,NR,NR
+Aurangabad,04/05/2006,21.2, ,NR,NR,NR
+Aurangabad,06/05/2006,18.5, ,NR,NR,NR
+Aurangabad,07/05/2006,10.1, ,NR,NR,NR
+Aurangabad,08/05/2006,15, ,NR,NR,NR
+Aurangabad,10/05/2006,13, ,NR,NR,NR
+Aurangabad,11/05/2006,9, ,NR,NR,NR
+Aurangabad,13/05/2006,11, ,NR,NR,NR
+Aurangabad,14/05/2006,16, ,NR,NR,NR
+Aurangabad,15/05/2006,9, ,NR,NR,NR
+Aurangabad,16/05/2006,14, ,NR,NR,NR
+Aurangabad,17/05/2006,10.5, ,NR,NR,NR
+Aurangabad,22/05/2006,17.5, ,NR,NR,NR
+Aurangabad,23/05/2006,14, ,NR,NR,NR
+Aurangabad,24/05/2006,9, ,NR,NR,NR
+Aurangabad,25/05/2006,14.8, ,NR,NR,NR
+Aurangabad,27/05/2006,18, ,NR,NR,NR
+Aurangabad,30/05/2006,8.5, ,NR,NR,NR
+Aurangabad,31/05/2006,6, ,NR,NR,NR
+Baramati,06/05/2006,15, ,NR,NR,NR
+Baramati,17/05/2006,18, ,NR,NR,NR
+Baramati,20/05/2006,13.2, ,NR,NR,NR
+Baramati,24/05/2006,4, ,NR,NR,NR
+Baramati,27/05/2006,10, ,NR,NR,NR
+Baramati,31/05/2006,12.5, ,NR,NR,NR
+Barshi,02/05/2006,316.3, ,NR,NR,NR
+Barshi,03/05/2006,113.5, ,NR,NR,NR
+Barshi,04/05/2006,63.6, ,NR,NR,NR
+Barshi,05/05/2006,63.6, ,NR,NR,NR
+Barshi,08/05/2006,259.4, ,NR,NR,NR
+Barshi,09/05/2006,124.4, ,NR,NR,NR
+Barshi,10/05/2006,59.7, ,NR,NR,NR
+Barshi,11/05/2006,59.7, ,NR,NR,NR
+Barshi,16/05/2006,265.9, ,NR,NR,NR
+Barshi,19/05/2006,57.1, ,NR,NR,NR
+Barshi,20/05/2006,57.1, ,NR,NR,NR
+Barshi,22/05/2006,85.7, ,NR,NR,NR
+Barshi,23/05/2006,79.4, ,NR,NR,NR
+Barshi,29/05/2006,221.7, ,NR,NR,NR
+Barshi,30/05/2006,72.3, ,NR,NR,NR
+Barshi,31/05/2006,83.1, ,NR,NR,NR
+Bhusaval,31/05/2006,22.4, ,NR,NR,NR
+Devala,02/05/2006,400, ,NR,NR,NR
+Devala,03/05/2006,460, ,NR,NR,NR
+Devala,05/05/2006,460, ,NR,NR,NR
+Devala,08/05/2006,350, ,NR,NR,NR
+Devala,09/05/2006,360, ,NR,NR,NR
+Devala,12/05/2006,260, ,NR,NR,NR
+Devala,15/05/2006,280, ,NR,NR,NR
+Devala,16/05/2006,170, ,NR,NR,NR
+Devala,17/05/2006,185, ,NR,NR,NR
+Devala,18/05/2006,320, ,NR,NR,NR
+Devala,19/05/2006,290, ,NR,NR,NR
+Devala,24/05/2006,270, ,NR,NR,NR
+Devala,25/05/2006,240, ,NR,NR,NR
+Devala,26/05/2006,100, ,NR,NR,NR
+Devala,29/05/2006,260, ,NR,NR,NR
+Devala,31/05/2006,80, ,NR,NR,NR
+Dhule,02/05/2006,400, ,NR,NR,NR
+Dhule,03/05/2006,160, ,NR,NR,NR
+Dhule,04/05/2006,250, ,NR,NR,NR
+Dhule,05/05/2006,93.1, ,NR,NR,NR
+Dhule,08/05/2006,200, ,NR,NR,NR
+Dhule,09/05/2006,250, ,NR,NR,NR
+Dhule,10/05/2006,150, ,NR,NR,NR
+Dhule,11/05/2006,100, ,NR,NR,NR
+Dhule,12/05/2006,90, ,NR,NR,NR
+Dhule,13/05/2006,100, ,NR,NR,NR
+Dhule,15/05/2006,10, ,NR,NR,NR
+Dhule,16/05/2006,100, ,NR,NR,NR
+Dhule,17/05/2006,80, ,NR,NR,NR
+Dhule,20/05/2006,126.4, ,NR,NR,NR
+Dhule,24/05/2006,150, ,NR,NR,NR
+Dhule,25/05/2006,90, ,NR,NR,NR
+Dhule,26/05/2006,150, ,NR,NR,NR
+Dindori,02/05/2006,212.9, ,NR,NR,NR
+Dindori,03/05/2006,371.3, ,NR,NR,NR
+Dindori,04/05/2006,237.3, ,NR,NR,NR
+Dindori,05/05/2006,647, ,NR,NR,NR
+Dindori,08/05/2006,214.2, ,NR,NR,NR
+Dindori,09/05/2006,177.9, ,NR,NR,NR
+Dindori,10/05/2006,138.8, ,NR,NR,NR
+Dindori,11/05/2006,129.1, ,NR,NR,NR
+Dindori,12/05/2006,182.5, ,NR,NR,NR
+Dindori,18/05/2006,183.2, ,NR,NR,NR
+Dindori,19/05/2006,174.5, ,NR,NR,NR
+Dindori,22/05/2006,244.4, ,NR,NR,NR
+Dindori,23/05/2006,130.9, ,NR,NR,NR
+Dindori,24/05/2006,260.6, ,NR,NR,NR
+Dindori,25/05/2006,86.3, ,NR,NR,NR
+Dindori,26/05/2006,104.8, ,NR,NR,NR
+Dindori,30/05/2006,73.3, ,NR,NR,NR
+Dindori,31/05/2006,41.5, ,NR,NR,NR
+Dindori(Vani),03/05/2006,845.1, ,NR,NR,NR
+Dindori(Vani),04/05/2006,673.5, ,NR,NR,NR
+Dindori(Vani),05/05/2006,647, ,NR,NR,NR
+Dindori(Vani),11/05/2006,246.9, ,NR,NR,NR
+Dindori(Vani),12/05/2006,401.3, ,NR,NR,NR
+Dindori(Vani),15/05/2006,482.9, ,NR,NR,NR
+Dindori(Vani),19/05/2006,403.7, ,NR,NR,NR
+Dindori(Vani),22/05/2006,585.3, ,NR,NR,NR
+Indapur,05/05/2006,64.5, ,NR,NR,NR
+Indapur,07/05/2006,71.5, ,NR,NR,NR
+Indapur,14/05/2006,78.7, ,NR,NR,NR
+Indapur,17/05/2006,62.1, ,NR,NR,NR
+Indapur,19/05/2006,38.6, ,NR,NR,NR
+Indapur,28/05/2006,99.9, ,NR,NR,NR
+Indapur,31/05/2006,65.1, ,NR,NR,NR
+Jalana,02/05/2006,11.9, ,NR,NR,NR
+Jalana,06/05/2006,10.4, ,NR,NR,NR
+Jalana,15/05/2006,13, ,NR,NR,NR
+Jalana,23/05/2006,9.3, ,NR,NR,NR
+Jalgaon,04/05/2006,80, ,NR,NR,NR
+Jalgaon,06/05/2006,100, ,NR,NR,NR
+Jalgaon,08/05/2006,125, ,NR,NR,NR
+Jalgaon,11/05/2006,52.5, ,NR,NR,NR
+Jalgaon,12/05/2006,50, ,NR,NR,NR
+Jalgaon,15/05/2006,72.5, ,NR,NR,NR
+Jalgaon,16/05/2006,48, ,NR,NR,NR
+Jalgaon,18/05/2006,36, ,NR,NR,NR
+Jalgaon,19/05/2006,45, ,NR,NR,NR
+Jalgaon,20/05/2006,55, ,NR,NR,NR
+Jalgaon,23/05/2006,105, ,NR,NR,NR
+Jalgaon,24/05/2006,115, ,NR,NR,NR
+Jalgaon,25/05/2006,100, ,NR,NR,NR
+Jalgaon,26/05/2006,125, ,NR,NR,NR
+Jalgaon,27/05/2006,80, ,NR,NR,NR
+Jalgaon,29/05/2006,135, ,NR,NR,NR
+Jalgaon,31/05/2006,80, ,NR,NR,NR
+Jawali,15/05/2006,3.2, ,NR,NR,NR
+Junnar,07/05/2006,179.5,Other,200,270,220
+Junnar,11/05/2006,140, ,NR,NR,NR
+Junnar,14/05/2006,144.2, ,NR,NR,NR
+Junnar,18/05/2006,179.5, ,NR,NR,NR
+Junnar,21/05/2006,471.2, ,NR,NR,NR
+Junnar,25/05/2006,367, ,NR,NR,NR
+Junnar,26/05/2006,460, ,NR,NR,NR
+Junnar,27/05/2006,584, ,NR,NR,NR
+Junnar,28/05/2006,560, ,NR,NR,NR
+Kada,03/05/2006,120, ,NR,NR,NR
+Kada,17/05/2006,25, ,NR,NR,NR
+Kada,21/05/2006,47.5, ,NR,NR,NR
+Kada,29/05/2006,132.5, ,NR,NR,NR
+Kada,31/05/2006,47.5, ,NR,NR,NR
+Kalmeshwar,12/05/2006,0.3, ,NR,NR,NR
+Kalmeshwar,13/05/2006,0.2,Other,400,500,450
+Kalmeshwar,14/05/2006,0.6,Other,400,600,500
+Kalmeshwar,31/05/2006,0.4,Other,200,350,275
+Kalvan,09/05/2006,540, ,NR,NR,NR
+Kalvan,11/05/2006,300, ,NR,NR,NR
+Kalvan,12/05/2006,250, ,NR,NR,NR
+Kalvan,15/05/2006,100, ,NR,NR,NR
+Kalvan,16/05/2006,300, ,NR,NR,NR
+Kalvan,18/05/2006,400, ,NR,NR,NR
+Kalyan,09/05/2006,0.1,Other,270,320,295
+Kalyan,10/05/2006,0.1,Other,280,320,300
+Kalyan,23/05/2006,0.1,Other,220,300,260
+Kalyan,24/05/2006,0.1,Other,280,300,290
+Kalyan,25/05/2006,0.1,Other,220,300,260
+Kalyan,26/05/2006,0.1,Other,250,300,275
+Kalyan,27/05/2006,0.1,Other,240,320,280
+Kalyan,28/05/2006,0.1,Other,240,300,270
+Kalyan,30/05/2006,0.1,Other,250,300,275
+Karad,02/05/2006,50, ,NR,NR,NR
+Karad,03/05/2006,70, ,NR,NR,NR
+Karad,04/05/2006,80, ,NR,NR,NR
+Karad,08/05/2006,50, ,NR,NR,NR
+Karad,09/05/2006,30, ,NR,NR,NR
+Karad,10/05/2006,40, ,NR,NR,NR
+Karad,11/05/2006,20, ,NR,NR,NR
+Karad,15/05/2006,45, ,NR,NR,NR
+Karad,18/05/2006,40, ,NR,NR,NR
+Karad,20/05/2006,30, ,NR,NR,NR
+Karad,22/05/2006,50,Other,200,300,250
+Karad,25/05/2006,41, ,NR,NR,NR
+Karad,27/05/2006,90, ,NR,NR,NR
+Karad,29/05/2006,35, ,NR,NR,NR
+Karad,30/05/2006,30, ,NR,NR,NR
+Karad,31/05/2006,25,Other,200,300,250
+Karmala,18/05/2006,36.4, ,NR,NR,NR
+Khed,06/05/2006,605, ,NR,NR,NR
+Khed,20/05/2006,683, ,NR,NR,NR
+Khed,24/05/2006,395.5, ,NR,NR,NR
+Khed,27/05/2006,350, ,NR,NR,NR
+Khed(Chakan),03/05/2006,480, ,NR,NR,NR
+Khed(Chakan),06/05/2006,605, ,NR,NR,NR
+Khed(Chakan),10/05/2006,560, ,NR,NR,NR
+Khed(Chakan),17/05/2006,341, ,NR,NR,NR
+Khed(Chakan),20/05/2006,683, ,NR,NR,NR
+Kolhapur,05/05/2006,551.2, ,NR,NR,NR
+Kolhapur,09/05/2006,591, ,NR,NR,NR
+Kolhapur,10/05/2006,406.8, ,NR,NR,NR
+Kolhapur,11/05/2006,452, ,NR,NR,NR
+Kolhapur,12/05/2006,199.5, ,NR,NR,NR
+Kolhapur,13/05/2006,452.8, ,NR,NR,NR
+Kolhapur,15/05/2006,450, ,NR,NR,NR
+Kolhapur,16/05/2006,295.8, ,NR,NR,NR
+Kolhapur,17/05/2006,273.7, ,NR,NR,NR
+Kolhapur,18/05/2006,240.3, ,NR,NR,NR
+Kolhapur,19/05/2006,253, ,NR,NR,NR
+Kolhapur,20/05/2006,290.2, ,NR,NR,NR
+Kolhapur,22/05/2006,479.8, ,NR,NR,NR
+Kolhapur,23/05/2006,611, ,NR,NR,NR
+Kolhapur,24/05/2006,359.5, ,NR,NR,NR
+Kolhapur,25/05/2006,320.7, ,NR,NR,NR
+Kolhapur,26/05/2006,205.2, ,NR,NR,NR
+Kolhapur,27/05/2006,567.4, ,NR,NR,NR
+Kolhapur,28/05/2006,7.1,Other,200,440,325
+Kolhapur,29/05/2006,575.4, ,NR,NR,NR
+Kolhapur,30/05/2006,473.1, ,NR,NR,NR
+Kolhapur,31/05/2006,316.5, ,NR,NR,NR
+Kurdwadi,12/05/2006,11.2, ,NR,NR,NR
+Kurdwadi,15/05/2006,26.5, ,NR,NR,NR
+Kurdwadi,30/05/2006,39.7, ,NR,NR,NR
+Lasalgaon,02/05/2006,1254, ,NR,NR,NR
+Lasalgaon,03/05/2006,923.4, ,NR,NR,NR
+Lasalgaon,04/05/2006,2769, ,NR,NR,NR
+Lasalgaon,05/05/2006,2202, ,NR,NR,NR
+Lasalgaon,08/05/2006,2263, ,NR,NR,NR
+Lasalgaon,09/05/2006,1848, ,NR,NR,NR
+Lasalgaon,10/05/2006,497, ,NR,NR,NR
+Lasalgaon,11/05/2006,1758, ,NR,NR,NR
+Lasalgaon,12/05/2006,1719, ,NR,NR,NR
+Lasalgaon,15/05/2006,1444, ,NR,NR,NR
+Lasalgaon,16/05/2006,1782, ,NR,NR,NR
+Lasalgaon,17/05/2006,631, ,NR,NR,NR
+Lasalgaon,18/05/2006,1527, ,NR,NR,NR
+Lasalgaon,19/05/2006,2601, ,NR,NR,NR
+Lasalgaon,22/05/2006,544, ,NR,NR,NR
+Lasalgaon,23/05/2006,2055, ,NR,NR,NR
+Lasalgaon,24/05/2006,474.4,Other,235,327,255
+Lasalgaon,25/05/2006,385, ,NR,NR,NR
+Lasalgaon,29/05/2006,2069, ,NR,NR,NR
+Lasalgaon,30/05/2006,1758, ,NR,NR,NR
+Lasalgaon,31/05/2006,554.6, ,NR,NR,NR
+Lasalgaon(Niphad),04/05/2006,297, ,NR,NR,NR
+Lasalgaon(Niphad),08/05/2006,250, ,NR,NR,NR
+Lasalgaon(Niphad),09/05/2006,258.5, ,NR,NR,NR
+Lasalgaon(Niphad),11/05/2006,249, ,NR,NR,NR
+Lasalgaon(Niphad),15/05/2006,308.5, ,NR,NR,NR
+Lasalgaon(Niphad),16/05/2006,205, ,NR,NR,NR
+Lasalgaon(Niphad),17/05/2006,256, ,NR,NR,NR
+Lasalgaon(Niphad),18/05/2006,473, ,NR,NR,NR
+Lasalgaon(Niphad),22/05/2006,544, ,NR,NR,NR
+Lasalgaon(Niphad),23/05/2006,301, ,NR,NR,NR
+Lonand,01/05/2006,145, ,NR,NR,NR
+Lonand,04/05/2006,235, ,NR,NR,NR
+Lonand,08/05/2006,120, ,NR,NR,NR
+Lonand,11/05/2006,100, ,NR,NR,NR
+Lonand,15/05/2006,75, ,NR,NR,NR
+Lonand,18/05/2006,150, ,NR,NR,NR
+Maanachar,07/05/2006,177, ,NR,NR,NR
+Maanachar,08/05/2006,4.1, ,NR,NR,NR
+Maanachar,14/05/2006,87.5, ,NR,NR,NR
+Maanachar,15/05/2006,0.2, ,NR,NR,NR
+Malegaon,18/05/2006,64, ,NR,NR,NR
+Malegaon,20/05/2006,40, ,NR,NR,NR
+Malegaon,22/05/2006,42.5, ,NR,NR,NR
+Malegaon,23/05/2006,36, ,NR,NR,NR
+Malegaon,24/05/2006,34, ,NR,NR,NR
+Malegaon,25/05/2006,96, ,NR,NR,NR
+Malegaon,27/05/2006,84,Other,340,340,340
+Malegaon,29/05/2006,60, ,NR,NR,NR
+Malegaon,30/05/2006,48, ,NR,NR,NR
+Malegaon,31/05/2006,32, ,NR,NR,NR
+Malegaon(Umarane),08/05/2006,1442.5, ,NR,NR,NR
+Malegaon(Umarane),09/05/2006,1347, ,NR,NR,NR
+Malegaon(Umarane),10/05/2006,664.5, ,NR,NR,NR
+Malegaon(Umarane),12/05/2006,693.5, ,NR,NR,NR
+Malegaon(Umarane),15/05/2006,1064, ,NR,NR,NR
+Malegaon(Umarane),16/05/2006,856, ,NR,NR,NR
+Malkapur,04/05/2006,75.6, ,NR,NR,NR
+Malkapur,05/05/2006,80, ,NR,NR,NR
+Malkapur,12/05/2006,55.3, ,NR,NR,NR
+Malkapur,19/05/2006,75, ,NR,NR,NR
+Malkapur,25/05/2006,96, ,NR,NR,NR
+Malkapur,26/05/2006,76, ,NR,NR,NR
+Manmad,02/05/2006,1100, ,NR,NR,NR
+Manmad,08/05/2006,600, ,NR,NR,NR
+Manmad,09/05/2006,400, ,NR,NR,NR
+Manmad,10/05/2006,300, ,NR,NR,NR
+Manmad,11/05/2006,400, ,NR,NR,NR
+Manmad,12/05/2006,400, ,NR,NR,NR
+Manmad,15/05/2006,700, ,NR,NR,NR
+Manmad,16/05/2006,500, ,NR,NR,NR
+Manmad,17/05/2006,500, ,NR,NR,NR
+Manmad,18/05/2006,550, ,NR,NR,NR
+Manmad,19/05/2006,450, ,NR,NR,NR
+Manmad,22/05/2006,1000, ,NR,NR,NR
+Manmad,23/05/2006,650, ,NR,NR,NR
+Manmad,24/05/2006,350, ,NR,NR,NR
+Manmad,25/05/2006,450, ,NR,NR,NR
+Manmad,29/05/2006,900, ,NR,NR,NR
+Manmad,30/05/2006,600, ,NR,NR,NR
+Manmad,31/05/2006,500, ,NR,NR,NR
+Mumbai,02/05/2006,1000,Other,230,340,285
+Mumbai,03/05/2006,850,Other,240,340,290
+Mumbai,04/05/2006,855,Other,240,340,290
+Mumbai,05/05/2006,1100,Other,240,340,290
+Mumbai,06/05/2006,850,Other,240,340,290
+Mumbai,08/05/2006,940,Other,260,350,305
+Mumbai,09/05/2006,775,Other,260,350,305
+Mumbai,10/05/2006,715,Other,280,340,310
+Mumbai,11/05/2006,520,Other,280,340,310
+Mumbai,12/05/2006,510,Other,280,340,310
+Mumbai,13/05/2006,805,Other,220,340,280
+Mumbai,15/05/2006,675,Other,220,340,280
+Mumbai,16/05/2006,710,Other,220,350,285
+Mumbai,17/05/2006,575,Other,220,350,285
+Mumbai,18/05/2006,1065,Other,220,350,285
+Mumbai,19/05/2006,940,Other,220,340,280
+Mumbai,20/05/2006,1265,Other,220,340,280
+Mumbai,22/05/2006,1400,Other,220,320,275
+Mumbai,23/05/2006,975,Other,220,320,270
+Mumbai,24/05/2006,575,Other,220,320,270
+Mumbai,25/05/2006,490,Other,220,320,270
+Mumbai,26/05/2006,800,Other,220,320,280
+Mumbai,27/05/2006,800,Other,220,320,280
+Mumbai,29/05/2006,1010,Other,220,320,280
+Mumbai,30/05/2006,725,Other,220,320,280
+Mumbai,31/05/2006,625,Other,220,320,280
+Nagpur,15/05/2006,100,Other,225,250,237
+Nagpur,15/05/2006,100,Red,250,275,262
+Nagpur,16/05/2006,200,Other,225,250,237
+Nagpur,16/05/2006,200,Red,225,250,237
+Nagpur,17/05/2006,120.2,Other,200,225,212
+Nagpur,17/05/2006,120.2,Red,200,250,225
+Nagpur,18/05/2006,100,Other,200,225,212
+Nagpur,18/05/2006,100,Red,200,250,225
+Nagpur,20/05/2006,119.2,Other,200,250,225
+Nagpur,20/05/2006,119.2,Red,250,275,262
+Nagpur,21/05/2006,130,Red,200,250,225
+Nagpur,22/05/2006,100,Red,200,250,225
+Nagpur,23/05/2006,200,Other,200,250,225
+Nagpur,23/05/2006,200,Red,200,225,212
+Nagpur,24/05/2006,100,Other,225,250,237
+Nagpur,24/05/2006,100,Red,200,225,212
+Nagpur,26/05/2006,140.9,Other,225,275,250
+Nagpur,26/05/2006,140.9,Red,225,250,237
+Nagpur,28/05/2006,200,Other,250,300,275
+Nagpur,28/05/2006,200,Red,225,275,250
+Nagpur,29/05/2006,109.2,Other,250,300,275
+Nagpur,29/05/2006,109.2,Red,225,275,250
+Nagpur,30/05/2006,100,Other,250,300,275
+Nagpur,30/05/2006,100,Red,225,275,250
+Nandgaon,12/05/2006,294.2, ,NR,NR,NR
+Nandgaon,15/05/2006,442, ,NR,NR,NR
+Nandgaon,19/05/2006,396, ,NR,NR,NR
+Nandgaon,22/05/2006,355, ,NR,NR,NR
+Nandgaon,23/05/2006,325, ,NR,NR,NR
+Nandgaon,24/05/2006,199.6, ,NR,NR,NR
+Nandgaon,25/05/2006,179.5, ,NR,NR,NR
+Nandgaon,29/05/2006,238, ,NR,NR,NR
+Nandura,02/05/2006,40, ,NR,NR,NR
+Nandura,09/05/2006,50, ,NR,NR,NR
+Nandura,16/05/2006,40, ,NR,NR,NR
+Nandura,23/05/2006,70, ,NR,NR,NR
+Nasik,04/05/2006,181.4, ,NR,NR,NR
+Nasik,05/05/2006,117.9, ,NR,NR,NR
+Nasik,06/05/2006,64.6, ,NR,NR,NR
+Nasik,08/05/2006,150.8, ,NR,NR,NR
+Nasik,11/05/2006,101.9, ,NR,NR,NR
+Nasik,12/05/2006,25, ,NR,NR,NR
+Nasik,15/05/2006,192.2, ,NR,NR,NR
+Nasik,16/05/2006,71.5, ,NR,NR,NR
+Nasik,30/05/2006,166.1, ,NR,NR,NR
+Nasik,31/05/2006,135.3, ,NR,NR,NR
+Newasa,07/05/2006,809.8, ,NR,NR,NR
+Newasa,10/05/2006,797.2, ,NR,NR,NR
+Newasa,14/05/2006,361.5, ,NR,NR,NR
+Newasa,21/05/2006,680.7, ,NR,NR,NR
+Newasa,24/05/2006,450.8, ,NR,NR,NR
+Newasa,28/05/2006,418.6, ,NR,NR,NR
+Newasa,31/05/2006,458.9, ,NR,NR,NR
+Osmanabad,23/05/2006,0.5,Other,250,250,250
+Palthan,02/05/2006,92.3, ,NR,NR,NR
+Palthan,05/05/2006,65, ,NR,NR,NR
+Palthan,09/05/2006,140, ,NR,NR,NR
+Palthan,12/05/2006,20, ,NR,NR,NR
+Palthan,16/05/2006,63.5, ,NR,NR,NR
+Palthan,19/05/2006,19.5, ,NR,NR,NR
+Pandharpur,02/05/2006,4.8, ,NR,NR,NR
+Pandharpur,03/05/2006,1.3, ,NR,NR,NR
+Pandharpur,04/05/2006,5.6, ,NR,NR,NR
+Pandharpur,05/05/2006,1.4, ,NR,NR,NR
+Pandharpur,06/05/2006,1.8, ,NR,NR,NR
+Pandharpur,08/05/2006,3.3, ,NR,NR,NR
+Pandharpur,09/05/2006,2.1, ,NR,NR,NR
+Pandharpur,10/05/2006,7.5, ,NR,NR,NR
+Pandharpur,11/05/2006,2.6, ,NR,NR,NR
+Pandharpur,12/05/2006,4, ,NR,NR,NR
+Pandharpur,15/05/2006,2.2, ,NR,NR,NR
+Pandharpur,16/05/2006,2.1, ,NR,NR,NR
+Pandharpur,17/05/2006,1.2, ,NR,NR,NR
+Pandharpur,18/05/2006,1.9, ,NR,NR,NR
+Pandharpur,19/05/2006,3.8, ,NR,NR,NR
+Pandharpur,20/05/2006,0.9, ,NR,NR,NR
+Pandharpur,22/05/2006,4.1, ,NR,NR,NR
+Pandharpur,23/05/2006,4.8, ,NR,NR,NR
+Pandharpur,24/05/2006,4.3, ,NR,NR,NR
+Pandharpur,25/05/2006,2.4, ,NR,NR,NR
+Pandharpur,26/05/2006,1.5, ,NR,NR,NR
+Pandharpur,27/05/2006,0.5, ,NR,NR,NR
+Pandharpur,29/05/2006,1.9, ,NR,NR,NR
+Pandharpur,30/05/2006,4, ,NR,NR,NR
+Pandharpur,31/05/2006,0.5, ,NR,NR,NR
+Parbhani,04/05/2006,6, ,NR,NR,NR
+Parbhani,08/05/2006,8, ,NR,NR,NR
+Parbhani,10/05/2006,8, ,NR,NR,NR
+Parbhani,11/05/2006,10, ,NR,NR,NR
+Parbhani,13/05/2006,20, ,NR,NR,NR
+Parbhani,17/05/2006,2, ,NR,NR,NR
+Parbhani,20/05/2006,30, ,NR,NR,NR
+Parbhani,21/05/2006,3, ,NR,NR,NR
+Parbhani,22/05/2006,10, ,NR,NR,NR
+Parbhani,23/05/2006,18, ,NR,NR,NR
+Parbhani,24/05/2006,5, ,NR,NR,NR
+Parbhani,27/05/2006,30, ,NR,NR,NR
+Parbhani,30/05/2006,8, ,NR,NR,NR
+Parner,03/05/2006,423.1, ,NR,NR,NR
+Parner,07/05/2006,317.2, ,NR,NR,NR
+Parner,10/05/2006,318.6, ,NR,NR,NR
+Pimpalgaon,02/05/2006,2979.1, ,NR,NR,NR
+Pimpalgaon,03/05/2006,2866.5, ,NR,NR,NR
+Pimpalgaon,04/05/2006,2055.8, ,NR,NR,NR
+Pimpalgaon,05/05/2006,1850.2, ,NR,NR,NR
+Pimpalgaon,08/05/2006,1555.5, ,NR,NR,NR
+Pimpalgaon,11/05/2006,1124.3, ,NR,NR,NR
+Pimpalgaon,12/05/2006,1925.3, ,NR,NR,NR
+Pimpalgaon,18/05/2006,2091.8, ,NR,NR,NR
+Pimpalgaon,19/05/2006,2740.3, ,NR,NR,NR
+Pimpalgaon,20/05/2006,114.8, ,NR,NR,NR
+Pimpalgaon,22/05/2006,2748.4, ,NR,NR,NR
+Pimpalgaon,23/05/2006,1899, ,NR,NR,NR
+Pimpalgaon Baswant(Saykheda),12/05/2006,136.5, ,NR,NR,NR
+Pimpalgaon Baswant(Saykheda),13/05/2006,130.2, ,NR,NR,NR
+Pimpalgaon Baswant(Saykheda),15/05/2006,129, ,NR,NR,NR
+Pimpalgaon Baswant(Saykheda),19/05/2006,203.6, ,NR,NR,NR
+Pimpalgaon Baswant(Saykheda),20/05/2006,114.8, ,NR,NR,NR
+Pimpalgaon Baswant(Saykheda),22/05/2006,150.8, ,NR,NR,NR
+Pune,04/05/2006,1394.2, ,NR,NR,NR
+Pune,05/05/2006,3.6,Other,200,250,225
+Pune,07/05/2006,1429.4, ,NR,NR,NR
+Pune,08/05/2006,1991.3,Other,200,250,225
+Pune,09/05/2006,1444.9, ,NR,NR,NR
+Pune,10/05/2006,1225.8, ,NR,NR,NR
+Pune,11/05/2006,982.4, ,NR,NR,NR
+Pune,12/05/2006,1192.2, ,NR,NR,NR
+Pune,14/05/2006,1118.9, ,NR,NR,NR
+Pune,15/05/2006,667.8, ,NR,NR,NR
+Pune,16/05/2006,1396.6, ,NR,NR,NR
+Pune,17/05/2006,1224.1,Other,200,320,260
+Pune,18/05/2006,1693.4, ,NR,NR,NR
+Pune,19/05/2006,2269.9, ,NR,NR,NR
+Pune,20/05/2006,5.8, ,NR,NR,NR
+Pune,21/05/2006,2269.9, ,NR,NR,NR
+Pune,22/05/2006,4.4, ,NR,NR,NR
+Pune,23/05/2006,6.3, ,NR,NR,NR
+Pune,24/05/2006,1092.5, ,NR,NR,NR
+Pune,25/05/2006,10.6, ,NR,NR,NR
+Pune,26/05/2006,3.8, ,NR,NR,NR
+Pune,27/05/2006,2.6,Other,200,270,235
+Pune,28/05/2006,5.1, ,NR,NR,NR
+Pune,29/05/2006,7.7, ,NR,NR,NR
+Pune,30/05/2006,1.8,Other,200,300,250
+Pune,31/05/2006,0.8,Other,200,250,225
+Pune(Khadiki),04/05/2006,15.2, ,NR,NR,NR
+Pune(Khadiki),07/05/2006,8.4, ,NR,NR,NR
+Pune(Khadiki),08/05/2006,8.7, ,NR,NR,NR
+Pune(Khadiki),09/05/2006,8.6, ,NR,NR,NR
+Pune(Khadiki),10/05/2006,8.8, ,NR,NR,NR
+Pune(Khadiki),11/05/2006,6.8, ,NR,NR,NR
+Pune(Khadiki),12/05/2006,10.1, ,NR,NR,NR
+Pune(Khadiki),13/05/2006,8, ,NR,NR,NR
+Pune(Khadiki),14/05/2006,7, ,NR,NR,NR
+Pune(Khadiki),15/05/2006,3.7, ,NR,NR,NR
+Pune(Khadiki),17/05/2006,4.6, ,NR,NR,NR
+Pune(Khadiki),18/05/2006,5.4, ,NR,NR,NR
+Pune(Khadiki),19/05/2006,5.7, ,NR,NR,NR
+Pune(Khadiki),20/05/2006,5.8, ,NR,NR,NR
+Pune(Khadiki),21/05/2006,11.4, ,NR,NR,NR
+Pune(Khadiki),22/05/2006,4.4, ,NR,NR,NR
+Pune(Khadiki),23/05/2006,6.3, ,NR,NR,NR
+Pune(Pimpri),01/05/2006,1.1, ,NR,NR,NR
+Pune(Pimpri),04/05/2006,1.2, ,NR,NR,NR
+Pune(Pimpri),05/05/2006,3.6,Other,200,250,225
+Pune(Pimpri),07/05/2006,11.4, ,NR,NR,NR
+Pune(Pimpri),08/05/2006,11.2,Other,200,250,225
+Pune(Pimpri),09/05/2006,4.7, ,NR,NR,NR
+Pune(Pimpri),11/05/2006,4.2, ,NR,NR,NR
+Pune(Pimpri),12/05/2006,0.9,Other,210,210,210
+Pune(Pimpri),13/05/2006,3.5, ,NR,NR,NR
+Pune(Pimpri),14/05/2006,5.2, ,NR,NR,NR
+Pune(Pimpri),15/05/2006,4.5, ,NR,NR,NR
+Pune(Pimpri),17/05/2006,1.8, ,NR,NR,NR
+Pune(Pimpri),18/05/2006,2.9,Other,230,280,255
+Pune(Pimpri),19/05/2006,3.4,Other,220,280,250
+Pune(Pimpri),20/05/2006,2.4, ,NR,NR,NR
+Pune(Pimpri),21/05/2006,1.9,Other,230,270,250
+Pune(Pimpri),22/05/2006,2.8, ,NR,NR,NR
+Pune(Pimpri),23/05/2006,3.3, ,NR,NR,NR
+Rahuri,02/05/2006,1057.5, ,NR,NR,NR
+Rahuri,19/05/2006,965, ,NR,NR,NR
+Rahuri,21/05/2006,1392.5, ,NR,NR,NR
+Rahuri,26/05/2006,1220, ,NR,NR,NR
+Rahuri,28/05/2006,757.5, ,NR,NR,NR
+Rahuri,30/05/2006,1012.5, ,NR,NR,NR
+Sangamner,07/05/2006,1225, ,NR,NR,NR
+Sangamner,09/05/2006,850, ,NR,NR,NR
+Sangamner,11/05/2006,500, ,NR,NR,NR
+Sangamner,14/05/2006,850, ,NR,NR,NR
+Sangamner,16/05/2006,850, ,NR,NR,NR
+Sangamner,18/05/2006,1550, ,NR,NR,NR
+Sangamner,21/05/2006,1750, ,NR,NR,NR
+Sangamner,23/05/2006,1250, ,NR,NR,NR
+Sangamner,25/05/2006,1250, ,NR,NR,NR
+Sangamner,28/05/2006,1350, ,NR,NR,NR
+Sangamner,30/05/2006,1350, ,NR,NR,NR
+Sangli,05/05/2006,22.9, ,NR,NR,NR
+Sangli,08/05/2006,106.3, ,NR,NR,NR
+Sangli,20/05/2006,91.8, ,NR,NR,NR
+Sangli,22/05/2006,162.4, ,NR,NR,NR
+Sangli,24/05/2006,101.2, ,NR,NR,NR
+Sangli,25/05/2006,50, ,NR,NR,NR
+Sangli,27/05/2006,82.2, ,NR,NR,NR
+Sangli,29/05/2006,139.2, ,NR,NR,NR
+Sangli,30/05/2006,15.7, ,NR,NR,NR
+Sangli,31/05/2006,109.1, ,NR,NR,NR
+Sangli(Phale  Bhajipura Market),02/05/2006,21.6, ,NR,NR,NR
+Sangli(Phale  Bhajipura Market),04/05/2006,23, ,NR,NR,NR
+Sangli(Phale  Bhajipura Market),05/05/2006,22.9, ,NR,NR,NR
+Sangli(Phale  Bhajipura Market),08/05/2006,106.3, ,NR,NR,NR
+Sangli(Phale  Bhajipura Market),10/05/2006,56, ,NR,NR,NR
+Sangli(Phale  Bhajipura Market),11/05/2006,78, ,NR,NR,NR
+Sangli(Phale  Bhajipura Market),12/05/2006,28.9, ,NR,NR,NR
+Sangli(Phale  Bhajipura Market),16/05/2006,11.2, ,NR,NR,NR
+Sangli(Phale  Bhajipura Market),17/05/2006,59.4, ,NR,NR,NR
+Sangli(Phale  Bhajipura Market),18/05/2006,27, ,NR,NR,NR
+Sangli(Phale  Bhajipura Market),19/05/2006,49.3, ,NR,NR,NR
+Sangli(Phale  Bhajipura Market),20/05/2006,91.8, ,NR,NR,NR
+Sangli(Phale  Bhajipura Market),22/05/2006,162.4, ,NR,NR,NR
+Satara,04/05/2006,12, ,NR,NR,NR
+Satara,07/05/2006,55.3, ,NR,NR,NR
+Satara,11/05/2006,58.3, ,NR,NR,NR
+Satara,14/05/2006,71.2, ,NR,NR,NR
+Satara,21/05/2006,24.7, ,NR,NR,NR
+Satara,25/05/2006,26.7, ,NR,NR,NR
+Satara,28/05/2006,32.5, ,NR,NR,NR
+Shirpur,17/05/2006,43.2, ,NR,NR,NR
+Shirpur,20/05/2006,12, ,NR,NR,NR
+Shirpur,24/05/2006,3.2, ,NR,NR,NR
+Shirpur,27/05/2006,10, ,NR,NR,NR
+Shirpur,31/05/2006,10, ,NR,NR,NR
+Shrigonda,19/05/2006,235, ,NR,NR,NR
+Shrirampur,10/05/2006,442.5, ,NR,NR,NR
+Shrirampur,13/05/2006,58.6, ,NR,NR,NR
+Shrirampur,15/05/2006,373.1, ,NR,NR,NR
+Shrirampur,19/05/2006,91.5, ,NR,NR,NR
+Shrirampur,21/05/2006,936.9, ,NR,NR,NR
+Shrirampur,25/05/2006,496.1, ,NR,NR,NR
+Sinner,03/05/2006,480.1, ,NR,NR,NR
+Sinner,05/05/2006,38.2, ,NR,NR,NR
+Sinner,08/05/2006,731.8, ,NR,NR,NR
+Sinner,10/05/2006,47.3, ,NR,NR,NR
+Sinner,11/05/2006,17.9, ,NR,NR,NR
+Sinner,12/05/2006,124.2, ,NR,NR,NR
+Sinner,15/05/2006,236.9, ,NR,NR,NR
+Sinner,17/05/2006,270.8, ,NR,NR,NR
+Sinner,18/05/2006,206.1, ,NR,NR,NR
+Sinner,19/05/2006,282.7, ,NR,NR,NR
+Sinner,22/05/2006,485.7, ,NR,NR,NR
+Sinner,24/05/2006,18.1, ,NR,NR,NR
+Sinner,25/05/2006,314.7, ,NR,NR,NR
+Sinner,26/05/2006,440, ,NR,NR,NR
+Sinner,29/05/2006,793, ,NR,NR,NR
+Sinner,31/05/2006,193.1, ,NR,NR,NR
+Solapur,02/05/2006,965.2, ,NR,NR,NR
+Solapur,03/05/2006,949.6, ,NR,NR,NR
+Solapur,04/05/2006,1048.5, ,NR,NR,NR
+Solapur,05/05/2006,1130.3, ,NR,NR,NR
+Solapur,09/05/2006,1141.4, ,NR,NR,NR
+Solapur,10/05/2006,566.7, ,NR,NR,NR
+Solapur,11/05/2006,558.2, ,NR,NR,NR
+Solapur,12/05/2006,601.8, ,NR,NR,NR
+Solapur,16/05/2006,600.4, ,NR,NR,NR
+Solapur,17/05/2006,560, ,NR,NR,NR
+Solapur,18/05/2006,707, ,NR,NR,NR
+Solapur,19/05/2006,907.4, ,NR,NR,NR
+Solapur,25/05/2006,511.6, ,NR,NR,NR
+Solapur,26/05/2006,717, ,NR,NR,NR
+Solapur,27/05/2006,823.4, ,NR,NR,NR
+Solapur,29/05/2006,603, ,NR,NR,NR
+Solapur,30/05/2006,495.4, ,NR,NR,NR
+Solapur,31/05/2006,531.3, ,NR,NR,NR
+Ulhasnagar,22/05/2006,0.1,Other,375,500,400
+Ulhasnagar,29/05/2006,0.1,Other,375,425,400
+Ulhasnagar,30/05/2006,0.1,Other,375,500,400
+Vai,04/05/2006,0.4, ,NR,NR,NR
+Vai,29/05/2006,1.3,Other,225,250,235
+Vasai,06/05/2006,24.2,Other,300,600,400
+Vasai,07/05/2006,21.5,Other,400,600,500
+Vasai,08/05/2006,26.4,Other,400,650,500
+Vasai,12/05/2006,27.6,Other,350,600,400
+Vasai,13/05/2006,22,Other,300,550,375
+Vasai,14/05/2006,16,Other,300,550,425
+Vasai,15/05/2006,24.2,Other,350,600,425
+Vasai,16/05/2006,25.3,Other,300,400,350
+Vasai,17/05/2006,32,Other,400,600,500
+Vasai,18/05/2006,21.2,Other,350,475,375
+Vasai,21/05/2006,31.8,Other,350,550,500
+Vasai,22/05/2006,51.8,Other,350,625,600
+Vasai,23/05/2006,45.2,Other,350,500,400
+Vasai,24/05/2006,26,Other,345,500,400
+Vasai,27/05/2006,30.4,Other,350,500,400
+Vasai,28/05/2006,21.5,Other,350,450,400
+Yeola,03/05/2006,1532.3, ,NR,NR,NR
+Yeola,04/05/2006,1045.9, ,NR,NR,NR
+Yeola,05/05/2006,1353.6, ,NR,NR,NR
+Yeola,06/05/2006,522, ,NR,NR,NR
+Yeola,07/05/2006,330, ,NR,NR,NR
+Yeola,08/05/2006,950.6, ,NR,NR,NR
+Yeola,11/05/2006,474.8, ,NR,NR,NR
+Yeola,12/05/2006,881.4, ,NR,NR,NR
+Yeola,13/05/2006,531, ,NR,NR,NR
+Yeola,15/05/2006,699.4, ,NR,NR,NR
+Yeola,18/05/2006,589.5, ,NR,NR,NR
+Yeola,19/05/2006,986.9, ,NR,NR,NR
+Yeola,20/05/2006,715.4, ,NR,NR,NR
+Yeola,22/05/2006,570.1, ,NR,NR,NR
+Yeola,23/05/2006,220, ,NR,NR,NR
+Yeola,24/05/2006,238.7, ,NR,NR,NR
+Yeola,25/05/2006,309, ,NR,NR,NR
+Yeola,26/05/2006,305.8, ,NR,NR,NR
+Yeola,28/05/2006,237, ,NR,NR,NR
+Yeola,29/05/2006,186.1, ,NR,NR,NR
+Yeola,31/05/2006,439.4, ,NR,NR,NR

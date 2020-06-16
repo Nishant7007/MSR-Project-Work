@@ -1,0 +1,428 @@
+Market,Arrival Date,Arrivals (Tonnes),Variety,Minimum Price(Rs./Quintal),Maximum Price(Rs./Quintal),Modal Price(Rs./Quintal)
+Arasikere,02/11/2016,46,Onion,150,400,200
+Arasikere,03/11/2016,18,Onion,300,300,300
+Arasikere,05/11/2016,8,Onion,300,400,300
+Arasikere,07/11/2016,47,Onion,225,400,250
+Arasikere,09/11/2016,56,Onion,150,400,350
+Arasikere,10/11/2016,11,Onion,400,400,400
+Arasikere,11/11/2016,5,Onion,400,400,400
+Arasikere,14/11/2016,37,Onion,225,400,400
+Arasikere,15/11/2016,14,Onion,300,360,360
+Arasikere,16/11/2016,12,Onion,400,400,400
+Arasikere,18/11/2016,15,Onion,360,360,360
+Arasikere,21/11/2016,8,Onion,400,700,400
+Arasikere,22/11/2016,8,Onion,300,300,300
+Arasikere,23/11/2016,16,Onion,250,400,400
+Arasikere,26/11/2016,6,Onion,400,400,400
+Arasikere,28/11/2016,5,Onion,400,400,400
+Arasikere,29/11/2016,21,Onion,250,400,250
+Bagalakot,01/11/2016,686,Onion,300,1000,600
+Bagalakot,05/11/2016,1143,Onion,300,1000,650
+Bagalakot,08/11/2016,1023,Onion,200,1100,700
+Bagalakot,19/11/2016,871,Onion,250,900,700
+Bagalakot,22/11/2016,943,Onion,300,800,650
+Bagalakot,26/11/2016,897,Onion,250,900,630
+Bagepalli,02/11/2016,6,Onion,650,950,810
+Bagepalli,04/11/2016,3,Onion,650,1100,950
+Bagepalli,07/11/2016,8,Onion,600,1050,910
+Bagepalli,08/11/2016,2,Onion,600,1200,950
+Bagepalli,14/11/2016,6,Onion,620,1050,880
+Bagepalli,16/11/2016,3,Onion,600,900,810
+Bagepalli,22/11/2016,5,Onion,650,840,750
+Bagepalli,24/11/2016,2,Onion,600,920,760
+Bagepalli,25/11/2016,1,Onion,800,1400,1250
+Bagepalli,26/11/2016,2,Onion,600,850,800
+Bangalore,02/11/2016,12157,Bangalore-Samall,100,500,300
+Bangalore,02/11/2016,12157,Local,500,800,650
+Bangalore,02/11/2016,12157,Onion,800,1250,1025
+Bangalore,02/11/2016,12157,Puna,800,1000,900
+Bangalore,03/11/2016,5633,Bangalore-Samall,100,500,300
+Bangalore,03/11/2016,5633,Local,700,800,750
+Bangalore,03/11/2016,5633,Onion,1000,1400,1200
+Bangalore,03/11/2016,5633,Puna,800,1000,900
+Bangalore,04/11/2016,8315,Bangalore-Samall,100,500,300
+Bangalore,04/11/2016,8315,Local,700,800,750
+Bangalore,04/11/2016,8315,Onion,1000,1300,1150
+Bangalore,04/11/2016,8315,Puna,800,1000,900
+Bangalore,05/11/2016,9434,Bangalore-Samall,150,500,325
+Bangalore,05/11/2016,9434,Local,600,800,700
+Bangalore,05/11/2016,9434,Onion,1000,1250,1125
+Bangalore,05/11/2016,9434,Puna,800,1000,900
+Bangalore,07/11/2016,10602,Bangalore-Samall,100,500,300
+Bangalore,07/11/2016,10602,Local,700,800,750
+Bangalore,07/11/2016,10602,Onion,1000,1250,1150
+Bangalore,07/11/2016,10602,Puna,800,1000,900
+Bangalore,08/11/2016,9122,Bangalore-Samall,100,500,300
+Bangalore,08/11/2016,9122,Local,600,800,700
+Bangalore,08/11/2016,9122,Onion,1000,1400,1200
+Bangalore,08/11/2016,9122,Puna,800,1100,950
+Bangalore,09/11/2016,8513,Bangalore-Samall,100,500,300
+Bangalore,09/11/2016,8513,Local,600,800,700
+Bangalore,09/11/2016,8513,Onion,1200,1400,1300
+Bangalore,09/11/2016,8513,Puna,800,1100,950
+Bangalore,10/11/2016,5055,Bangalore-Samall,100,500,300
+Bangalore,10/11/2016,5055,Local,600,800,700
+Bangalore,10/11/2016,5055,Onion,1200,1400,1300
+Bangalore,10/11/2016,5055,Puna,800,1100,950
+Bangalore,11/11/2016,5397,Bangalore-Samall,100,500,300
+Bangalore,11/11/2016,5397,Local,600,850,725
+Bangalore,11/11/2016,5397,Onion,1000,1400,1200
+Bangalore,11/11/2016,5397,Puna,800,1100,950
+Bangalore,14/11/2016,15591,Bangalore-Samall,100,500,300
+Bangalore,14/11/2016,15591,Local,800,1000,900
+Bangalore,14/11/2016,15591,Onion,1200,1600,1400
+Bangalore,14/11/2016,15591,Puna,800,1400,1100
+Bangalore,15/11/2016,7590,Bangalore-Samall,100,500,300
+Bangalore,15/11/2016,7590,Local,800,1000,900
+Bangalore,15/11/2016,7590,Onion,1200,1600,1400
+Bangalore,15/11/2016,7590,Puna,800,1400,1100
+Bangalore,16/11/2016,7760,Bangalore-Samall,100,400,250
+Bangalore,16/11/2016,7760,Local,500,1000,800
+Bangalore,16/11/2016,7760,Onion,1000,1600,1300
+Bangalore,16/11/2016,7760,Puna,800,1400,1100
+Bangalore,18/11/2016,15933,Bangalore-Samall,100,400,250
+Bangalore,18/11/2016,15933,Local,500,1000,800
+Bangalore,18/11/2016,15933,Onion,1000,1700,1350
+Bangalore,18/11/2016,15933,Puna,800,1400,1100
+Bangalore,19/11/2016,7946,Bangalore-Samall,100,400,250
+Bangalore,19/11/2016,7946,Local,500,1000,800
+Bangalore,19/11/2016,7946,Onion,1000,1700,1350
+Bangalore,19/11/2016,7946,Puna,600,1400,1000
+Bangalore,21/11/2016,8909,Bangalore-Samall,200,600,350
+Bangalore,21/11/2016,8909,Local,600,1000,800
+Bangalore,21/11/2016,8909,Onion,1000,1500,1250
+Bangalore,21/11/2016,8909,Puna,600,1300,950
+Bangalore,22/11/2016,7814,Bangalore-Samall,200,600,350
+Bangalore,22/11/2016,7814,Local,600,1000,800
+Bangalore,22/11/2016,7814,Onion,1000,1500,1250
+Bangalore,22/11/2016,7814,Puna,600,1300,950
+Bangalore,23/11/2016,6183,Bangalore-Samall,100,600,350
+Bangalore,23/11/2016,6183,Local,600,1000,800
+Bangalore,23/11/2016,6183,Onion,1000,1600,1300
+Bangalore,23/11/2016,6183,Puna,600,1500,1050
+Bangalore,24/11/2016,6972,Bangalore-Samall,100,600,350
+Bangalore,24/11/2016,6972,Local,600,1000,800
+Bangalore,24/11/2016,6972,Onion,1000,1500,1250
+Bangalore,24/11/2016,6972,Puna,600,1400,1000
+Bangalore,25/11/2016,7217,Bangalore-Samall,100,600,350
+Bangalore,25/11/2016,7217,Local,600,1000,800
+Bangalore,25/11/2016,7217,Onion,1000,1500,1250
+Bangalore,25/11/2016,7217,Puna,600,1400,1000
+Bangalore,26/11/2016,7721,Bangalore-Samall,100,600,350
+Bangalore,26/11/2016,7721,Local,600,1000,800
+Bangalore,26/11/2016,7721,Onion,1000,1500,1250
+Bangalore,26/11/2016,7721,Puna,600,1400,1000
+Bangalore,28/11/2016,4007,Bangalore-Samall,100,600,350
+Bangalore,28/11/2016,4007,Local,600,1000,800
+Bangalore,28/11/2016,4007,Onion,1000,1400,1200
+Bangalore,28/11/2016,4007,Puna,600,1400,1000
+Bangalore,29/11/2016,5479,Bangalore-Samall,100,600,350
+Bangalore,29/11/2016,5479,Local,600,1000,800
+Bangalore,29/11/2016,5479,Onion,1000,1400,1200
+Bangalore,29/11/2016,5479,Puna,600,1400,1000
+Bangalore,30/11/2016,5406,Bangalore-Samall,100,500,300
+Bangalore,30/11/2016,5406,Local,500,1000,750
+Bangalore,30/11/2016,5406,Onion,1000,1600,1300
+Bangalore,30/11/2016,5406,Puna,1000,1300,1100
+Belgaum,02/11/2016,1316,Pusa-Red,300,1270,700
+Belgaum,02/11/2016,1316,White,320,1300,900
+Belgaum,03/11/2016,136,Pusa-Red,300,1270,700
+Belgaum,03/11/2016,136,White,320,1300,900
+Belgaum,04/11/2016,128,Pusa-Red,300,1200,700
+Belgaum,04/11/2016,128,White,320,1300,900
+Belgaum,05/11/2016,2081,Pusa-Red,350,1500,800
+Belgaum,05/11/2016,2081,White,370,1800,920
+Belgaum,06/11/2016,185,Pusa-Red,350,1500,800
+Belgaum,06/11/2016,185,White,370,1800,920
+Belgaum,07/11/2016,13,Pusa-Red,350,1500,800
+Belgaum,07/11/2016,13,White,370,1800,920
+Belgaum,09/11/2016,3104,Pusa-Red,300,1300,790
+Belgaum,09/11/2016,3104,White,380,1820,900
+Belgaum,10/11/2016,211,Pusa-Red,360,1300,790
+Belgaum,10/11/2016,211,White,380,1820,900
+Belgaum,11/11/2016,171,Pusa-Red,360,1300,790
+Belgaum,11/11/2016,171,White,380,1820,900
+Belgaum,12/11/2016,2487,Pusa-Red,400,1350,860
+Belgaum,12/11/2016,2487,White,430,1650,980
+Belgaum,13/11/2016,84,Pusa-Red,400,1400,860
+Belgaum,13/11/2016,84,White,430,1650,980
+Belgaum,18/11/2016,314,Pusa-Red,400,1400,860
+Belgaum,18/11/2016,314,White,430,1650,980
+Belgaum,19/11/2016,1760,Pusa-Red,320,1340,900
+Belgaum,19/11/2016,1760,White,360,1600,950
+Belgaum,20/11/2016,189,Pusa-Red,320,1340,900
+Belgaum,20/11/2016,189,White,360,1600,950
+Belgaum,21/11/2016,18,Pusa-Red,320,1340,900
+Belgaum,21/11/2016,18,White,360,1600,950
+Belgaum,23/11/2016,2334,Pusa-Red,230,1500,890
+Belgaum,23/11/2016,2334,White,300,1600,930
+Belgaum,24/11/2016,227,Pusa-Red,230,1500,890
+Belgaum,24/11/2016,227,White,300,1600,930
+Belgaum,25/11/2016,37,Pusa-Red,230,1500,890
+Belgaum,25/11/2016,37,White,300,1600,930
+Belgaum,26/11/2016,22,Pusa-Red,230,1500,890
+Belgaum,26/11/2016,22,White,300,1600,930
+Belgaum,27/11/2016,61,Pusa-Red,230,1500,890
+Belgaum,27/11/2016,61,White,300,1600,930
+Belgaum,28/11/2016,49,Pusa-Red,230,1500,890
+Belgaum,28/11/2016,49,White,300,1600,930
+Belgaum,30/11/2016,1852,Pusa-Red,300,1100,800
+Belgaum,30/11/2016,1852,White,350,1600,900
+Bidar,18/11/2016,12,Local,1250,1350,1300
+Bidar,19/11/2016,12,Local,1250,1325,1300
+Bidar,24/11/2016,7,Local,1250,1360,1300
+Bidar,25/11/2016,8,Local,1250,1331,1300
+Bijapur,02/11/2016,15,Onion,300,700,500
+Bijapur,03/11/2016,50,Onion,300,700,500
+Bijapur,07/11/2016,77,Onion,400,900,600
+Bijapur,10/11/2016,57,Onion,500,1200,800
+Bijapur,18/11/2016,44,Onion,600,1200,900
+Bijapur,21/11/2016,90,Onion,600,1200,900
+Bijapur,24/11/2016,74,Onion,400,1100,750
+Bijapur,28/11/2016,81,Onion,400,1000,700
+Chickkaballapura,02/11/2016,43,Beelary-Red,800,1400,1200
+Chickkaballapura,05/11/2016,31,Beelary-Red,1000,1400,1200
+Chickkaballapura,09/11/2016,27,Beelary-Red,1000,1400,1200
+Chickkaballapura,12/11/2016,23,Beelary-Red,800,1200,1000
+Chickkaballapura,16/11/2016,36,Beelary-Red,1000,1400,1200
+Chickkaballapura,19/11/2016,35,Beelary-Red,1000,1400,1200
+Chickkaballapura,23/11/2016,16,Beelary-Red,1000,1500,1300
+Chickkaballapura,26/11/2016,28,Beelary-Red,1200,1500,1350
+Chickkaballapura,29/11/2016,6,Beelary-Red,600,1300,900
+Chikkamagalore,02/11/2016,72,Other,429,629,529
+Chikkamagalore,03/11/2016,5,Other,380,580,480
+Chikkamagalore,04/11/2016,14,Other,389,589,489
+Chikkamagalore,05/11/2016,11,Other,310,510,410
+Chikkamagalore,07/11/2016,47,Other,400,508,408
+Chikkamagalore,08/11/2016,7,Other,606,606,606
+Chikkamagalore,09/11/2016,7,Other,666,714,704
+Chikkamagalore,10/11/2016,10,Other,444,644,544
+Chikkamagalore,11/11/2016,7,Other,666,714,681
+Chikkamagalore,14/11/2016,11,Other,740,740,740
+Chikkamagalore,16/11/2016,9,Other,400,688,488
+Chikkamagalore,18/11/2016,2,Other,714,714,714
+Chikkamagalore,19/11/2016,10,Other,714,714,714
+Chikkamagalore,21/11/2016,12,Other,714,714,714
+Chikkamagalore,22/11/2016,5,Other,714,769,744
+Chikkamagalore,23/11/2016,3,Other,714,789,758
+Chikkamagalore,25/11/2016,1,Other,614,814,714
+Chikkamagalore,26/11/2016,6,Other,650,850,750
+Chikkamagalore,28/11/2016,6,Other,834,1234,1034
+Chikkamagalore,29/11/2016,2,Other,833,833,833
+Chikkamagalore,30/11/2016,9,Other,695,895,795
+Davangere,02/11/2016,65,Onion,200,800,500
+Davangere,03/11/2016,100,Onion,100,1000,550
+Davangere,04/11/2016,70,Onion,100,1100,600
+Davangere,05/11/2016,120,Onion,100,1100,600
+Davangere,07/11/2016,150,Onion,200,1200,700
+Davangere,08/11/2016,100,Onion,200,1100,650
+Davangere,09/11/2016,50,Onion,200,1100,650
+Davangere,10/11/2016,80,Onion,250,1000,625
+Davangere,11/11/2016,50,Onion,50,1000,525
+Davangere,18/11/2016,95,Onion,100,1200,650
+Davangere,19/11/2016,80,Onion,200,1200,700
+Davangere,21/11/2016,135,Onion,50,1000,525
+Davangere,22/11/2016,50,Onion,50,900,475
+Davangere,23/11/2016,80,Onion,100,1000,550
+Davangere,24/11/2016,50,Onion,100,1200,650
+Davangere,25/11/2016,60,Onion,50,1000,525
+Davangere,26/11/2016,90,Onion,50,1000,525
+Davangere,28/11/2016,65,Onion,50,800,425
+Davangere,29/11/2016,65,Onion,50,900,475
+Davangere,30/11/2016,50,Onion,50,900,475
+Gadag,02/11/2016,23,Onion,100,800,450
+Gadag,03/11/2016,35,Onion,100,800,500
+Gadag,04/11/2016,40,Onion,100,1000,500
+Gadag,05/11/2016,120,Onion,100,1200,500
+Gadag,07/11/2016,165,Onion,100,1000,600
+Gadag,08/11/2016,170,Onion,100,1000,600
+Gadag,09/11/2016,140,Onion,100,900,500
+Gadag,10/11/2016,173,Onion,100,1000,500
+Gadag,14/11/2016,265,Onion,100,1000,500
+Gadag,15/11/2016,245,Onion,100,1100,500
+Gadag,16/11/2016,450,Onion,100,1000,500
+Gadag,18/11/2016,40,Onion,100,1000,500
+Gadag,19/11/2016,100,Onion,100,1000,500
+Gadag,21/11/2016,470,Onion,100,1000,500
+Gadag,22/11/2016,310,Onion,100,1000,450
+Gadag,23/11/2016,138,Onion,100,1100,600
+Gadag,24/11/2016,163,Onion,120,1000,400
+Gadag,25/11/2016,553,Onion,150,950,400
+Gadag,26/11/2016,307,Onion,100,1000,500
+Gadag,28/11/2016,220,Onion,150,1000,550
+Gadag,29/11/2016,222,Onion,100,1000,460
+Gadag,30/11/2016,362,Onion,100,900,600
+Gowribidanoor,03/11/2016,6,Beelary-Red,750,900,800
+Gowribidanoor,11/11/2016,8,Beelary-Red,750,900,800
+Gowribidanoor,25/11/2016,8,Beelary-Red,550,1000,750
+Gundlupet,08/11/2016,8,Other,400,400,400
+Hassan,02/11/2016,549,Other,517,1000,517
+Hassan,03/11/2016,678,Other,248,637,365
+Hassan,04/11/2016,661,Other,305,585,445
+Hassan,09/11/2016,781,Other,250,1000,558
+Hassan,15/11/2016,569,Other,234,1275,650
+Hassan,18/11/2016,124,Other,300,500,500
+Hassan,23/11/2016,734,Other,403,418,418
+Hassan,24/11/2016,1767,Other,291,1112,582
+Hassan,30/11/2016,1045,Other,430,713,560
+Holalkere,02/11/2016,89,Onion,600,900,685
+Holalkere,03/11/2016,30,Onion,600,800,700
+Holalkere,04/11/2016,50,Onion,533,800,666
+Holalkere,05/11/2016,10,Onion,800,800,800
+Holalkere,07/11/2016,102,Onion,533,800,559
+Holalkere,08/11/2016,85,Onion,533,700,552
+Holalkere,09/11/2016,30,Onion,800,1200,933
+Holalkere,10/11/2016,118,Onion,470,800,578
+Holalkere,11/11/2016,70,Onion,800,800,800
+Holalkere,14/11/2016,300,Onion,467,800,527
+Holalkere,15/11/2016,40,Onion,600,800,700
+Holalkere,16/11/2016,10,Onion,500,500,500
+Holalkere,18/11/2016,40,Onion,700,1000,800
+Holalkere,21/11/2016,25,Onion,600,600,600
+Holalkere,22/11/2016,20,Onion,500,600,550
+Holalkere,24/11/2016,10,Onion,500,500,500
+Holalkere,26/11/2016,10,Onion,800,800,800
+Holalkere,28/11/2016,15,Onion,533,533,533
+Hospet,02/11/2016,21,Local,400,900,800
+Hospet,05/11/2016,3,Local,1100,1100,1100
+Hospet,08/11/2016,20,Local,600,800,700
+Hospet,09/11/2016,5,Local,500,1000,600
+Hospet,13/11/2016,3,Local,1000,1000,1000
+Hospet,15/11/2016,14,Local,700,1000,800
+Hospet,16/11/2016,11,Local,500,1200,700
+Hospet,21/11/2016,18,Local,700,1000,800
+Hospet,22/11/2016,9,Local,600,1300,700
+Hospet,23/11/2016,3,Local,500,800,500
+Hospet,27/11/2016,3,Local,1000,1000,1000
+Hospet,28/11/2016,13,Local,700,800,800
+Hospet,30/11/2016,9,Local,500,1000,800
+Hubli (Amaragol),02/11/2016,1615,Local,250,1200,580
+Hubli (Amaragol),02/11/2016,1615,Telagi,250,1150,560
+Hubli (Amaragol),03/11/2016,1539,Local,250,1300,600
+Hubli (Amaragol),03/11/2016,1539,Telagi,250,1150,580
+Hubli (Amaragol),04/11/2016,1870,Local,250,1290,630
+Hubli (Amaragol),04/11/2016,1870,Telagi,250,1200,600
+Hubli (Amaragol),05/11/2016,2299,Local,250,1200,580
+Hubli (Amaragol),05/11/2016,2299,Telagi,300,1100,560
+Hubli (Amaragol),07/11/2016,2608,Local,250,1400,640
+Hubli (Amaragol),07/11/2016,2608,Puna,400,1300,625
+Hubli (Amaragol),07/11/2016,2608,Telagi,250,1300,620
+Hubli (Amaragol),08/11/2016,2195,Local,200,1350,650
+Hubli (Amaragol),08/11/2016,2195,Telagi,250,1200,630
+Hubli (Amaragol),09/11/2016,2299,Local,200,1420,770
+Hubli (Amaragol),09/11/2016,2299,Telagi,250,1300,750
+Hubli (Amaragol),10/11/2016,2369,Local,200,1500,780
+Hubli (Amaragol),10/11/2016,2369,Telagi,250,1300,740
+Hubli (Amaragol),15/11/2016,9,Local,300,600,450
+Hubli (Amaragol),19/11/2016,20,Local,1100,1400,1250
+Hubli (Amaragol),21/11/2016,2558,Local,250,1370,720
+Hubli (Amaragol),21/11/2016,2558,Telagi,250,1350,700
+Hubli (Amaragol),22/11/2016,1861,Local,250,1200,670
+Hubli (Amaragol),22/11/2016,1861,Telagi,300,1250,680
+Hubli (Amaragol),23/11/2016,855,Local,250,1200,680
+Hubli (Amaragol),23/11/2016,855,Telagi,250,1050,650
+Hubli (Amaragol),24/11/2016,1319,Local,250,1200,670
+Hubli (Amaragol),24/11/2016,1319,Telagi,250,1150,660
+Hubli (Amaragol),25/11/2016,1403,Local,250,1100,600
+Hubli (Amaragol),25/11/2016,1403,Telagi,250,1000,580
+Hubli (Amaragol),26/11/2016,1274,Local,250,1200,620
+Hubli (Amaragol),26/11/2016,1274,Telagi,250,1070,570
+Hubli (Amaragol),30/11/2016,583,Local,250,1300,660
+Hubli (Amaragol),30/11/2016,583,Telagi,250,1200,650
+Jamakhandi,03/11/2016,54,Onion,300,800,600
+Jamakhandi,10/11/2016,43,Onion,300,600,500
+Jamakhandi,17/11/2016,54,Onion,300,1000,700
+Jamakhandi,24/11/2016,76,Onion,300,900,600
+Kolar,04/11/2016,6,Other,800,1200,1000
+Kolar,10/11/2016,5,Other,800,1200,1000
+Kolar,16/11/2016,3,Other,800,1100,1000
+Malur,11/11/2016,4,Other,1500,2100,2000
+Malur,15/11/2016,3,Other,1300,1800,1600
+Malur,18/11/2016,3,Other,1500,1800,1600
+Mysore (Bandipalya),03/11/2016,35,Other,400,1100,750
+Mysore (Bandipalya),04/11/2016,79,Other,400,1000,700
+Mysore (Bandipalya),05/11/2016,173,Other,400,1000,700
+Mysore (Bandipalya),08/11/2016,78,Other,400,1200,800
+Mysore (Bandipalya),09/11/2016,59,Other,200,1000,600
+Mysore (Bandipalya),11/11/2016,44,Other,300,1100,700
+Mysore (Bandipalya),18/11/2016,312,Other,300,1100,700
+Mysore (Bandipalya),28/11/2016,213,Other,200,1100,650
+Mysore (Bandipalya),29/11/2016,234,Other,300,1200,750
+Mysore (Bandipalya),30/11/2016,280,Other,200,1000,600
+Raichur,02/11/2016,64,Onion,150,780,461
+Raichur,03/11/2016,73,Onion,200,910,445
+Raichur,04/11/2016,63,Onion,241,1080,531
+Raichur,05/11/2016,119,Onion,290,1171,519
+Raichur,07/11/2016,118,Onion,220,1075,560
+Raichur,08/11/2016,146,Onion,300,1100,575
+Raichur,09/11/2016,100,Onion,290,1066,546
+Raichur,10/11/2016,125,Onion,280,1041,465
+Raichur,11/11/2016,124,Onion,255,1060,550
+Raichur,12/11/2016,113,Onion,325,1171,530
+Raichur,14/11/2016,128,Onion,440,1390,591
+Raichur,15/11/2016,176,Onion,450,1427,840
+Raichur,16/11/2016,211,Onion,500,1401,780
+Raichur,18/11/2016,170,Onion,380,1223,780
+Raichur,19/11/2016,140,Onion,400,1130,560
+Raichur,21/11/2016,213,Onion,350,1201,550
+Raichur,22/11/2016,180,Onion,340,1145,500
+Raichur,23/11/2016,154,Onion,370,1340,600
+Raichur,24/11/2016,203,Onion,430,1186,550
+Raichur,25/11/2016,136,Onion,350,1171,575
+Raichur,26/11/2016,152,Onion,345,1080,631
+Raichur,28/11/2016,59,Onion,336,1125,546
+Raichur,30/11/2016,132,Onion,311,1011,620
+Ranebennur,02/11/2016,145,Local,150,700,450
+Ranebennur,03/11/2016,61,Local,250,750,450
+Ranebennur,04/11/2016,118,Local,150,825,480
+Ranebennur,05/11/2016,153,Local,100,900,450
+Ranebennur,07/11/2016,131,Local,100,900,450
+Ranebennur,08/11/2016,95,Local,100,900,550
+Ranebennur,09/11/2016,245,Local,100,900,600
+Ranebennur,10/11/2016,140,Local,100,900,620
+Ranebennur,11/11/2016,146,Local,100,900,590
+Ranebennur,17/11/2016,175,Local,100,920,620
+Ranebennur,18/11/2016,125,Local,100,900,550
+Ranebennur,21/11/2016,354,Local,150,800,550
+Ranebennur,22/11/2016,85,Local,100,700,450
+Ranebennur,23/11/2016,199,Local,100,750,460
+Ranebennur,25/11/2016,450,Local,100,750,550
+Ranebennur,28/11/2016,168,Local,150,700,340
+Ranebennur,29/11/2016,150,Local,180,600,460
+Ranebennur,30/11/2016,135,Local,200,600,450
+Shimoga,02/11/2016,3,Onion,1000,1200,1100
+Shimoga,03/11/2016,3,Onion,1000,1200,1100
+Shimoga,04/11/2016,3,Onion,1000,1200,1100
+Shimoga,07/11/2016,3,Onion,1000,1200,1100
+Shimoga,08/11/2016,15,Onion,1000,1200,1100
+Shimoga,09/11/2016,3,Onion,1000,1200,1100
+Shimoga,10/11/2016,3,Onion,1000,1200,1100
+Shimoga,11/11/2016,9,Onion,1000,1200,1100
+Shimoga,14/11/2016,3,Onion,1000,1200,1100
+Shimoga,15/11/2016,3,Onion,1000,1200,1100
+Shimoga,16/11/2016,2,Onion,1000,1200,1100
+Shimoga,18/11/2016,3,Onion,1000,1200,1100
+Shimoga,21/11/2016,3,Onion,1000,1200,1100
+Shimoga,22/11/2016,2,Onion,1000,1200,1100
+Shimoga,23/11/2016,2,Onion,1000,1200,1100
+Shimoga,24/11/2016,3,Onion,1000,1200,1100
+Shimoga,25/11/2016,3,Onion,1000,1200,1100
+Shimoga,28/11/2016,3,Onion,1000,1200,1100
+Shimoga,29/11/2016,2,Onion,1000,1200,1100
+Shimoga,30/11/2016,2,Onion,1000,1200,1100
+Sirsi,30/11/2016,1,Other,1300,1300,1300
+Srinivasapur,05/11/2016,3,Other,600,1000,800
+Tarikere,02/11/2016,20,Local,300,300,300
+Tarikere,04/11/2016,15,Other,500,500,500
+Tarikere,08/11/2016,15,Other,400,400,400
+Tarikere,14/11/2016,15,Other,400,400,400
+Tarikere,18/11/2016,10,Other,700,700,700
+Tumkur,04/11/2016,1,Other,450,800,650
+Tumkur,07/11/2016,1,Other,400,800,680
+Tumkur,17/11/2016,1,Other,400,1000,800
+Tumkur,25/11/2016,1,Other,450,1000,780
+Udupi,02/11/2016,18,Other,800,1000,900
+Udupi,09/11/2016,2,Other,1000,1400,1200
+Udupi,16/11/2016,17,Other,1100,1300,1200
+Udupi,23/11/2016,2,Other,1300,1500,1400
+Udupi,30/11/2016,44,Other,700,900,800

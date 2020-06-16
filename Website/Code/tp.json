@@ -1,0 +1,9 @@
+list = {"months": ["January","February","March","April","May","June","July","August","September","October","November","December"]},
+{"year": [2020, 2021, 2022]},
+{"commodityList": ["Onion" , "Potato"]},
+{"potatoStates": ["Uttar Pradesh", "West Bengal"]},
+{"onionStates": ["Maharashtra", "NCT of Delhi", "Karnataka"]},
+{"potatoMandis": ["bijnaur", "kalyani"]},
+{"onionMandis": ["lasalgaon", "azadpur", "bangalore"]},
+{"mandiCodes": { "Maharashtra" : ["lasalgaon" , 146],"Karnataka": ["bangalore" , 109],"West Bengal" : ["kalyani" , 578],"NCT of Delhi" : ["azadpur" , 164],"Uttar Pradesh": ["bijnaur" , 284]}},
+{"monthsDict": {"Maharashtra" : ["January", 2020],"Karnataka" : ["January", 2020],"West Bengal" :["January", 2020],"NCT of Delhi" :["January", 2020] ,"Uttar Pradesh" : ["January", 2020]}}

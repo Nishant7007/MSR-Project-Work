@@ -1,0 +1,6 @@
+plt.plot(dx_year[2].rolling(15).mean(),c = 'r')
+plt.plot(dx_year['average'],c = 'b')
+plt.fill_between(dx_year.index, dx_year['average'] - dx_year['std'], dx_year['average'] + dx_year['std'], alpha = 0.3)
+plt.legend(['Retail Price','Average Retail Price'])
+plt.xlabel('Date')
+plt.ylabel('Retail Price Per Quintal')

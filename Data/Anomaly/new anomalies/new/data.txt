@@ -1,0 +1,23 @@
+low onion:
+
+0-23-- bangalore
+24-80-- delhi
+81-128-- mumbai
+
+
+high onion:
+
+0-37--bangalore
+38-93--delhi
+94-131--mumbai
+
+
+low potato:
+
+0-15--kolkata
+16-33--lucknow
+
+high potato:
+
+0-10--kolkata
+11-29--lucknow

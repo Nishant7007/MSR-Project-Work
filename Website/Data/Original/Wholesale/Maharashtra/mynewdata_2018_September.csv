@@ -1,0 +1,1026 @@
+Market,Arrival Date,Arrivals (Tonnes),Variety,Minimum Price(Rs./Quintal),Maximum Price(Rs./Quintal),Modal Price(Rs./Quintal)
+Ahmednagar,04/09/18,2435,Other,200,1300,800
+Ahmednagar,06/09/18,2669,Other,200,1250,800
+Ahmednagar,08/09/18,2534,Other,200,1200,700
+Ahmednagar,10/09/18,2300,Other,200,1100,800
+Ahmednagar,15/09/18,2736,Other,200,1200,750
+Ahmednagar,17/09/18,2478,Other,200,1150,900
+Ahmednagar,20/09/18,2687,Other,200,1100,750
+Ahmednagar,22/09/18,2432,Other,200,1100,750
+Ahmednagar,24/09/18,2026,Other,200,1100,750
+Ahmednagar,27/09/18,2223,Other,200,1100,800
+Ahmednagar,29/09/18,2077,Other,200,1150,750
+Akluj,02/09/18,23,Red,300,900,750
+Akluj,06/09/18,23,Red,300,900,750
+Akluj,09/09/18,21,Red,400,1050,800
+Akluj,16/09/18,16,Red,400,1100,800
+Akluj,20/09/18,22,Red,350,1100,800
+Akluj,27/09/18,18,Red,300,1100,800
+Akluj,30/09/18,31,Red,200,900,700
+Akola,08/09/18,9,Other,300,1100,700
+Akola,10/09/18,14,Other,300,1100,700
+Akola,12/09/18,4,Other,300,1100,700
+Akola,13/09/18,41,Other,300,1100,700
+Akola,14/09/18,16,Other,300,1100,700
+Akola,15/09/18,14,Other,300,1100,700
+Akola,17/09/18,20,Other,300,1100,700
+Akola,18/09/18,10,Other,300,1100,700
+Akola,19/09/18,15,Other,300,1100,700
+Akola,20/09/18,36,Other,300,1100,700
+Akola,24/09/18,26,Other,300,1050,675
+Akola,25/09/18,36,Other,300,1000,650
+Akola,27/09/18,11,Other,300,1000,650
+Akole,06/09/18,284,Other,151,1251,845
+Akole,09/09/18,317,Other,151,1251,911
+Akole,11/09/18,171,Other,150,1151,850
+Akole,16/09/18,296,Other,151,1101,802
+Akole,18/09/18,140,Other,125,1071,760
+Akole,27/09/18,143,Other,100,1000,653
+Akole,30/09/18,110,Other,100,1011,612
+Amarawati,11/09/18,22,Red,600,1300,950
+Amrawati(Frui & Veg. Market),01/09/18,20,Local,700,1300,1000
+Amrawati(Frui & Veg. Market),02/09/18,10,Local,1000,1400,1200
+Amrawati(Frui & Veg. Market),03/09/18,25,Local,800,1600,1200
+Amrawati(Frui & Veg. Market),04/09/18,25,Local,1000,1400,1200
+Amrawati(Frui & Veg. Market),05/09/18,30,Local,1000,1600,1300
+Amrawati(Frui & Veg. Market),07/09/18,35,Local,400,1200,800
+Amrawati(Frui & Veg. Market),08/09/18,25,Local,600,1400,1000
+Amrawati(Frui & Veg. Market),09/09/18,22,Local,600,1300,950
+Amrawati(Frui & Veg. Market),10/09/18,21,Local,600,1200,900
+Amrawati(Frui & Veg. Market),11/09/18,22,Local,600,1300,950
+Amrawati(Frui & Veg. Market),12/09/18,27,Local,1000,1300,1150
+Amrawati(Frui & Veg. Market),14/09/18,22,Local,600,1200,900
+Amrawati(Frui & Veg. Market),15/09/18,23,Local,600,1200,900
+Amrawati(Frui & Veg. Market),16/09/18,31,Local,600,1300,950
+Amrawati(Frui & Veg. Market),17/09/18,25,Local,700,1200,950
+Amrawati(Frui & Veg. Market),18/09/18,25,Local,600,1200,900
+Amrawati(Frui & Veg. Market),19/09/18,31,Local,1000,1400,1200
+Amrawati(Frui & Veg. Market),21/09/18,35,Local,800,1500,1150
+Amrawati(Frui & Veg. Market),22/09/18,32,Local,800,1400,1100
+Amrawati(Frui & Veg. Market),23/09/18,27,Local,800,1400,1100
+Amrawati(Frui & Veg. Market),24/09/18,28,Local,800,1400,1100
+Amrawati(Frui & Veg. Market),25/09/18,30,Local,600,1400,1000
+Amrawati(Frui & Veg. Market),26/09/18,33,Local,700,1400,1050
+Amrawati(Frui & Veg. Market),28/09/18,35,Local,600,1400,1000
+Amrawati(Frui & Veg. Market),29/09/18,38,Local,700,1400,1050
+Amrawati(Frui & Veg. Market),30/09/18,28,Local,700,1500,1100
+Aurangabad,01/09/18,30,Other,300,1000,650
+Aurangabad,02/09/18,57,Other,200,1100,650
+Aurangabad,03/09/18,53,Other,150,1000,575
+Aurangabad,04/09/18,36,Other,100,1000,550
+Aurangabad,05/09/18,33,Other,300,1000,650
+Aurangabad,06/09/18,60,Other,100,1000,550
+Aurangabad,08/09/18,38,Other,200,1000,600
+Aurangabad,09/09/18,62,Other,300,900,600
+Aurangabad,10/09/18,25,Other,200,950,575
+Aurangabad,11/09/18,41,Other,250,850,500
+Aurangabad,13/09/18,115,Other,150,1000,575
+Aurangabad,15/09/18,45,Other,200,800,500
+Aurangabad,16/09/18,67,Other,200,1000,600
+Aurangabad,17/09/18,43,Other,300,1100,700
+Aurangabad,18/09/18,44,Other,200,700,450
+Aurangabad,19/09/18,36,Other,100,600,350
+Aurangabad,20/09/18,60,Other,300,800,550
+Aurangabad,22/09/18,38,Other,100,600,350
+Aurangabad,23/09/18,66,Other,100,1000,550
+Aurangabad,24/09/18,36,Other,300,800,550
+Aurangabad,25/09/18,50,Other,125,950,538
+Aurangabad,26/09/18,33,Other,300,700,500
+Aurangabad,27/09/18,75,Other,200,900,550
+Aurangabad,29/09/18,39,Other,200,1000,600
+Aurangabad,30/09/18,7,Other,300,900,600
+Chalisgaon,03/09/18,296,Red,350,870,770
+Chalisgaon,04/09/18,225,Red,450,840,655
+Chalisgaon,09/09/18,270,Red,301,800,660
+Chalisgaon,10/09/18,310,Red,275,851,665
+Chalisgaon,14/09/18,444,Red,500,819,680
+Chalisgaon,16/09/18,268,Red,501,800,665
+Chalisgaon,17/09/18,230,Red,100,680,500
+Chalisgaon,18/09/18,305,Red,200,711,640
+Chalisgaon,21/09/18,255,Red,200,725,620
+Chalisgaon,24/09/18,215,Red,200,700,590
+Chalisgaon,25/09/18,240,Red,200,681,580
+Chalisgaon,27/09/18,225,Red,300,750,640
+Chalisgaon,28/09/18,247,Red,300,771,680
+Chalisgaon,30/09/18,233,Red,400,844,750
+Chandrapur(Ganjwad),01/09/18,54,Other,1200,1400,1300
+Chandrapur(Ganjwad),03/09/18,40,Other,1200,1400,1300
+Chandrapur(Ganjwad),04/09/18,59,Other,1250,1400,1300
+Chandrapur(Ganjwad),05/09/18,76,Other,1200,1400,1300
+Chandrapur(Ganjwad),06/09/18,43,Other,1200,1400,1300
+Chandrapur(Ganjwad),07/09/18,34,Other,1200,1400,1300
+Chandrapur(Ganjwad),08/09/18,53,Other,1200,1400,1300
+Chandrapur(Ganjwad),11/09/18,22,Other,1200,1400,1300
+Chandrapur(Ganjwad),12/09/18,22,Other,1200,1400,1300
+Chandrapur(Ganjwad),13/09/18,38,Other,1200,1400,1300
+Chandrapur(Ganjwad),14/09/18,39,Other,1000,1400,1300
+Chandrapur(Ganjwad),15/09/18,46,Other,800,1400,1300
+Chandrapur(Ganjwad),16/09/18,66,Other,1300,1500,1400
+Chandrapur(Ganjwad),18/09/18,57,Other,1200,1600,1400
+Chandrapur(Ganjwad),19/09/18,60,Other,1100,1600,1400
+Chandrapur(Ganjwad),25/09/18,26,Other,1400,1600,1500
+Chandrapur(Ganjwad),26/09/18,72,Other,1400,1600,1500
+Chandrapur(Ganjwad),27/09/18,38,Other,1000,1500,1300
+Chandrapur(Ganjwad),28/09/18,42,Other,1400,1600,1500
+Chandrapur(Ganjwad),29/09/18,36,Other,1400,1700,1600
+Chandrapur(Ganjwad),30/09/18,49,Other,1400,1600,1500
+Chandvad,01/09/18,500,Other,450,965,850
+Chandvad,04/09/18,574,Other,300,889,750
+Chandvad,05/09/18,561,Other,400,899,760
+Chandvad,06/09/18,866,Other,450,886,790
+Chandvad,07/09/18,964,Other,400,880,750
+Chandvad,08/09/18,400,Other,440,848,750
+Chandvad,11/09/18,665,Other,500,922,850
+Chandvad,12/09/18,608,Other,500,952,875
+Chandvad,13/09/18,203,Other,400,899,800
+Chandvad,14/09/18,872,Other,450,930,800
+Chandvad,15/09/18,300,Other,300,880,800
+Chandvad,18/09/18,1110,Other,400,874,750
+Chandvad,19/09/18,1045,Other,300,849,690
+Chandvad,21/09/18,1369,Other,300,801,590
+Chandvad,22/09/18,496,Other,350,827,570
+Chandvad,26/09/18,917,Other,351,780,600
+Chandvad,27/09/18,562,Other,300,795,600
+Chandvad,28/09/18,700,Other,350,881,720
+Chandvad,29/09/18,400,Other,400,891,790
+Devala,03/09/18,604,Other,300,955,820
+Devala,04/09/18,648,Other,300,915,800
+Devala,05/09/18,621,Other,300,875,775
+Devala,07/09/18,847,Other,300,925,800
+Devala,10/09/18,548,Other,300,890,800
+Devala,11/09/18,658,Other,400,990,835
+Devala,12/09/18,798,Other,400,925,800
+Devala,14/09/18,737,Other,400,900,800
+Devala,17/09/18,839,Other,400,940,825
+Devala,18/09/18,895,Other,400,880,800
+Devala,19/09/18,572,Other,300,885,750
+Devala,20/09/18,487,Other,400,840,750
+Devala,24/09/18,1048,Other,300,800,675
+Devala,26/09/18,934,Other,300,760,650
+Devala,27/09/18,831,Other,300,765,675
+Devala,28/09/18,614,Other,300,825,725
+Devala,28/09/18,614,Red,1001,1001,1001
+Dhule,03/09/18,126,Red,300,900,720
+Dhule,04/09/18,117,Red,300,900,740
+Dhule,05/09/18,245,Red,300,890,700
+Dhule,06/09/18,203,Red,250,900,710
+Dhule,07/09/18,210,Red,300,875,750
+Dhule,10/09/18,210,Other,300,900,770
+Dhule,11/09/18,52,Red,300,900,750
+Dhule,18/09/18,176,Red,200,800,650
+Dhule,21/09/18,174,Red,200,750,600
+Dhule,22/09/18,285,Red,200,850,600
+Dhule,24/09/18,14,Red,200,650,515
+Dhule,25/09/18,164,Red,200,800,580
+Dhule,26/09/18,213,Red,200,825,580
+Dhule,28/09/18,161,Red,200,900,850
+Dhule,29/09/18,286,Red,200,900,850
+Dindori,03/09/18,12,Other,700,827,781
+Dindori,06/09/18,10,Other,701,775,731
+Dindori,10/09/18,6,Other,656,701,690
+Dindori,14/09/18,9,Other,640,741,700
+Dindori(Vani),01/09/18,364,Other,650,1139,815
+Dindori(Vani),03/09/18,787,Other,500,1059,820
+Dindori(Vani),05/09/18,590,Other,500,1001,785
+Dindori(Vani),06/09/18,4,Other,500,825,700
+Dindori(Vani),07/09/18,783,Other,600,950,755
+Dindori(Vani),08/09/18,276,Other,600,944,770
+Dindori(Vani),10/09/18,507,Other,700,1050,840
+Dindori(Vani),11/09/18,507,Other,700,1050,840
+Dindori(Vani),12/09/18,955,Other,600,1072,800
+Dindori(Vani),14/09/18,775,Other,600,1020,780
+Dindori(Vani),15/09/18,247,Other,530,980,810
+Dindori(Vani),17/09/18,1235,Other,600,981,830
+Dindori(Vani),19/09/18,958,Other,500,1030,740
+Dindori(Vani),20/09/18,533,Other,500,928,660
+Dindori(Vani),21/09/18,526,Other,450,945,650
+Dindori(Vani),22/09/18,442,Other,450,883,625
+Dindori(Vani),24/09/18,1023,Other,400,861,625
+Dindori(Vani),26/09/18,827,Other,500,901,675
+Dindori(Vani),27/09/18,569,Other,550,918,700
+Dindori(Vani),28/09/18,717,Other,600,941,750
+Dindori(Vani),29/09/18,341,Other,650,1071,840
+Gangapur,07/09/18,38,Other,200,1100,700
+Gangapur,14/09/18,46,Other,200,950,525
+Gangapur,18/09/18,48,Other,200,950,650
+Gangapur,28/09/18,23,Other,200,775,575
+Indapur,03/09/18,20,Other,200,1110,700
+Indapur,05/09/18,23,Other,150,1205,700
+Indapur,07/09/18,23,Other,200,1200,700
+Indapur,10/09/18,34,Other,125,1325,650
+Indapur,11/09/18,4,Other,735,850,850
+Indapur,17/09/18,16,Other,100,925,500
+Jalgaon,03/09/18,60,Red,325,950,675
+Jalgaon,04/09/18,48,Red,300,950,600
+Jalgaon,05/09/18,44,Red,300,925,700
+Jalgaon,06/09/18,63,Red,300,900,700
+Jalgaon,07/09/18,63,Red,300,900,700
+Jalgaon,08/09/18,60,Red,300,875,625
+Jalgaon,10/09/18,38,Red,300,850,600
+Jalgaon,11/09/18,68,Red,350,875,600
+Jalgaon,12/09/18,65,Red,350,875,625
+Jalgaon,14/09/18,70,Red,300,850,600
+Jalgaon,15/09/18,55,Red,250,850,600
+Jalgaon,17/09/18,68,Red,250,825,550
+Jalgaon,18/09/18,2,Red,1000,2000,1500
+Jalgaon,18/09/18,2,White,250,800,550
+Jalgaon,19/09/18,68,Red,250,800,500
+Jalgaon,20/09/18,44,Red,250,750,450
+Jalgaon,21/09/18,48,Red,250,762,560
+Jalgaon,22/09/18,58,Red,200,600,400
+Jalgaon,24/09/18,55,Red,150,775,500
+Jalgaon,27/09/18,60,Red,200,750,400
+Jalgaon,28/09/18,58,Red,250,750,400
+Jalgaon,29/09/18,33,Red,200,800,400
+Jamkhed,01/09/18,28,Local,200,1200,700
+Jamkhed,04/09/18,14,Local,200,1000,600
+Jamkhed,08/09/18,29,Local,200,1100,650
+Jamkhed,15/09/18,52,Local,200,1200,700
+Jamkhed,18/09/18,29,Local,200,1200,700
+Jamkhed,22/09/18,30,Local,200,1100,650
+Jamkhed,27/09/18,28,Local,100,1200,650
+Jamkhed,29/09/18,30,Local,200,1000,600
+Junnar,02/09/18,393,Other,800,1150,1000
+Junnar,06/09/18,401,Other,700,1150,1000
+Junnar,12/09/18,349,Other,500,1200,1000
+Junnar,20/09/18,1103,Other,700,1130,1000
+Junnar,27/09/18,526,Other,700,900,800
+Junnar,30/09/18,770,Other,500,1150,1000
+Junnar(Alephata),02/09/18,441,Other,450,1250,850
+Junnar(Alephata),04/09/18,537,Other,450,1250,850
+Junnar(Alephata),07/09/18,692,Other,400,1200,800
+Junnar(Alephata),09/09/18,591,Other,500,1150,800
+Junnar(Alephata),11/09/18,540,Other,400,1115,800
+Junnar(Alephata),14/09/18,617,Other,400,1115,800
+Junnar(Alephata),18/09/18,583,Other,550,1150,750
+Junnar(Alephata),21/09/18,619,Other,400,1100,600
+Junnar(Alephata),23/09/18,321,Other,550,1111,750
+Junnar(Alephata),25/09/18,502,Other,550,1111,850
+Junnar(Alephata),28/09/18,461,Other,510,1100,810
+Junnar(Alephata),30/09/18,342,Other,500,1150,800
+Junnar(Otur),02/09/18,1076,Other,500,1150,1000
+Junnar(Otur),06/09/18,1158,Other,800,1100,1000
+Junnar(Otur),13/09/18,1249,Other,700,1100,1000
+Junnar(Otur),20/09/18,1316,Other,700,1140,1000
+Junnar(Otur),27/09/18,1242,Other,700,1100,1000
+Junnar(Otur),30/09/18,935,Other,700,1100,1000
+Kalvan,03/09/18,1360,Other,200,1025,800
+Kalvan,04/09/18,580,Other,200,1000,800
+Kalvan,05/09/18,580,Other,200,1050,801
+Kalvan,06/09/18,1500,Other,200,1050,800
+Kalvan,07/09/18,845,Other,200,1055,775
+Kalvan,10/09/18,850,Other,150,1035,750
+Kalvan,11/09/18,920,Other,200,1010,750
+Kalvan,12/09/18,570,Other,200,970,750
+Kalvan,14/09/18,1050,Other,200,1030,750
+Kalvan,17/09/18,1580,Other,150,980,750
+Kalvan,18/09/18,1730,Other,150,975,725
+Kalvan,20/09/18,480,Other,150,965,700
+Kalvan,21/09/18,1015,Other,100,935,700
+Kalvan,24/09/18,1340,Other,150,900,701
+Kalvan,26/09/18,1430,Other,150,850,675
+Kamthi,02/09/18,1,Local,1000,1800,1500
+Kamthi,21/09/18,1,Local,600,1400,1100
+Kamthi,23/09/18,1,Local,600,1400,1100
+Kamthi,24/09/18,1,Local,1000,1800,1500
+Kamthi,28/09/18,1,Local,1000,1800,1500
+Kamthi,29/09/18,1,Local,1000,1800,1500
+Karad,01/09/18,15,Other,800,1300,1300
+Karad,02/09/18,13,Other,700,1200,1200
+Karad,03/09/18,8,Other,700,1200,1200
+Karad,04/09/18,20,Other,800,1200,1200
+Karad,05/09/18,15,Other,700,1300,1300
+Karad,06/09/18,25,Other,700,1300,1300
+Karad,08/09/18,20,Other,700,1300,1300
+Karad,09/09/18,25,Other,700,1200,1200
+Karad,10/09/18,20,Other,700,1200,1200
+Karad,11/09/18,23,Other,700,1300,1300
+Karad,12/09/18,18,Other,700,1200,1200
+Karad,15/09/18,30,Other,700,1300,1300
+Karad,16/09/18,23,Other,700,1200,1200
+Karad,17/09/18,15,Other,700,1200,1200
+Karad,18/09/18,25,Other,600,1100,1100
+Karad,19/09/18,15,Other,600,1200,1200
+Karad,20/09/18,20,Other,600,1200,1200
+Karad,22/09/18,20,Other,600,1500,1500
+Karad,23/09/18,15,Other,700,1500,1500
+Karad,24/09/18,20,Other,700,1200,1200
+Karad,25/09/18,15,Other,800,1000,1000
+Karad,26/09/18,25,Other,600,1200,1200
+Karad,27/09/18,15,Other,800,1200,1200
+Karad,29/09/18,20,Other,800,1200,1200
+Karad,30/09/18,25,Other,700,1200,1200
+Khed(Chakan),01/09/18,68,Other,700,1050,900
+Khed(Chakan),05/09/18,44,Other,500,1100,900
+Khed(Chakan),08/09/18,78,Other,700,1000,900
+Khed(Chakan),15/09/18,49,Other,500,900,750
+Khed(Chakan),19/09/18,70,Other,700,1000,800
+Khed(Chakan),22/09/18,55,Other,500,1000,700
+Khed(Chakan),26/09/18,38,Other,300,900,700
+Khed(Chakan),29/09/18,33,Other,400,850,700
+Kolhapur,01/09/18,232,Other,500,1300,900
+Kolhapur,03/09/18,256,Other,500,1350,1000
+Kolhapur,04/09/18,241,Other,500,1300,950
+Kolhapur,05/09/18,456,Other,400,1300,950
+Kolhapur,06/09/18,405,Other,400,1250,900
+Kolhapur,07/09/18,472,Other,500,1200,950
+Kolhapur,08/09/18,481,Other,500,1250,850
+Kolhapur,10/09/18,408,Other,500,1100,900
+Kolhapur,11/09/18,188,Other,500,1300,900
+Kolhapur,12/09/18,288,Other,500,1300,850
+Kolhapur,14/09/18,363,Other,500,1100,850
+Kolhapur,15/09/18,398,Other,500,1250,950
+Kolhapur,18/09/18,478,Other,500,1200,900
+Kolhapur,19/09/18,259,Other,500,1100,900
+Kolhapur,20/09/18,136,Other,400,1200,800
+Kolhapur,21/09/18,242,Other,500,1150,850
+Kolhapur,22/09/18,381,Other,400,1000,700
+Kolhapur,24/09/18,263,Other,400,1200,700
+Kolhapur,25/09/18,210,Other,400,1200,850
+Kolhapur,26/09/18,255,Other,400,1200,850
+Kolhapur,27/09/18,238,Other,400,1250,800
+Kolhapur,28/09/18,181,Other,400,1200,750
+Kolhapur,29/09/18,351,Other,400,1200,850
+Kopargaon,01/09/18,221,Other,100,1050,700
+Kopargaon,04/09/18,215,Other,100,1100,800
+Kopargaon,06/09/18,265,Other,100,1100,750
+Kopargaon,08/09/18,225,Other,100,1100,750
+Kopargaon,11/09/18,266,Other,100,1100,750
+Kopargaon,13/09/18,51,Other,100,1100,800
+Kopargaon,15/09/18,392,Other,100,1100,825
+Kopargaon,18/09/18,340,Other,100,1100,800
+Kopargaon,20/09/18,369,Other,100,1155,850
+Kopargaon,22/09/18,530,Other,100,900,650
+Kopargaon,25/09/18,397,Other,100,900,700
+Kopargaon,27/09/18,250,Other,100,1000,700
+Kopargaon,29/09/18,229,Other,150,1100,800
+Kurdwadi,05/09/18,5,Other,160,1085,625
+Kurdwadi,11/09/18,8,Other,151,1050,750
+Kurdwadi,14/09/18,10,Other,100,1100,650
+Kurdwadi,18/09/18,9,Other,100,950,650
+Kurdwadi,19/09/18,1,Other,201,925,560
+Kurdwadi,21/09/18,1,Other,100,950,525
+Kurdwadi,24/09/18,9,Other,150,925,540
+Lasalgaon,01/09/18,436,Other,401,985,780
+Lasalgaon,04/09/18,1364,Other,300,990,770
+Lasalgaon,05/09/18,1434,Other,351,1026,775
+Lasalgaon,07/09/18,1400,Other,400,1005,751
+Lasalgaon,08/09/18,2122,Other,301,1005,801
+Lasalgaon,10/09/18,1062,Other,300,1025,780
+Lasalgaon,11/09/18,1687, ,NR,NR,NR
+Lasalgaon,12/09/18,1812,Other,301,961,840
+Lasalgaon,14/09/18,1906,Other,301,923,830
+Lasalgaon,15/09/18,400,Other,300,931,851
+Lasalgaon,17/09/18,1600,Other,300,936,801
+Lasalgaon,18/09/18,1070,Other,301,942,751
+Lasalgaon,19/09/18,1430,Other,301,915,725
+Lasalgaon,21/09/18,1804,Other,301,909,701
+Lasalgaon,24/09/18,1434,Other,301,892,701
+Lasalgaon,26/09/18,1235,Other,301,862,651
+Lasalgaon,27/09/18,1373,Other,300,880,680
+Lasalgaon,28/09/18,1257,Other,301,930,801
+Lasalgaon,29/09/18,304,Other,301,961,851
+Lasalgaon(Niphad),01/09/18,334,Other,221,890,790
+Lasalgaon(Niphad),03/09/18,324,Other,300,904,790
+Lasalgaon(Niphad),04/09/18,345,Other,275,890,775
+Lasalgaon(Niphad),05/09/18,397,Other,200,835,750
+Lasalgaon(Niphad),06/09/18,394,Other,251,851,750
+Lasalgaon(Niphad),07/09/18,83,Other,251,811,751
+Lasalgaon(Niphad),08/09/18,293,Other,200,875,781
+Lasalgaon(Niphad),10/09/18,236,Other,270,951,840
+Lasalgaon(Niphad),11/09/18,395,Other,260,922,840
+Lasalgaon(Niphad),12/09/18,533,Other,240,895,800
+Lasalgaon(Niphad),14/09/18,282,Other,200,920,790
+Lasalgaon(Niphad),15/09/18,390,Other,201,902,770
+Lasalgaon(Niphad),17/09/18,561,Other,252,892,760
+Lasalgaon(Niphad),18/09/18,437,Other,251,840,740
+Lasalgaon(Niphad),19/09/18,390,Other,200,785,670
+Lasalgaon(Niphad),20/09/18,186,Other,420,801,640
+Lasalgaon(Niphad),22/09/18,275,Other,220,800,640
+Lasalgaon(Niphad),24/09/18,347,Other,251,765,600
+Lasalgaon(Niphad),26/09/18,435,Other,200,741,600
+Lasalgaon(Niphad),27/09/18,264,Other,211,751,580
+Lasalgaon(Niphad),28/09/18,58,Other,460,800,651
+Lasalgaon(Niphad),29/09/18,181,Other,231,920,825
+Lasur Station,02/09/18,223,Other,150,1055,650
+Lasur Station,09/09/18,235,Other,150,1000,650
+Lasur Station,12/09/18,377,Other,150,925,600
+Lasur Station,16/09/18,407,Other,150,1000,650
+Lasur Station,19/09/18,413,Other,150,1000,650
+Lasur Station,23/09/18,375,Other,100,825,525
+Lasur Station,26/09/18,419,Other,100,800,500
+Lasur Station,30/09/18,213,Other,100,1000,650
+Lonand,03/09/18,43,Red,400,1158,800
+Lonand,06/09/18,82,Red,500,1100,800
+Lonand,10/09/18,75,Red,250,1100,850
+Lonand,13/09/18,108,Red,250,1050,800
+Lonand,17/09/18,45,Red,200,1185,800
+Lonand,20/09/18,123,Red,600,1200,900
+Lonand,24/09/18,143,Red,300,1025,800
+Lonand,27/09/18,153,Red,500,1182,800
+Maanachar,03/09/18,768,Other,600,1200,950
+Maanachar,04/09/18,405,Other,600,1150,985
+Maanachar,06/09/18,728,Other,600,1210,925
+Maanachar,09/09/18,786,Other,500,1050,870
+Maanachar,14/09/18,12,Other,600,1110,850
+Maanachar,16/09/18,478,Other,500,1100,850
+Maanachar,18/09/18,373,Other,500,1050,775
+Maanachar,27/09/18,353,Other,500,1060,785
+Malegaon,04/09/18,780,Other,350,940,850
+Malegaon(Umarane),03/09/18,1150,Other,451,950,831
+Malegaon(Umarane),04/09/18,1350,Other,351,968,750
+Malegaon(Umarane),08/09/18,850,Other,351,951,850
+Malegaon(Umarane),10/09/18,1650,Other,351,1035,850
+Malegaon(Umarane),11/09/18,1850,Other,401,911,800
+Malegaon(Umarane),12/09/18,2050,Other,351,961,700
+Malegaon(Umarane),17/09/18,2250,Other,351,911,750
+Malegaon(Umarane),18/09/18,1900,Other,351,915,700
+Malegaon(Umarane),21/09/18,1950,Other,301,800,700
+Malegaon(Umarane),24/09/18,1650,Other,351,935,750
+Malegaon(Umarane),26/09/18,1650,Other,301,815,650
+Malegaon(Umarane),27/09/18,1350,Other,311,855,750
+Malegaon(Umarane),28/09/18,1450,Other,351,999,775
+Malkapur,06/09/18,17,Local,430,880,660
+Malkapur,07/09/18,11,Local,360,860,500
+Malkapur,14/09/18,28,Local,460,810,650
+Malkapur,20/09/18,9,Local,365,845,585
+Malkapur,27/09/18,43,Local,230,800,540
+Malkapur,28/09/18,25,Local,300,860,595
+Mangal Wedha,03/09/18,9,Other,210,1150,820
+Mangal Wedha,05/09/18,5,Other,200,950,870
+Mangal Wedha,07/09/18,10,Other,250,1000,670
+Mangal Wedha,10/09/18,7,Other,180,900,700
+Mangal Wedha,12/09/18,1,Other,410,900,800
+Mangal Wedha,14/09/18,3,Other,250,1100,750
+Mangal Wedha,17/09/18,4,Other,110,1000,850
+Mangal Wedha,19/09/18,4,Other,160,1200,860
+Mangal Wedha,21/09/18,6,Other,250,1000,800
+Mangal Wedha,24/09/18,7,Other,50,900,630
+Mangal Wedha,26/09/18,4,Other,150,840,600
+Mangal Wedha,28/09/18,7,Other,150,1300,800
+Manmad,03/09/18,426,Other,300,1016,850
+Manmad,04/09/18,384,Other,300,971,800
+Manmad,05/09/18,474,Other,300,880,720
+Manmad,07/09/18,350,Other,300,801,700
+Manmad,10/09/18,454,Other,300,900,775
+Manmad,11/09/18,440,Other,300,900,775
+Manmad,12/09/18,368,Other,300,887,750
+Manmad,14/09/18,750,Other,350,899,750
+Manmad,17/09/18,598,Other,400,850,750
+Manmad,18/09/18,618,Other,400,830,750
+Manmad,19/09/18,495,Other,350,791,650
+Manmad,20/09/18,272,Other,300,723,625
+Manmad,21/09/18,390,Other,300,700,600
+Manmad,24/09/18,309,Other,300,700,600
+Manmad,26/09/18,369,Other,300,741,590
+Manmad,27/09/18,253,Other,250,731,620
+Manmad,28/09/18,320,Other,300,821,700
+Murbad,25/09/18,4,Hybrid,1000,1400,1200
+Nagpur,01/09/18,110,Red,800,1200,1100
+Nagpur,01/09/18,110,White,700,1200,1075
+Nagpur,02/09/18,126,Red,800,1300,1175
+Nagpur,02/09/18,126,White,700,1200,1075
+Nagpur,03/09/18,65,Red,800,1300,1175
+Nagpur,03/09/18,65,White,700,1200,1075
+Nagpur,05/09/18,100,Red,800,1300,1175
+Nagpur,05/09/18,100,White,700,1200,1075
+Nagpur,06/09/18,98,Red,800,1300,1175
+Nagpur,06/09/18,98,White,700,1200,1075
+Nagpur,08/09/18,100,Red,500,1000,875
+Nagpur,08/09/18,100,White,800,1300,1175
+Nagpur,09/09/18,120,Red,500,1000,875
+Nagpur,09/09/18,120,White,800,1300,1175
+Nagpur,10/09/18,77,Red,500,1000,875
+Nagpur,10/09/18,77,White,800,1300,1175
+Nagpur,11/09/18,30,Red,500,1000,875
+Nagpur,11/09/18,30,White,800,1300,1175
+Nagpur,12/09/18,104,Red,600,1000,900
+Nagpur,12/09/18,104,White,800,1300,1175
+Nagpur,15/09/18,157,Red,500,1000,875
+Nagpur,15/09/18,157,White,700,1200,1075
+Nagpur,16/09/18,129,Red,500,1000,875
+Nagpur,16/09/18,129,White,700,1300,1150
+Nagpur,17/09/18,61,Red,500,1000,875
+Nagpur,17/09/18,61,White,700,1300,1150
+Nagpur,19/09/18,291,Red,500,1000,875
+Nagpur,19/09/18,291,White,800,1300,1175
+Nagpur,20/09/18,15,Red,500,1000,800
+Nagpur,20/09/18,15,White,700,1200,1075
+Nagpur,22/09/18,96,Red,600,1000,900
+Nagpur,22/09/18,96,White,700,1200,1075
+Nagpur,24/09/18,100,Red,600,1000,900
+Nagpur,24/09/18,100,White,700,1200,1075
+Nagpur,25/09/18,140,Red,500,1000,875
+Nagpur,25/09/18,140,White,700,1300,1150
+Nagpur,26/09/18,83,Red,500,1000,875
+Nagpur,26/09/18,83,White,700,1200,1075
+Nagpur,27/09/18,99,Red,400,800,700
+Nagpur,27/09/18,99,White,700,1200,1075
+Nagpur,29/09/18,76,Red,400,800,700
+Nagpur,29/09/18,76,White,700,1200,1075
+Nagpur,30/09/18,133,Red,400,800,700
+Nagpur,30/09/18,133,White,700,1200,1075
+Nandgaon,07/09/18,522,Other,500,838,750
+Nandgaon,10/09/18,72,Other,300,826,771
+Nandgaon,19/09/18,389,Other,300,800,640
+Nandgaon,21/09/18,432,Other,250,751,600
+Nandgaon,26/09/18,369,Other,300,747,600
+Nandgaon,27/09/18,389,Other,300,725,602
+Nandura,04/09/18,13,Other,300,850,850
+Nandura,11/09/18,4,Other,300,800,800
+Nandura,18/09/18,7,Other,350,900,900
+Nandura,25/09/18,8,Other,250,600,600
+Nasik,01/09/18,204,Other,300,1051,800
+Nasik,03/09/18,222,Other,350,1200,850
+Nasik,04/09/18,162,Other,300,1000,800
+Nasik,05/09/18,171,Other,275,1011,825
+Nasik,06/09/18,154,Other,250,1000,800
+Nasik,07/09/18,165,Other,261,1000,825
+Nasik,08/09/18,182,Other,250,1021,800
+Nasik,10/09/18,104,Other,271,1000,800
+Nasik,11/09/18,157,Other,275,1001,800
+Nasik,12/09/18,25,Other,250,1000,800
+Nasik,13/09/18,120,Other,225,950,750
+Nasik,14/09/18,189,Other,250,961,725
+Nasik,15/09/18,311,Other,200,900,700
+Nasik,17/09/18,264,Other,250,900,750
+Nasik,18/09/18,187,Other,225,900,700
+Nasik,19/09/18,207,Other,200,850,650
+Nasik,20/09/18,152,Other,225,900,650
+Nasik,21/09/18,199,Other,200,850,650
+Nasik,22/09/18,182,Other,225,851,650
+Nasik,24/09/18,142,Other,200,800,600
+Nasik,26/09/18,181,Other,200,825,650
+Nasik,27/09/18,112,Other,225,851,625
+Nasik,28/09/18,117,Other,275,900,700
+Nasik,29/09/18,132,Other,250,830,600
+Newasa(Ghodegaon),01/09/18,2560,Other,300,1100,900
+Newasa(Ghodegaon),03/09/18,2584,Other,300,1200,900
+Newasa(Ghodegaon),05/09/18,3169,Other,300,1100,900
+Newasa(Ghodegaon),08/09/18,3327,Other,300,1100,900
+Newasa(Ghodegaon),10/09/18,1922,Other,300,1100,800
+Newasa(Ghodegaon),15/09/18,3170,Other,300,1100,800
+Newasa(Ghodegaon),17/09/18,2678,Other,300,1100,800
+Newasa(Ghodegaon),19/09/18,3346,Other,300,1200,900
+Newasa(Ghodegaon),22/09/18,3353,Other,300,1100,800
+Newasa(Ghodegaon),29/09/18,2918,Other,300,1100,800
+Paithan,07/09/18,56,Other,250,1100,650
+Paithan,09/09/18,22,Other,200,900,750
+Paithan,12/09/18,102,Other,200,900,700
+Paithan,14/09/18,65,Other,200,975,750
+Paithan,19/09/18,85,Other,250,1000,850
+Paithan,21/09/18,52,Other,250,1050,800
+Paithan,26/09/18,104,Other,200,825,650
+Paithan,28/09/18,56,Other,250,850,650
+Palthan,04/09/18,236,Hybrid,300,1100,875
+Palthan,11/09/18,327,Hybrid,300,1175,800
+Palthan,18/09/18,232,Hybrid,300,1255,950
+Pandharpur,01/09/18,59,Red,100,1200,800
+Pandharpur,04/09/18,58,Red,150,1250,670
+Pandharpur,06/09/18,24,Red,100,1200,700
+Pandharpur,08/09/18,45,Red,100,1200,800
+Pandharpur,11/09/18,34,Red,150,1200,700
+Pandharpur,13/09/18,33,Red,150,1100,800
+Pandharpur,15/09/18,34,Red,100,1110,800
+Pandharpur,18/09/18,36,Red,150,1101,700
+Pandharpur,20/09/18,41,Red,100,1255,700
+Pandharpur,22/09/18,44,Red,100,1100,800
+Pandharpur,25/09/18,49,Red,100,1101,675
+Pandharpur,27/09/18,34,Red,100,1101,675
+Pandharpur,29/09/18,34,Red,100,1182,700
+Parner,02/09/18,154,Other,200,1125,900
+Parner,05/09/18,197,Other,150,1100,850
+Parner,07/09/18,201,Other,200,1000,850
+Parner,09/09/18,149,Other,100,1080,800
+Parner,12/09/18,226,Other,200,1100,850
+Parner,14/09/18,201,Other,200,1050,850
+Parner,16/09/18,271,Other,200,1000,800
+Parner,19/09/18,171,Other,200,1000,800
+Parner,21/09/18,129,Other,200,1000,800
+Parner,23/09/18,158,Other,200,950,800
+Parner,26/09/18,150,Other,150,950,750
+Parner,28/09/18,92,Other,200,1000,800
+Parner,30/09/18,170,Other,200,1100,850
+Pathardi,07/09/18,46,Red,300,1100,866
+Pathardi,13/09/18,63,Red,300,1100,890
+Pathardi,14/09/18,90,Red,300,1000,860
+Pathardi,16/09/18,70,Red,300,955,849
+Pathardi,18/09/18,39,Red,200,1000,840
+Pathardi,21/09/18,34,Red,200,1050,860
+Pathardi,30/09/18,51,Red,200,1100,850
+Pimpalgaon,01/09/18,1094,Other,480,1126,841
+Pimpalgaon,03/09/18,1415,Other,300,1045,870
+Pimpalgaon,04/09/18,1754,Other,400,1066,875
+Pimpalgaon,05/09/18,1587,Other,400,1071,851
+Pimpalgaon,06/09/18,59,Other,570,961,801
+Pimpalgaon,07/09/18,2563,Other,351,1127,900
+Pimpalgaon,08/09/18,700,Other,400,1072,911
+Pimpalgaon,10/09/18,1151,Other,280,1090,825
+Pimpalgaon,11/09/18,2144,Other,230,1076,811
+Pimpalgaon,12/09/18,2445,Other,251,1080,831
+Pimpalgaon,14/09/18,3099,Other,300,985,701
+Pimpalgaon,15/09/18,1366,Other,390,1066,781
+Pimpalgaon,17/09/18,2565,Other,400,1004,751
+Pimpalgaon,18/09/18,2521,Other,325,1000,760
+Pimpalgaon,19/09/18,2287,Other,370,1010,751
+Pimpalgaon,20/09/18,1585,Other,400,991,745
+Pimpalgaon,21/09/18,2365,Other,351,961,751
+Pimpalgaon,22/09/18,1164,Other,300,1000,705
+Pimpalgaon,24/09/18,2158,Other,300,961,711
+Pimpalgaon,26/09/18,3026,Other,251,901,681
+Pimpalgaon,27/09/18,1680,Other,300,917,691
+Pimpalgaon,28/09/18,5,Other,351,971,705
+Pimpalgaon,28/09/18,5,Pole,450,1202,1051
+Pimpalgaon,29/09/18,956,Other,270,1061,801
+Pimpalgaon Baswant(Saykheda),01/09/18,447,Other,200,901,700
+Pimpalgaon Baswant(Saykheda),03/09/18,436,Other,200,902,690
+Pimpalgaon Baswant(Saykheda),04/09/18,416,Other,200,845,670
+Pimpalgaon Baswant(Saykheda),05/09/18,488,Other,200,851,690
+Pimpalgaon Baswant(Saykheda),06/09/18,488,Other,200,851,700
+Pimpalgaon Baswant(Saykheda),07/09/18,627,Other,200,850,685
+Pimpalgaon Baswant(Saykheda),10/09/18,377,Other,200,912,730
+Pimpalgaon Baswant(Saykheda),11/09/18,488,Other,200,924,750
+Pimpalgaon Baswant(Saykheda),12/09/18,576,Other,200,926,750
+Pimpalgaon Baswant(Saykheda),14/09/18,600,Other,200,834,680
+Pimpalgaon Baswant(Saykheda),15/09/18,471,Other,200,822,650
+Pimpalgaon Baswant(Saykheda),17/09/18,599,Other,200,811,625
+Pimpalgaon Baswant(Saykheda),18/09/18,527,Other,200,800,630
+Pimpalgaon Baswant(Saykheda),19/09/18,462,Other,200,815,625
+Pimpalgaon Baswant(Saykheda),21/09/18,607,Other,200,800,620
+Pimpalgaon Baswant(Saykheda),24/09/18,544,Other,200,767,575
+Pimpalgaon Baswant(Saykheda),26/09/18,671,Other,200,718,540
+Pimpalgaon Baswant(Saykheda),28/09/18,453,Other,200,816,600
+Pimpalgaon Baswant(Saykheda),29/09/18,318,Other,200,926,740
+Pune,02/09/18,989,Local,500,1100,700
+Pune,03/09/18,869,Local,500,1100,700
+Pune,04/09/18,715,Local,500,1100,700
+Pune,05/09/18,935,Local,500,1100,1000
+Pune,06/09/18,982,Local,500,1100,700
+Pune,07/09/18,1363,Local,500,1100,700
+Pune,09/09/18,1328,Local,500,1050,700
+Pune,10/09/18,691,Local,500,1100,700
+Pune,11/09/18,723,Local,500,1100,700
+Pune,12/09/18,845,Local,500,1100,900
+Pune,13/09/18,819,Local,500,1100,700
+Pune,14/09/18,937,Local,400,1100,1000
+Pune,16/09/18,993,Local,500,1100,700
+Pune,17/09/18,935,Local,500,1100,800
+Pune,18/09/18,893,Local,500,1100,900
+Pune,19/09/18,721,Local,500,1100,900
+Pune,20/09/18,730,Local,500,1100,700
+Pune,21/09/18,1178,Local,500,1100,700
+Pune,23/09/18,925,Local,500,1000,700
+Pune,25/09/18,1046,Local,500,1100,700
+Pune,26/09/18,794,Local,400,1100,700
+Pune,27/09/18,888,Local,500,1100,700
+Pune,28/09/18,1111,Local,500,1100,700
+Pune,30/09/18,1004,Local,500,1100,700
+Pune(Hadapsar),01/09/18,6,Local,800,1200,1000
+Pune(Hadapsar),02/09/18,2,Local,700,1200,1000
+Pune(Hadapsar),03/09/18,2,Local,700,1200,1000
+Pune(Hadapsar),04/09/18,2,Local,700,1200,900
+Pune(Hadapsar),05/09/18,3,Local,700,1200,1000
+Pune(Hadapsar),06/09/18,3,Local,700,1200,1000
+Pune(Hadapsar),07/09/18,4,Local,800,1200,1000
+Pune(Hadapsar),08/09/18,3,Local,700,1200,1000
+Pune(Hadapsar),09/09/18,3,Local,700,1200,900
+Pune(Hadapsar),10/09/18,3,Local,700,1200,800
+Pune(Hadapsar),11/09/18,2,Local,700,1200,900
+Pune(Hadapsar),12/09/18,4,Local,600,1200,900
+Pune(Hadapsar),13/09/18,3,Local,700,1200,900
+Pune(Hadapsar),14/09/18,4,Local,600,1200,1000
+Pune(Hadapsar),15/09/18,9,Local,700,1300,1000
+Pune(Hadapsar),16/09/18,5,Local,700,1300,1000
+Pune(Hadapsar),17/09/18,3,Local,600,1200,1000
+Pune(Hadapsar),18/09/18,4,Local,700,1200,1000
+Pune(Hadapsar),19/09/18,2,Local,700,1200,1000
+Pune(Hadapsar),20/09/18,3,Local,500,1000,600
+Pune(Hadapsar),22/09/18,3,Local,800,1200,1000
+Pune(Hadapsar),23/09/18,5,Local,500,1000,800
+Pune(Hadapsar),25/09/18,3,Local,600,1200,1000
+Pune(Hadapsar),26/09/18,7,Local,400,1100,800
+Pune(Hadapsar),27/09/18,4,Local,500,1100,700
+Pune(Hadapsar),28/09/18,5,Local,800,1200,1000
+Pune(Hadapsar),29/09/18,7,Local,700,1200,1000
+Pune(Hadapsar),30/09/18,6,Local,500,1100,700
+Pune(Khadiki),01/09/18,8,Local,600,1000,800
+Pune(Khadiki),02/09/18,6,Local,600,1200,900
+Pune(Khadiki),03/09/18,4,Local,1000,1200,1100
+Pune(Khadiki),04/09/18,2,Local,1000,1000,1000
+Pune(Khadiki),05/09/18,2,Local,1000,1100,1050
+Pune(Khadiki),06/09/18,1,Local,500,1100,800
+Pune(Khadiki),07/09/18,3,Local,500,1000,750
+Pune(Khadiki),08/09/18,5,Local,500,1200,850
+Pune(Khadiki),09/09/18,7,Local,1000,1200,1100
+Pune(Khadiki),10/09/18,2,Local,800,1100,950
+Pune(Khadiki),11/09/18,1,Local,1000,1200,1100
+Pune(Khadiki),12/09/18,2,Local,1000,1200,1100
+Pune(Khadiki),13/09/18,1,Local,800,1000,900
+Pune(Khadiki),14/09/18,1,Local,700,1000,850
+Pune(Khadiki),15/09/18,3,Local,500,1100,800
+Pune(Khadiki),16/09/18,3,Local,500,1100,800
+Pune(Khadiki),17/09/18,4,Local,500,1100,800
+Pune(Khadiki),18/09/18,3,Local,700,1000,850
+Pune(Khadiki),19/09/18,4,Local,500,1000,750
+Pune(Khadiki),20/09/18,1,Local,1000,1000,1000
+Pune(Khadiki),21/09/18,5,Local,1000,1100,1050
+Pune(Khadiki),22/09/18,2,Local,350,1000,700
+Pune(Khadiki),23/09/18,4,Local,800,1100,950
+Pune(Khadiki),25/09/18,3,Local,800,1000,900
+Pune(Khadiki),26/09/18,4,Local,500,1000,750
+Pune(Khadiki),27/09/18,6,Local,800,1000,900
+Pune(Khadiki),28/09/18,5,Local,800,1000,900
+Pune(Khadiki),29/09/18,2,Local,500,1000,750
+Pune(Khadiki),30/09/18,5,Local,800,1000,900
+Pune(Pimpri),01/09/18,1,Local,1100,1100,1100
+Pune(Pimpri),02/09/18,2,Local,800,1100,950
+Pune(Pimpri),05/09/18,2,Local,1000,1000,1000
+Pune(Pimpri),06/09/18,3,Local,900,1000,950
+Pune(Pimpri),07/09/18,2,Local,1000,1000,1000
+Pune(Pimpri),09/09/18,2,Local,1000,1000,1000
+Pune(Pimpri),10/09/18,2,Local,1000,1000,1000
+Pune(Pimpri),11/09/18,1,Local,1000,1000,1000
+Pune(Pimpri),12/09/18,3,Local,700,1000,850
+Pune(Pimpri),13/09/18,2,Local,800,1000,900
+Pune(Pimpri),14/09/18,2,Local,1000,1000,1000
+Pune(Pimpri),15/09/18,1,Local,1000,1100,1050
+Pune(Pimpri),16/09/18,5,Local,1000,1200,1100
+Pune(Pimpri),17/09/18,2,Local,1000,1000,1000
+Pune(Pimpri),18/09/18,2,Local,1000,1000,1000
+Pune(Pimpri),19/09/18,3,Local,900,1000,950
+Pune(Pimpri),20/09/18,2,Local,900,1000,950
+Pune(Pimpri),21/09/18,3,Local,1000,1000,1000
+Pune(Pimpri),22/09/18,1,Local,800,1000,900
+Pune(Pimpri),23/09/18,5,Local,900,1100,1000
+Pune(Pimpri),24/09/18,3,Local,1000,1200,1100
+Pune(Pimpri),25/09/18,1,Local,1000,1200,1100
+Pune(Pimpri),26/09/18,1,Local,1200,1200,1200
+Pune(Pimpri),27/09/18,2,Local,900,1000,950
+Pune(Pimpri),28/09/18,2,Local,900,1100,1000
+Pune(Pimpri),30/09/18,4,Local,900,1200,1050
+Rahata,02/09/18,674,Other,100,1150,700
+Rahata,09/09/18,654,Other,100,1100,700
+Rahata,11/09/18,700,Other,100,1100,700
+Rahata,14/09/18,1255,Other,100,1100,700
+Rahata,16/09/18,820,Other,100,1100,750
+Rahata,21/09/18,1156,Other,100,1000,600
+Rahata,23/09/18,951,Other,100,900,650
+Rahata,25/09/18,836,Other,100,1000,700
+Rahata,28/09/18,943,Other,100,1000,700
+Rahata,30/09/18,558,Other,100,1100,700
+Rahuri,02/09/18,866,Other,200,1100,850
+Rahuri,07/09/18,2408,Other,200,1100,850
+Rahuri,09/09/18,792,Other,200,1000,800
+Rahuri,11/09/18,1682,Other,200,1000,800
+Rahuri,14/09/18,2718,Other,200,1000,825
+Rahuri,16/09/18,1148,Other,200,1050,850
+Rahuri,18/09/18,2242,Other,200,1000,850
+Rahuri,21/09/18,2270,Other,200,1000,850
+Rahuri,23/09/18,686,Other,100,950,750
+Rahuri,25/09/18,1556,Other,100,1000,850
+Rahuri,28/09/18,1795,Other,100,1000,850
+Rahuri,30/09/18,901,Other,100,1000,850
+Rahuri(Vambori),01/09/18,345,Other,300,1100,800
+Rahuri(Vambori),03/09/18,523,Other,200,1200,900
+Rahuri(Vambori),06/09/18,706,Other,200,1100,800
+Rahuri(Vambori),08/09/18,554,Other,100,1100,750
+Rahuri(Vambori),15/09/18,900,Other,100,1000,800
+Rahuri(Vambori),17/09/18,770,Other,150,1100,850
+Rahuri(Vambori),20/09/18,898,Other,100,1000,700
+Rahuri(Vambori),22/09/18,650,Other,100,1000,750
+Rahuri(Vambori),27/09/18,919,Other,150,1000,700
+Rahuri(Vambori),29/09/18,692,Other,150,1100,850
+Ramtek,02/09/18,1,Other,1200,1400,1300
+Ramtek,06/09/18,1,Other,1000,1200,1100
+Ramtek,13/09/18,1,Other,1000,1200,1100
+Ramtek,16/09/18,1,Other,1000,1200,1100
+Ramtek,20/09/18,1,Other,1000,1200,1100
+Ramtek,23/09/18,1,Other,1000,1200,1100
+Ramtek,27/09/18,1,Other,1000,1200,1100
+Sakri,24/09/18,220,Red,600,950,700
+Sakri,25/09/18,305,Red,625,1000,750
+Sakri,26/09/18,280,Red,550,900,800
+Sakri,27/09/18,310,Red,675,1050,945
+Sangamner,02/09/18,695,Other,300,1201,751
+Sangamner,04/09/18,514,Other,200,1211,706
+Sangamner,06/09/18,668,Other,200,1201,701
+Sangamner,09/09/18,667,Other,300,1100,700
+Sangamner,11/09/18,537,Other,300,1151,726
+Sangamner,13/09/18,770,Other,300,1161,761
+Sangamner,16/09/18,888,Other,300,1111,706
+Sangamner,18/09/18,569,Other,300,1100,700
+Sangamner,20/09/18,591,Other,300,1000,650
+Sangamner,25/09/18,579,Other,300,1070,685
+Sangamner,27/09/18,579,Other,300,1070,685
+Sangamner,30/09/18,544,Other,300,1051,675
+Sangli(Phale  Bhajipura Market),01/09/18,188,Local,300,1320,800
+Sangli(Phale  Bhajipura Market),03/09/18,207,Local,400,1300,930
+Sangli(Phale  Bhajipura Market),05/09/18,422,Local,350,1300,850
+Sangli(Phale  Bhajipura Market),07/09/18,392,Local,350,1300,850
+Sangli(Phale  Bhajipura Market),08/09/18,367,Local,350,1160,850
+Sangli(Phale  Bhajipura Market),10/09/18,241,Local,350,1200,875
+Sangli(Phale  Bhajipura Market),11/09/18,139,Local,350,1200,860
+Sangli(Phale  Bhajipura Market),12/09/18,202,Local,350,1250,870
+Sangli(Phale  Bhajipura Market),14/09/18,219,Local,350,1150,850
+Sangli(Phale  Bhajipura Market),15/09/18,348,Local,360,1200,875
+Sangli(Phale  Bhajipura Market),17/09/18,311,Local,350,1250,925
+Sangli(Phale  Bhajipura Market),18/09/18,197,Local,300,1050,825
+Sangli(Phale  Bhajipura Market),19/09/18,337,Local,300,1100,875
+Sangli(Phale  Bhajipura Market),21/09/18,421,Local,350,1150,900
+Sangli(Phale  Bhajipura Market),22/09/18,290,Local,350,1300,900
+Sangli(Phale  Bhajipura Market),24/09/18,264,Local,350,1250,800
+Sangli(Phale  Bhajipura Market),25/09/18,215,Local,350,1200,850
+Sangli(Phale  Bhajipura Market),26/09/18,428,Local,350,1250,850
+Sangli(Phale  Bhajipura Market),27/09/18,174,Local,350,1200,850
+Satana,04/09/18,1356,Other,400,975,790
+Satana,05/09/18,1154,Other,400,960,750
+Satana,10/09/18,1206,Other,400,1005,850
+Satana,11/09/18,1304,Other,350,965,770
+Satana,12/09/18,1398,Other,350,1020,810
+Satana,17/09/18,1717,Other,350,920,750
+Satana,18/09/18,1043,Other,350,935,750
+Satana,19/09/18,1757,Other,350,885,710
+Satana,24/09/18,1649,Other,350,825,680
+Satana,26/09/18,1542,Other,350,870,675
+Satana,27/09/18,1215,Other,400,885,675
+Satara,02/09/18,25,Other,400,1200,800
+Satara,06/09/18,33,Other,600,1200,900
+Satara,09/09/18,24,Other,500,1200,850
+Satara,13/09/18,22,Other,500,1000,750
+Satara,16/09/18,21,Other,400,1200,800
+Satara,25/09/18,21,Other,500,1100,800
+Satara,27/09/18,21,Other,500,1100,800
+Shevgaon,01/09/18,42,1st Sort,900,1200,1200
+Shevgaon,01/09/18,42,2nd Sort,600,800,600
+Shevgaon,01/09/18,42,Other,300,500,500
+Shevgaon,03/09/18,8,1st Sort,700,1300,700
+Shevgaon,03/09/18,8,2nd Sort,500,600,500
+Shevgaon,03/09/18,8,Other,200,400,400
+Shevgaon,06/09/18,65,1st Sort,800,1150,800
+Shevgaon,06/09/18,65,2nd Sort,500,700,700
+Shevgaon,06/09/18,65,Other,200,400,400
+Shevgaon,08/09/18,59,1st Sort,800,1100,800
+Shevgaon,08/09/18,59,2nd Sort,500,700,700
+Shevgaon,08/09/18,59,Other,200,400,400
+Shevgaon,10/09/18,42,1st Sort,800,1050,800
+Shevgaon,10/09/18,42,2nd Sort,500,700,700
+Shevgaon,10/09/18,42,Other,200,400,400
+Shevgaon,13/09/18,35,1st Sort,700,1050,700
+Shevgaon,13/09/18,35,2nd Sort,400,600,600
+Shevgaon,13/09/18,35,Other,100,300,300
+Shevgaon,15/09/18,31,1st Sort,700,1000,700
+Shevgaon,15/09/18,31,2nd Sort,400,600,600
+Shevgaon,15/09/18,31,Other,100,300,300
+Shevgaon,17/09/18,26,1st Sort,700,1000,700
+Shevgaon,17/09/18,26,2nd Sort,400,600,400
+Shevgaon,17/09/18,26,Other,100,300,300
+Shevgaon,20/09/18,61,1st Sort,800,1100,800
+Shevgaon,20/09/18,61,2nd Sort,400,700,700
+Shevgaon,20/09/18,61,Other,100,300,300
+Shevgaon,22/09/18,56,1st Sort,800,1100,800
+Shevgaon,22/09/18,56,2nd Sort,400,700,700
+Shevgaon,22/09/18,56,Other,100,300,300
+Shevgaon,24/09/18,76,1st Sort,800,1000,800
+Shevgaon,24/09/18,76,2nd Sort,400,700,700
+Shevgaon,24/09/18,76,Other,100,300,300
+Shevgaon,27/09/18,80,1st Sort,800,1000,800
+Shevgaon,27/09/18,80,2nd Sort,400,700,400
+Shevgaon,27/09/18,80,Other,100,300,300
+Shevgaon,29/09/18,53,1st Sort,800,1000,800
+Shevgaon,29/09/18,53,2nd Sort,400,700,700
+Shevgaon,29/09/18,53,Other,100,300,300
+Shirpur,01/09/18,29,Red,150,860,690
+Shirpur,08/09/18,50,Red,250,975,800
+Shirpur,15/09/18,48,Red,128,935,785
+Shirpur,19/09/18,26,Red,211,725,600
+Shirpur,22/09/18,17,Red,200,750,675
+Shirpur,29/09/18,23,Red,225,865,610
+Shrirampur,02/09/18,1692,Other,550,1100,850
+Shrirampur,05/09/18,1910,Other,550,1100,850
+Shrirampur,07/09/18,103,Other,350,1000,650
+Shrirampur,09/09/18,1816,Other,450,1100,800
+Shrirampur,12/09/18,2266,Other,450,1100,750
+Shrirampur,14/09/18,126,Other,350,1000,650
+Shrirampur,16/09/18,2379,Other,500,1100,850
+Shrirampur,19/09/18,2287,Other,300,1000,600
+Shrirampur,21/09/18,180,Other,350,1000,650
+Shrirampur,30/09/18,2147,Other,450,1100,800
+Sinner,03/09/18,826,Other,100,1125,800
+Sinner,04/09/18,277,Other,100,911,775
+Sinner,05/09/18,792,Other,100,1051,800
+Sinner,06/09/18,277,Other,100,920,775
+Sinner,10/09/18,662,Other,100,1111,825
+Sinner,11/09/18,364,Other,100,923,825
+Sinner,12/09/18,1013,Other,100,1051,800
+Sinner,17/09/18,1411,Other,100,1000,700
+Sinner,18/09/18,318,Other,100,768,650
+Sinner,19/09/18,867,Other,100,1000,700
+Sinner,20/09/18,64,Other,100,722,600
+Sinner,24/09/18,751,Other,100,921,650
+Solapur,01/09/18,1002,Red,100,1575,750
+Solapur,03/09/18,676,Red,100,1500,700
+Solapur,04/09/18,647,Red,100,1300,700
+Solapur,05/09/18,689,Red,100,1500,700
+Solapur,06/09/18,799,Red,100,1625,750
+Solapur,07/09/18,974,Red,100,1750,750
+Solapur,08/09/18,1094,Red,100,1600,750
+Solapur,10/09/18,882,Red,100,1600,800
+Solapur,11/09/18,788,Red,100,1500,750
+Solapur,12/09/18,1287,Red,100,1500,800
+Solapur,14/09/18,1062,Red,100,1500,750
+Solapur,15/09/18,1368,Red,100,1500,750
+Solapur,17/09/18,637,Red,100,1600,800
+Solapur,18/09/18,656,Red,100,1600,800
+Solapur,19/09/18,784,Red,100,1500,750
+Solapur,22/09/18,2014,Red,100,1500,700
+Solapur,24/09/18,1243,Red,100,1500,700
+Solapur,25/09/18,1456,Red,100,1500,700
+Solapur,26/09/18,1296,Red,100,1500,700
+Solapur,27/09/18,1400,Red,100,1500,700
+Solapur,28/09/18,1013,Red,100,1450,650
+Solapur,29/09/18,1320,Red,100,1450,650
+Vai,02/09/18,1,Local,1000,1200,1120
+Vai,03/09/18,10,Local,1000,1200,1120
+Vai,04/09/18,1,Local,1000,1200,1100
+Vai,05/09/18,1,Local,1000,1200,1100
+Vai,06/09/18,1,Local,1000,1200,1100
+Vai,07/09/18,1,Local,1000,1200,1120
+Vai,08/09/18,1,Local,1000,1200,1100
+Vai,09/09/18,1,Local,1000,1200,1100
+Vai,10/09/18,15,Local,1000,1200,1100
+Vai,11/09/18,1,Local,1000,1200,1140
+Vai,12/09/18,1,Local,900,1200,1100
+Vai,14/09/18,1,Local,1000,1200,1100
+Vai,16/09/18,1,Local,1000,1200,1100
+Vai,17/09/18,11,Local,1000,1200,1100
+Vai,18/09/18,1,Local,900,1200,1050
+Vai,19/09/18,1,Local,900,1100,1050
+Vai,20/09/18,1,Local,900,1200,1120
+Vai,21/09/18,1,Local,900,1200,1050
+Vai,22/09/18,1,Local,900,1200,1050
+Vai,23/09/18,1,Local,800,1000,900
+Vai,24/09/18,10,Local,800,1000,950
+Vai,25/09/18,1,Local,800,1200,1050
+Vai,26/09/18,1,Local,900,1000,940
+Vai,29/09/18,1,Local,800,1000,920
+Vai,30/09/18,1,Local,800,1100,950
+Vaijpur,01/09/18,143,Other,200,1025,850
+Vaijpur,03/09/18,218,Other,100,1200,900
+Vaijpur,05/09/18,85,Other,300,891,800
+Vaijpur,06/09/18,416,Other,100,1300,900
+Vaijpur,07/09/18,182,Other,222,885,800
+Vaijpur,08/09/18,337,Other,100,1125,900
+Vaijpur,10/09/18,186,Other,100,1200,900
+Vaijpur,11/09/18,182,Other,300,871,800
+Vaijpur,12/09/18,147,Other,200,861,800
+Vaijpur,14/09/18,200,Other,430,799,700
+Vaijpur,15/09/18,629,Other,350,1100,900
+Vaijpur,18/09/18,195,Other,100,742,700
+Vaijpur,19/09/18,145,Other,100,735,700
+Vaijpur,20/09/18,489,Other,100,1000,800
+Vaijpur,21/09/18,128,Other,100,615,575
+Vaijpur,22/09/18,351,Other,100,900,800
+Vaijpur,24/09/18,285,Other,100,800,700
+Vaijpur,25/09/18,85,Other,100,621,600
+Vaijpur,26/09/18,77,Other,100,626,600
+Vaijpur,27/09/18,241,Other,100,755,600
+Vaijpur,29/09/18,138,Other,100,1000,750
+Vashi New Mumbai,01/09/18,1890,Other,700,1100,900
+Vashi New Mumbai,04/09/18,1918,Other,600,1000,800
+Vashi New Mumbai,05/09/18,1246,Other,800,1200,1000
+Vashi New Mumbai,06/09/18,1190,Other,700,1100,900
+Vashi New Mumbai,07/09/18,1246,Other,600,1000,800
+Vashi New Mumbai,08/09/18,1316,Other,600,1000,800
+Vashi New Mumbai,10/09/18,1414,Other,700,1100,900
+Vashi New Mumbai,11/09/18,1022,Other,800,1200,1000
+Vashi New Mumbai,12/09/18,1344,Other,800,1200,1000
+Vashi New Mumbai,14/09/18,1600,Other,800,1200,1000
+Vashi New Mumbai,15/09/18,1148,Other,800,1000,900
+Vashi New Mumbai,17/09/18,1722,Other,700,900,800
+Vashi New Mumbai,18/09/18,1050,Other,800,1000,900
+Vashi New Mumbai,19/09/18,1082,Other,800,1000,900
+Vashi New Mumbai,20/09/18,1213,Other,800,1000,900
+Vashi New Mumbai,22/09/18,1526,Other,700,900,800
+Vashi New Mumbai,24/09/18,1288,Other,800,1000,900
+Vashi New Mumbai,26/09/18,1526,Other,700,1100,900
+Vashi New Mumbai,27/09/18,1400,Other,800,1200,1000
+Vashi New Mumbai,28/09/18,1372,Other,1000,1200,1100
+Vashi New Mumbai,29/09/18,1288,Other,900,1300,1100
+Yeola,01/09/18,602,Other,200,901,740
+Yeola,01/09/18,602,Red,200,901,740
+Yeola,05/09/18,1055,Other,200,885,700
+Yeola,07/09/18,996,Other,200,911,700
+Yeola,08/09/18,518,Other,250,851,675
+Yeola,10/09/18,533,Other,250,891,750
+Yeola,12/09/18,1342,Other,250,1001,775
+Yeola,14/09/18,1280,Other,200,926,725
+Yeola,15/09/18,820,Other,200,856,700
+Yeola,17/09/18,1227,Other,200,888,700
+Yeola,19/09/18,1061,Other,300,876,700
+Yeola,21/09/18,1064,Other,100,771,600
+Yeola,22/09/18,616,Other,100,720,550
+Yeola,24/09/18,832,Other,200,780,600
+Yeola,26/09/18,766,Other,150,755,600
+Yeola,27/09/18,505,Other,150,731,570
+Yeola,28/09/18,801,Other,200,900,700
+Yeola,29/09/18,641,Other,251,891,725

@@ -1,0 +1,320 @@
+Market,Arrival Date,Arrivals (Tonnes),Variety,Minimum Price(Rs./Quintal),Maximum Price(Rs./Quintal),Modal Price(Rs./Quintal)
+Arasikere,02/11/2018,21,Onion,600,600,600
+Arasikere,05/11/2018,25,Onion,600,600,600
+Bagalakot,03/11/2018,1187,Onion,300,1300,1000
+Bagalakot,10/11/2018,752,Onion,300,1500,1100
+Bagalakot,13/11/2018,1289,Onion,300,1400,1100
+Bagalakot,17/11/2018,1568,Onion,200,1300,800
+Bagalakot,27/11/2018,637,Onion,200,1000,600
+Bagepalli,24/11/2018,3,Onion,600,1100,910
+Bangalore,02/11/2018,9270,Local,1000,1500,1250
+Bangalore,02/11/2018,9270,Puna,1000,1800,1650
+Bangalore,03/11/2018,7075,Local,1000,1500,1250
+Bangalore,03/11/2018,7075,Puna,1000,1800,1400
+Bangalore,05/11/2018,6515,Local,1000,1500,1250
+Bangalore,05/11/2018,6515,Puna,1000,1800,1400
+Bangalore,07/11/2018,2784,Local,1000,1500,1250
+Bangalore,07/11/2018,2784,Puna,1000,1800,1400
+Bangalore,09/11/2018,3662,Local,1000,1500,1250
+Bangalore,09/11/2018,3662,Puna,1000,1800,1400
+Bangalore,14/11/2018,6304,Local,1000,1400,1200
+Bangalore,14/11/2018,6304,Puna,1000,1800,1400
+Bangalore,15/11/2018,6747,Local,1000,1400,1200
+Bangalore,15/11/2018,6747,Puna,1000,1800,1400
+Bangalore,16/11/2018,6270,Local,1000,1400,1200
+Bangalore,16/11/2018,6270,Puna,1000,1800,1400
+Bangalore,17/11/2018,3693,Local,1000,1400,1200
+Bangalore,17/11/2018,3693,Puna,1000,1800,1400
+Bangalore,19/11/2018,3948,Local,600,1000,800
+Bangalore,19/11/2018,3948,Puna,500,1500,1000
+Bangalore,20/11/2018,3195,Local,600,1000,800
+Bangalore,20/11/2018,3195,Puna,500,1500,1000
+Bangalore,22/11/2018,3958,Local,500,1000,750
+Bangalore,22/11/2018,3958,Puna,500,1200,850
+Bangalore,23/11/2018,2947,Local,500,1000,750
+Bangalore,23/11/2018,2947,Puna,500,1200,850
+Bangalore,24/11/2018,2409,Local,500,1000,750
+Bangalore,24/11/2018,2409,Puna,500,1200,850
+Bangalore,27/11/2018,8653,Local,500,1000,750
+Bangalore,27/11/2018,8653,Puna,500,1200,850
+Bangalore,28/11/2018,3416,Local,500,1000,750
+Bangalore,28/11/2018,3416,Puna,500,1200,850
+Bangalore,29/11/2018,3302,Local,500,1000,750
+Bangalore,29/11/2018,3302,Puna,500,1200,850
+Bangalore,30/11/2018,3445,Local,500,1000,750
+Bangalore,30/11/2018,3445,Puna,500,1200,850
+Belgaum,02/11/2018,472,Pusa-Red,300,1400,1000
+Belgaum,02/11/2018,472,White,400,1500,1100
+Belgaum,03/11/2018,439,Pusa-Red,300,1600,1000
+Belgaum,03/11/2018,439,White,450,1750,1100
+Belgaum,04/11/2018,154,Pusa-Red,300,1600,1000
+Belgaum,04/11/2018,154,White,450,1750,1100
+Belgaum,05/11/2018,12,Pusa-Red,300,1600,1000
+Belgaum,05/11/2018,12,White,450,1750,1100
+Belgaum,07/11/2018,16,Pusa-Red,300,1600,1000
+Belgaum,07/11/2018,16,White,450,1750,1100
+Belgaum,08/11/2018,209,Pusa-Red,350,1600,1000
+Belgaum,08/11/2018,209,White,450,1750,1100
+Belgaum,09/11/2018,146,Pusa-Red,350,1600,1000
+Belgaum,09/11/2018,146,White,450,1750,1100
+Belgaum,10/11/2018,2257,Pusa-Red,300,1700,1100
+Belgaum,10/11/2018,2257,White,400,1800,1300
+Belgaum,11/11/2018,241,Pusa-Red,300,1700,1100
+Belgaum,11/11/2018,241,White,400,1800,1300
+Belgaum,14/11/2018,3221,Pusa-Red,300,1700,1100
+Belgaum,14/11/2018,3221,White,450,1850,1300
+Belgaum,15/11/2018,140,Pusa-Red,300,1700,1100
+Belgaum,15/11/2018,140,White,450,1850,1300
+Belgaum,16/11/2018,328,Pusa-Red,300,1700,1100
+Belgaum,16/11/2018,328,White,450,1850,1300
+Belgaum,17/11/2018,2269,Pusa-Red,300,1200,800
+Belgaum,17/11/2018,2269,White,400,1400,1000
+Belgaum,18/11/2018,154,Pusa-Red,300,1200,800
+Belgaum,18/11/2018,154,White,400,1400,1000
+Belgaum,28/11/2018,1353,Pusa-Red,300,1300,900
+Belgaum,28/11/2018,1353,White,400,1400,1000
+Belgaum,29/11/2018,70,Pusa-Red,300,1300,900
+Belgaum,29/11/2018,70,White,400,1400,1000
+Belgaum,30/11/2018,101,Pusa-Red,300,1300,900
+Belgaum,30/11/2018,101,White,400,1400,1000
+Bijapur,02/11/2018,174,Onion,200,1800,1000
+Bijapur,05/11/2018,215,Onion,200,1200,800
+Bijapur,13/11/2018,200,Onion,1000,2000,1500
+Bijapur,15/11/2018,168,Onion,100,1600,1200
+Bijapur,19/11/2018,157,Onion,100,700,400
+Bijapur,22/11/2018,122,Onion,750,1200,900
+Bijapur,27/11/2018,143,Onion,100,900,400
+Bijapur,29/11/2018,150,Onion,100,1200,800
+Chickkaballapura,02/11/2018,53,Beelary-Red,1700,2000,1850
+Chickkaballapura,06/11/2018,56,Beelary-Red,1600,2000,1800
+Chickkaballapura,09/11/2018,61,Beelary-Red,1600,2000,1800
+Chickkaballapura,12/11/2018,31,Beelary-Red,1600,1800,1700
+Chickkaballapura,13/11/2018,31,Beelary-Red,1600,1800,1700
+Chickkaballapura,16/11/2018,58,Beelary-Red,1400,1800,1600
+Chickkaballapura,20/11/2018,116,Beelary-Red,1700,1900,1800
+Chickkaballapura,20/11/2018,116,Local,200,1800,1000
+Chickkaballapura,23/11/2018,92,Beelary-Red,1200,1700,1450
+Chickkaballapura,27/11/2018,41,Local,1000,1500,1250
+Chickkaballapura,30/11/2018,48,Beelary-Red,1200,1500,1350
+Chikkamagalore,02/11/2018,3,Other,1153,1353,1253
+Chikkamagalore,03/11/2018,5,Other,1008,1308,1208
+Chikkamagalore,05/11/2018,10,Other,1236,1436,1336
+Chikkamagalore,07/11/2018,4,Other,1109,1309,1209
+Chikkamagalore,09/11/2018,1,Other,1200,1200,1200
+Chikkamagalore,13/11/2018,15,Other,1021,1321,1221
+Chikkamagalore,14/11/2018,1,Other,1000,1000,1000
+Chikkamagalore,16/11/2018,3,Other,1288,1488,1388
+Chikkamagalore,17/11/2018,1,Other,1116,1316,1216
+Chikkamagalore,19/11/2018,5,Other,1281,1481,1381
+Chikkamagalore,20/11/2018,2,Other,1000,1000,1000
+Chikkamagalore,23/11/2018,2,Other,856,1056,956
+Chikkamagalore,27/11/2018,6,Other,1192,1392,1292
+Chikkamagalore,28/11/2018,4,Other,1288,1488,1388
+Chikkamagalore,30/11/2018,3,Other,1361,1561,1461
+Davangere,02/11/2018,120,Onion,300,1400,850
+Davangere,03/11/2018,120,Onion,200,1600,900
+Davangere,05/11/2018,120,Onion,300,1650,1000
+Davangere,07/11/2018,60,Onion,300,1600,900
+Davangere,09/11/2018,60,Onion,300,1600,950
+Davangere,13/11/2018,96,Onion,200,1600,900
+Davangere,14/11/2018,160,Onion,500,1500,1000
+Davangere,15/11/2018,90,Onion,200,1700,950
+Davangere,16/11/2018,190,Onion,500,1500,1000
+Davangere,17/11/2018,120,Onion,200,1300,750
+Davangere,19/11/2018,160,Onion,200,1300,750
+Davangere,20/11/2018,90,Onion,200,1200,700
+Davangere,22/11/2018,60,Onion,500,1200,850
+Davangere,23/11/2018,60,Onion,500,1200,850
+Davangere,24/11/2018,90,Onion,200,1300,750
+Davangere,27/11/2018,85,Onion,500,1200,625
+Davangere,28/11/2018,70,Onion,300,1300,700
+Davangere,29/11/2018,90,Onion,200,1200,700
+Davangere,30/11/2018,90,Onion,300,1200,750
+Doddaballa Pur,02/11/2018,5,Onion,1000,1600,1300
+Doddaballa Pur,03/11/2018,6,Onion,1200,1800,1500
+Doddaballa Pur,05/11/2018,7,Onion,1000,2000,1500
+Doddaballa Pur,07/11/2018,5,Onion,1000,1600,1300
+Doddaballa Pur,09/11/2018,6,Onion,1000,1600,1300
+Doddaballa Pur,13/11/2018,7,Onion,1000,1600,1300
+Doddaballa Pur,14/11/2018,6,Onion,1400,2000,1700
+Doddaballa Pur,15/11/2018,7,Onion,1200,1800,1500
+Doddaballa Pur,16/11/2018,7,Onion,1200,1600,1400
+Doddaballa Pur,17/11/2018,7,Onion,1200,1600,1400
+Doddaballa Pur,19/11/2018,5,Onion,1000,1800,1400
+Doddaballa Pur,20/11/2018,6,Onion,1200,1600,1400
+Doddaballa Pur,22/11/2018,7,Onion,1200,1600,1400
+Doddaballa Pur,23/11/2018,7,Onion,1200,1600,1400
+Doddaballa Pur,24/11/2018,5,Onion,1200,1600,1400
+Doddaballa Pur,27/11/2018,5,Onion,1200,1600,1500
+Doddaballa Pur,28/11/2018,5,Onion,1200,1800,1500
+Doddaballa Pur,29/11/2018,6,Onion,1200,1800,1500
+Doddaballa Pur,30/11/2018,7,Onion,1200,1800,1500
+Gadag,02/11/2018,230,Onion,100,1400,600
+Gadag,03/11/2018,325,Onion,100,1300,700
+Gadag,05/11/2018,250,Onion,100,1100,500
+Gadag,09/11/2018,130,Onion,100,1500,700
+Gadag,10/11/2018,300,Onion,100,1500,700
+Gadag,13/11/2018,310,Onion,200,1300,700
+Gadag,14/11/2018,345,Onion,300,1400,600
+Gadag,15/11/2018,225,Onion,200,1400,700
+Gadag,16/11/2018,438,Onion,100,1400,800
+Gadag,17/11/2018,600,Onion,300,1100,700
+Gadag,19/11/2018,400,Onion,100,1000,600
+Gadag,20/11/2018,400,Onion,100,1000,600
+Gadag,22/11/2018,455,Onion,100,1100,600
+Gadag,23/11/2018,150,Onion,100,1000,500
+Gadag,24/11/2018,150,Onion,100,1100,700
+Gadag,27/11/2018,175,Onion,100,1100,600
+Gadag,28/11/2018,250,Onion,100,1000,500
+Gadag,29/11/2018,200,Onion,100,1100,500
+Gadag,30/11/2018,100,Onion,100,1000,500
+Gowribidanoor,03/11/2018,11,Beelary-Red,1300,1500,1400
+Gowribidanoor,17/11/2018,10,Beelary-Red,1400,1500,1450
+Gowribidanoor,24/11/2018,2,Beelary-Red,1800,2000,1900
+Gowribidanoor,30/11/2018,9,Beelary-Red,1400,1600,1500
+Gundlupet,09/11/2018,7,Local,1000,1667,1000
+Gundlupet,16/11/2018,10,Local,1333,2000,1600
+Gundlupet,23/11/2018,8,Local,1500,1667,1600
+Gundlupet,27/11/2018,3,Local,1000,1000,1000
+Gundlupet,28/11/2018,3,Local,1000,1000,1000
+Gundlupet,30/11/2018,13,Local,1000,1600,1333
+Hassan,02/11/2018,87,Other,978,1164,978
+Hassan,07/11/2018,1032,Other,795,1760,1029
+Hassan,14/11/2018,419,Other,442,1228,880
+Hassan,17/11/2018,1,Other,2000,2000,2000
+Hassan,22/11/2018,560,Other,420,1108,900
+Hassan,24/11/2018,984,Other,626,1956,830
+Hassan,28/11/2018,242,Other,540,818,760
+Hassan,29/11/2018,233,Other,400,1146,800
+Hassan,30/11/2018,1503,Other,600,850,696
+Holalkere,02/11/2018,10,Onion,800,800,800
+Holalkere,03/11/2018,10,Onion,1000,1000,1000
+Holalkere,13/11/2018,30,Onion,400,1200,667
+Holalkere,15/11/2018,10,Onion,1000,1000,1000
+Holalkere,17/11/2018,10,Onion,1000,1000,1000
+Holalkere,19/11/2018,20,Onion,500,500,500
+Hospet,05/11/2018,20,Local,700,1100,900
+Hospet,07/11/2018,12,Local,700,1000,900
+Hospet,13/11/2018,25,Local,600,1400,900
+Hospet,14/11/2018,4,Local,600,1200,1000
+Hospet,18/11/2018,19,Local,800,1400,900
+Hospet,23/11/2018,4,Local,600,1400,1200
+Hospet,25/11/2018,16,Local,800,1200,1000
+Hospet,27/11/2018,8,Local,500,1400,1000
+Hospet,28/11/2018,17,Local,500,1200,800
+Hubli (Amaragol),02/11/2018,1725,Local,300,1500,750
+Hubli (Amaragol),02/11/2018,1725,Telagi,300,1550,760
+Hubli (Amaragol),03/11/2018,2444,Local,300,1600,760
+Hubli (Amaragol),03/11/2018,2444,Telagi,300,1500,740
+Hubli (Amaragol),05/11/2018,2408,Local,300,1660,850
+Hubli (Amaragol),05/11/2018,2408,Telagi,300,1500,730
+Hubli (Amaragol),09/11/2018,553,Local,300,1750,860
+Hubli (Amaragol),09/11/2018,553,Telagi,300,1600,820
+Hubli (Amaragol),10/11/2018,1822,Local,300,1800,850
+Hubli (Amaragol),10/11/2018,1822,Puna,1200,1400,1300
+Hubli (Amaragol),10/11/2018,1822,Telagi,500,1600,800
+Hubli (Amaragol),12/11/2018,2520,Local,300,1800,880
+Hubli (Amaragol),12/11/2018,2520,Telagi,300,1650,820
+Hubli (Amaragol),13/11/2018,2448,Local,300,1800,860
+Hubli (Amaragol),13/11/2018,2448,Telagi,300,1700,830
+Hubli (Amaragol),14/11/2018,2568,Local,300,1800,860
+Hubli (Amaragol),14/11/2018,2568,Telagi,300,1600,840
+Hubli (Amaragol),15/11/2018,2208,Local,300,1700,800
+Hubli (Amaragol),15/11/2018,2208,Telagi,300,1500,780
+Hubli (Amaragol),16/11/2018,1835,Local,300,1400,700
+Hubli (Amaragol),16/11/2018,1835,Telagi,300,1450,720
+Hubli (Amaragol),17/11/2018,2156,Local,300,1250,670
+Hubli (Amaragol),17/11/2018,2156,Telagi,300,1450,680
+Hubli (Amaragol),19/11/2018,851,Local,300,1170,570
+Hubli (Amaragol),19/11/2018,851,Telagi,300,1200,560
+Hubli (Amaragol),20/11/2018,577,Local,300,1400,780
+Hubli (Amaragol),20/11/2018,577,Telagi,300,1350,600
+Hubli (Amaragol),22/11/2018,980,Local,300,1420,730
+Hubli (Amaragol),22/11/2018,980,Puna,1000,1300,1150
+Hubli (Amaragol),22/11/2018,980,Telagi,300,1450,780
+Hubli (Amaragol),23/11/2018,927,Local,300,1430,810
+Hubli (Amaragol),23/11/2018,927,Telagi,300,1350,720
+Hubli (Amaragol),24/11/2018,1291,Local,300,1400,830
+Hubli (Amaragol),24/11/2018,1291,Telagi,300,1200,720
+Hubli (Amaragol),27/11/2018,1327,Local,300,1450,820
+Hubli (Amaragol),27/11/2018,1327,Telagi,300,1400,750
+Hubli (Amaragol),28/11/2018,1243,Local,300,1400,820
+Hubli (Amaragol),28/11/2018,1243,Puna,700,1500,1000
+Hubli (Amaragol),28/11/2018,1243,Telagi,300,1300,730
+Hubli (Amaragol),29/11/2018,995,Local,300,1350,800
+Hubli (Amaragol),29/11/2018,995,Telagi,300,1300,740
+Hubli (Amaragol),30/11/2018,854,Local,300,1350,680
+Hubli (Amaragol),30/11/2018,854,Telagi,300,1200,630
+Jamakhandi,01/11/2018,61,Onion,400,900,700
+Jamakhandi,08/11/2018,57,Onion,400,850,700
+Kolar,09/11/2018,14,Other,1400,1700,1500
+Kolar,14/11/2018,8,Other,1500,1700,1600
+Kolar,15/11/2018,6,Other,1900,2100,2000
+Kolar,22/11/2018,5,Other,1600,1700,1638
+Malur,13/11/2018,3,Onion,1800,2200,2000
+Malur,15/11/2018,2,Onion,1800,2300,2000
+Malur,24/11/2018,1,Onion,1300,1800,1538
+Malur,29/11/2018,5,Onion,900,1200,1000
+Mandya,29/11/2018,2,Onion,600,600,600
+Mysore (Bandipalya),02/11/2018,91,Other,800,1700,1250
+Mysore (Bandipalya),03/11/2018,243,Other,800,1700,1250
+Mysore (Bandipalya),05/11/2018,166,Other,800,1800,1300
+Mysore (Bandipalya),07/11/2018,332,Other,800,1800,1300
+Mysore (Bandipalya),09/11/2018,127,Other,800,1800,1300
+Mysore (Bandipalya),13/11/2018,471,Other,600,1800,1200
+Mysore (Bandipalya),14/11/2018,104,Other,600,1800,1200
+Mysore (Bandipalya),15/11/2018,13,Other,600,1800,1200
+Mysore (Bandipalya),16/11/2018,252,Other,600,1800,1200
+Mysore (Bandipalya),17/11/2018,233,Other,600,1800,1200
+Mysore (Bandipalya),19/11/2018,95,Other,400,1400,900
+Mysore (Bandipalya),20/11/2018,113,Other,400,1400,900
+Mysore (Bandipalya),22/11/2018,403,Other,400,1400,900
+Mysore (Bandipalya),23/11/2018,38,Other,400,1400,900
+Mysore (Bandipalya),24/11/2018,122,Other,400,1400,900
+Mysore (Bandipalya),27/11/2018,86,Other,400,1500,950
+Mysore (Bandipalya),28/11/2018,149,Other,400,1500,950
+Mysore (Bandipalya),29/11/2018,79,Other,400,1500,950
+Mysore (Bandipalya),30/11/2018,90,Other,400,1500,950
+Pavagada,17/11/2018,7,Bombay (U.P.),500,600,550
+Raichur,03/11/2018,254,Onion,500,1261,875
+Raichur,05/11/2018,142,Onion,490,1320,880
+Raichur,09/11/2018,138,Onion,581,1305,891
+Raichur,10/11/2018,167,Onion,550,1400,901
+Raichur,13/11/2018,216,Onion,500,1366,970
+Raichur,14/11/2018,212,Onion,505,1480,1095
+Raichur,15/11/2018,147,Onion,501,1321,945
+Raichur,16/11/2018,128,Onion,440,1121,970
+Raichur,17/11/2018,190,Onion,500,1060,841
+Raichur,19/11/2018,165,Onion,420,1060,736
+Raichur,20/11/2018,101,Onion,398,1007,776
+Raichur,22/11/2018,95,Onion,521,970,740
+Raichur,23/11/2018,74,Onion,410,1000,800
+Raichur,24/11/2018,103,Onion,475,965,760
+Raichur,27/11/2018,121,Onion,400,1030,870
+Raichur,28/11/2018,123,Onion,550,1056,880
+Raichur,29/11/2018,133,Onion,430,1036,765
+Raichur,30/11/2018,105,Onion,480,900,736
+Ranebennur,02/11/2018,60,Local,300,1200,800
+Ranebennur,03/11/2018,87,Local,200,1250,750
+Ranebennur,05/11/2018,113,Local,100,1300,780
+Ranebennur,07/11/2018,88,Local,100,1300,700
+Ranebennur,08/11/2018,90,Local,100,1200,800
+Ranebennur,15/11/2018,75,Local,100,1200,700
+Ranebennur,16/11/2018,75,Local,200,1100,900
+Ranebennur,17/11/2018,75,Local,200,1200,800
+Ranebennur,19/11/2018,41,Local,200,800,600
+Ranebennur,20/11/2018,24,Local,150,900,480
+Ranebennur,22/11/2018,29,Local,150,1000,530
+Ranebennur,23/11/2018,24,Local,300,900,680
+Ranebennur,27/11/2018,38,Local,300,1100,600
+Ranebennur,28/11/2018,23,Local,200,1200,580
+Ranebennur,29/11/2018,42,Local,200,1000,700
+Ranebennur,30/11/2018,18,Local,200,800,500
+Tarikere,14/11/2018,10,Local,700,700,700
+Tarikere,17/11/2018,2,Local,1500,1500,1500
+Tumkur,05/11/2018,4,Other,880,1400,1100
+Tumkur,07/11/2018,2,Other,900,1400,1200
+Udupi,07/11/2018,11,Onion,1200,1600,1400
+Udupi,14/11/2018,10,Onion,1300,1700,1500
+Udupi,21/11/2018,11,Onion,1300,1500,1400
+Udupi,28/11/2018,10,Onion,1300,1500,1400

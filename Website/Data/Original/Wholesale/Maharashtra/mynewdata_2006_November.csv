@@ -1,0 +1,638 @@
+Market,Arrival Date,Arrivals (Tonnes),Variety,Minimum Price(Rs./Quintal),Maximum Price(Rs./Quintal),Modal Price(Rs./Quintal)
+Ahmednagar,04/11/2006,737.1, ,NR,NR,NR
+Ahmednagar,06/11/2006,554.9, ,NR,NR,NR
+Ahmednagar,09/11/2006,527.3, ,NR,NR,NR
+Ahmednagar,11/11/2006,515.3, ,NR,NR,NR
+Ahmednagar,13/11/2006,507.1, ,NR,NR,NR
+Ahmednagar,16/11/2006,565.1, ,NR,NR,NR
+Akkalkot,14/11/2006,9.5, ,NR,NR,NR
+Akkalkot,20/11/2006,81, ,NR,NR,NR
+Aurangabad,01/11/2006,12.5,Other,200,550,350
+Aurangabad,02/11/2006,17.5,Other,200,550,350
+Aurangabad,04/11/2006,24,Other,250,650,450
+Aurangabad,06/11/2006,17,Other,200,550,400
+Aurangabad,07/11/2006,14,Other,200,550,400
+Aurangabad,08/11/2006,10.5,Other,200,550,400
+Aurangabad,09/11/2006,25,Other,200,500,400
+Aurangabad,11/11/2006,23, ,NR,NR,NR
+Aurangabad,12/11/2006,14,Other,200,450,350
+Aurangabad,13/11/2006,16, ,NR,NR,NR
+Aurangabad,15/11/2006,5, ,NR,NR,NR
+Aurangabad,16/11/2006,20.5, ,NR,NR,NR
+Aurangabad,19/11/2006,13,Other,200,400,300
+Aurangabad,20/11/2006,13.5,Other,200,350,275
+Aurangabad,22/11/2006,18.5, ,NR,NR,NR
+Aurangabad,25/11/2006,25, ,NR,NR,NR
+Aurangabad,26/11/2006,30,Other,150,300,250
+Aurangabad,27/11/2006,16,Other,125,300,200
+Aurangabad,28/11/2006,5,Other,150,325,250
+Aurangabad,29/11/2006,2,Other,200,300,250
+Baramati,01/11/2006,20.1, ,NR,NR,NR
+Baramati,04/11/2006,36.6, ,NR,NR,NR
+Baramati,08/11/2006,44, ,NR,NR,NR
+Baramati,11/11/2006,26.2, ,NR,NR,NR
+Baramati,15/11/2006,15.4, ,NR,NR,NR
+Baramati,18/11/2006,11.6, ,NR,NR,NR
+Baramati,22/11/2006,10.5, ,NR,NR,NR
+Baramati,29/11/2006,8, ,NR,NR,NR
+Barshi,21/11/2006,109.2, ,NR,NR,NR
+Bhivandi,01/11/2006,0.1,Other,300,350,325
+Bhivandi,08/11/2006,0.1,Other,300,350,325
+Bhivandi,15/11/2006,0.1,Other,300,350,325
+Bhivandi,22/11/2006,0.1,Other,300,350,325
+Bhivandi,29/11/2006,0.1,Other,300,350,325
+Bhusaval,29/11/2006,1.6,Other,200,300,200
+Chandrapur,01/11/2006,45,Other,400,500,450
+Chandrapur,02/11/2006,20,Other,350,550,500
+Chandrapur,03/11/2006,18,Other,350,550,500
+Chandrapur,04/11/2006,27,Other,400,600,500
+Chandrapur,06/11/2006,9,Other,300,750,700
+Chandrapur,07/11/2006,0.8,Other,300,750,700
+Chandrapur,08/11/2006,18,Other,400,700,600
+Chandrapur,09/11/2006,18,Other,400,850,700
+Chandrapur,10/11/2006,27,Other,400,800,650
+Chandrapur,11/11/2006,18,Other,400,800,700
+Chandrapur,13/11/2006,18,Other,400,800,700
+Chandrapur,14/11/2006,27,Other,400,750,700
+Chandrapur,15/11/2006,18,Other,400,750,700
+Chandrapur,16/11/2006,18,Other,400,750,700
+Chandrapur,17/11/2006,27,Other,400,750,600
+Chandrapur,18/11/2006,18,Other,400,700,600
+Chandrapur,21/11/2006,9,Other,400,700,600
+Chandvad,01/11/2006,104.7, ,NR,NR,NR
+Chandvad,02/11/2006,178.9, ,NR,NR,NR
+Chandvad,03/11/2006,275, ,NR,NR,NR
+Chandvad,04/11/2006,139.7, ,NR,NR,NR
+Chandvad,07/11/2006,147.9, ,NR,NR,NR
+Chandvad,08/11/2006,199, ,NR,NR,NR
+Chandvad,09/11/2006,166, ,NR,NR,NR
+Chandvad,10/11/2006,196.4, ,NR,NR,NR
+Chandvad,11/11/2006,129, ,NR,NR,NR
+Chandvad,14/11/2006,345, ,NR,NR,NR
+Chandvad,15/11/2006,383.8, ,NR,NR,NR
+Chandvad,16/11/2006,354.5, ,NR,NR,NR
+Chandvad,17/11/2006,305.9, ,NR,NR,NR
+Chandvad,18/11/2006,299.8, ,NR,NR,NR
+Chandvad,21/11/2006,300.5, ,NR,NR,NR
+Chandvad,22/11/2006,474.4, ,NR,NR,NR
+Devala,01/11/2006,430, ,NR,NR,NR
+Devala,02/11/2006,275, ,NR,NR,NR
+Devala,03/11/2006,7, ,NR,NR,NR
+Devala,06/11/2006,175, ,NR,NR,NR
+Devala,07/11/2006,170, ,NR,NR,NR
+Devala,08/11/2006,105, ,NR,NR,NR
+Devala,09/11/2006,220, ,NR,NR,NR
+Devala,10/11/2006,130, ,NR,NR,NR
+Devala,13/11/2006,250, ,NR,NR,NR
+Devala,14/11/2006,145, ,NR,NR,NR
+Devala,15/11/2006,275, ,NR,NR,NR
+Devala,16/11/2006,175, ,NR,NR,NR
+Devala,17/11/2006,195, ,NR,NR,NR
+Devala,21/11/2006,115, ,NR,NR,NR
+Devala,28/11/2006,14, ,NR,NR,NR
+Devala,30/11/2006,8, ,NR,NR,NR
+Dhule,06/11/2006,300, ,NR,NR,NR
+Dhule,09/11/2006,200, ,NR,NR,NR
+Dhule,21/11/2006,500, ,NR,NR,NR
+Dhule,22/11/2006,500, ,NR,NR,NR
+Dhule,23/11/2006,400, ,NR,NR,NR
+Dhule,24/11/2006,400, ,NR,NR,NR
+Dhule,27/11/2006,400, ,NR,NR,NR
+Dhule,28/11/2006,400, ,NR,NR,NR
+Dhule,29/11/2006,300, ,NR,NR,NR
+Dindori(Vani),01/11/2006,265,Other,357,809,651
+Dindori(Vani),02/11/2006,205.7,Other,355,789,633
+Dindori(Vani),03/11/2006,277.8,Other,351,780,625
+Dindori(Vani),06/11/2006,301.7,Other,300,749,575
+Dindori(Vani),08/11/2006,207.9,Other,351,822,681
+Dindori(Vani),09/11/2006,189.2,Other,244,800,641
+Dindori(Vani),10/11/2006,218.3,Other,262,711,552
+Dindori(Vani),13/11/2006,249,Other,200,782,500
+Dindori(Vani),22/11/2006,225.4,Other,232,777,624
+Dindori(Vani),23/11/2006,141,Other,232,742,550
+Dindori(Vani),24/11/2006,139,Other,251,796,612
+Dindori(Vani),27/11/2006,75.9, ,NR,NR,NR
+Dindori(Vani),29/11/2006,65,Other,251,655,600
+Dindori(Vani),30/11/2006,68.3,Other,226,821,700
+Ghoti,03/11/2006,5,Other,340,340,340
+Ghoti,04/11/2006,5.9,Other,200,400,300
+Ghoti,06/11/2006,0.5, ,NR,NR,NR
+Ghoti,07/11/2006,1.1,Other,300,400,350
+Ghoti,08/11/2006,1.4, ,NR,NR,NR
+Ghoti,11/11/2006,5.3, ,NR,NR,NR
+Ghoti,14/11/2006,1,Other,200,225,213
+Ghoti,18/11/2006,3.4,Other,200,400,300
+Ghoti,25/11/2006,6.7,Other,200,400,300
+Ghoti,28/11/2006,1.2,Other,200,233,217
+Ghoti,29/11/2006,0.2,Other,200,200,200
+Indapur,01/11/2006,33.3, ,NR,NR,NR
+Indapur,03/11/2006,22.8, ,NR,NR,NR
+Indapur,05/11/2006,36.9, ,NR,NR,NR
+Indapur,08/11/2006,36.7, ,NR,NR,NR
+Indapur,10/11/2006,17.2, ,NR,NR,NR
+Indapur,12/11/2006,20.5, ,NR,NR,NR
+Indapur,15/11/2006,15.1, ,NR,NR,NR
+Indapur,17/11/2006,11.5, ,NR,NR,NR
+Indapur,19/11/2006,16.5, ,NR,NR,NR
+Indapur,22/11/2006,31.9, ,NR,NR,NR
+Indapur,26/11/2006,18.2, ,NR,NR,NR
+Indapur,29/11/2006,14.8, ,NR,NR,NR
+Jalana,07/11/2006,13.2, ,NR,NR,NR
+Jalgaon,01/11/2006,70,Red,300,725,500
+Jalgaon,02/11/2006,75,Red,250,700,500
+Jalgaon,03/11/2006,92,Red,200,600,400
+Jalgaon,06/11/2006,142,Red,200,600,400
+Jalgaon,08/11/2006,95, ,NR,NR,NR
+Jalgaon,09/11/2006,60, ,NR,NR,NR
+Jalgaon,10/11/2006,110, ,NR,NR,NR
+Jalgaon,11/11/2006,92, ,NR,NR,NR
+Jalgaon,13/11/2006,90,Red,400,650,525
+Jalgaon,14/11/2006,100,Red,400,550,475
+Jalgaon,15/11/2006,139, ,NR,NR,NR
+Jalgaon,17/11/2006,200, ,NR,NR,NR
+Jalgaon,18/11/2006,140, ,NR,NR,NR
+Jalgaon,20/11/2006,210, ,NR,NR,NR
+Jalgaon,21/11/2006,250, ,NR,NR,NR
+Jalgaon,22/11/2006,150, ,NR,NR,NR
+Jalgaon,24/11/2006,210, ,NR,NR,NR
+Jalgaon,25/11/2006,146, ,NR,NR,NR
+Jalgaon,27/11/2006,120, ,NR,NR,NR
+Jalgaon,29/11/2006,160, ,NR,NR,NR
+Jalgaon,30/11/2006,180, ,NR,NR,NR
+Junnar,02/11/2006,524.5,Other,300,700,600
+Junnar,05/11/2006,230.8,Other,300,600,450
+Junnar,07/11/2006,188.5,Other,300,700,500
+Junnar,09/11/2006,155,Other,400,800,600
+Junnar,10/11/2006,191,Other,400,800,600
+Junnar,16/11/2006,206,Other,400,800,600
+Junnar,17/11/2006,206,Other,400,800,600
+Junnar(Otur),02/11/2006,1175.1,Other,400,830,700
+Junnar(Otur),09/11/2006,682.2,Other,500,800,700
+Junnar(Otur),12/11/2006,383.8,Other,400,700,600
+Junnar(Otur),16/11/2006,532.7,Other,400,700,600
+Junnar(Otur),19/11/2006,357.6,Other,400,750,700
+Kada,05/11/2006,22.5, ,NR,NR,NR
+Kada,08/11/2006,3.5, ,NR,NR,NR
+Kada,19/11/2006,16, ,NR,NR,NR
+Kada,22/11/2006,5, ,NR,NR,NR
+Kalyan,01/11/2006,0.1,Other,600,700,650
+Kalyan,02/11/2006,0.1,Other,600,700,650
+Kalyan,07/11/2006,0.1,Other,650,700,675
+Kalyan,08/11/2006,0.1,Other,650,700,675
+Kalyan,10/11/2006,0.1,Other,600,700,650
+Kalyan,11/11/2006,0.1,Other,600,700,650
+Kalyan,12/11/2006,0.1,Other,650,700,675
+Kalyan,13/11/2006,0.1,Other,400,500,450
+Kalyan,14/11/2006,0.1,Other,600,700,650
+Kalyan,15/11/2006,0.1,Other,600,800,700
+Kalyan,16/11/2006,0.1,Other,500,650,575
+Kalyan,17/11/2006,0.1,Other,500,650,575
+Kalyan,18/11/2006,0.1,Other,600,650,625
+Kalyan,19/11/2006,0.1,Other,500,600,550
+Kalyan,20/11/2006,0.1,Other,450,600,550
+Kalyan,23/11/2006,0.1,Other,500,600,550
+Kalyan,24/11/2006,0.1,Other,450,600,525
+Kalyan,25/11/2006,0.1,Other,450,650,550
+Kalyan,26/11/2006,0.1,Other,500,650,575
+Kalyan,27/11/2006,0.1,Other,500,650,535
+Kalyan,28/11/2006,0.1,Other,600,650,625
+Karad,02/11/2006,40,Other,200,400,350
+Karad,06/11/2006,30, ,NR,NR,NR
+Karad,08/11/2006,40,Other,300,500,400
+Karad,09/11/2006,35, ,NR,NR,NR
+Karad,15/11/2006,30,Other,500,700,600
+Karad,16/11/2006,30, ,NR,NR,NR
+Karad,20/11/2006,50,Other,200,450,400
+Karad,21/11/2006,40,Other,200,450,400
+Karad,22/11/2006,70,Other,200,450,400
+Karad,29/11/2006,50,Other,100,500,450
+Khed(Chakan),01/11/2006,66.5,Other,200,750,600
+Khed(Chakan),04/11/2006,147.1,Other,250,600,400
+Khed(Chakan),08/11/2006,42.5,Other,200,750,500
+Khed(Chakan),11/11/2006,121,Other,200,625,500
+Khed(Chakan),15/11/2006,41,Other,200,600,475
+Khed(Chakan),18/11/2006,80,Other,200,600,475
+Kolhapur,01/11/2006,195, ,NR,NR,NR
+Kolhapur,02/11/2006,224.6, ,NR,NR,NR
+Kolhapur,03/11/2006,218.5, ,NR,NR,NR
+Kolhapur,04/11/2006,137.8, ,NR,NR,NR
+Kolhapur,06/11/2006,276.9, ,NR,NR,NR
+Kolhapur,07/11/2006,233.2, ,NR,NR,NR
+Kolhapur,08/11/2006,103.4, ,NR,NR,NR
+Kolhapur,09/11/2006,127.5, ,NR,NR,NR
+Kolhapur,10/11/2006,85.2, ,NR,NR,NR
+Kolhapur,11/11/2006,143.7, ,NR,NR,NR
+Kolhapur,13/11/2006,226.6, ,NR,NR,NR
+Kolhapur,14/11/2006,206.4, ,NR,NR,NR
+Kolhapur,15/11/2006,136.5, ,NR,NR,NR
+Kolhapur,16/11/2006,134.6, ,NR,NR,NR
+Kolhapur,17/11/2006,158.2, ,NR,NR,NR
+Kolhapur,18/11/2006,196.8, ,NR,NR,NR
+Kolhapur,20/11/2006,227.8, ,NR,NR,NR
+Kolhapur,21/11/2006,218.8, ,NR,NR,NR
+Kolhapur,25/11/2006,142.2, ,NR,NR,NR
+Kolhapur,27/11/2006,247.9, ,NR,NR,NR
+Kolhapur,29/11/2006,154.2, ,NR,NR,NR
+Lasalgaon,01/11/2006,750, ,NR,NR,NR
+Lasalgaon,02/11/2006,1115.4, ,NR,NR,NR
+Lasalgaon,03/11/2006,1547.7, ,NR,NR,NR
+Lasalgaon,06/11/2006,837.5, ,NR,NR,NR
+Lasalgaon,07/11/2006,900, ,NR,NR,NR
+Lasalgaon,08/11/2006,768.5, ,NR,NR,NR
+Lasalgaon,09/11/2006,1093.5, ,NR,NR,NR
+Lasalgaon,10/11/2006,1591, ,NR,NR,NR
+Lasalgaon,13/11/2006,1125, ,NR,NR,NR
+Lasalgaon,14/11/2006,1105, ,NR,NR,NR
+Lasalgaon,15/11/2006,689, ,NR,NR,NR
+Lasalgaon,16/11/2006,882.5, ,NR,NR,NR
+Lasalgaon,17/11/2006,772.5, ,NR,NR,NR
+Lasalgaon,29/11/2006,1164.5, ,NR,NR,NR
+Lasalgaon(Niphad),01/11/2006,269, ,NR,NR,NR
+Lasalgaon(Niphad),02/11/2006,406, ,NR,NR,NR
+Lasalgaon(Niphad),06/11/2006,325.5, ,NR,NR,NR
+Lasalgaon(Niphad),07/11/2006,192, ,NR,NR,NR
+Lasalgaon(Niphad),08/11/2006,186, ,NR,NR,NR
+Lasalgaon(Niphad),09/11/2006,202.5, ,NR,NR,NR
+Lasalgaon(Niphad),13/11/2006,219, ,NR,NR,NR
+Lasalgaon(Niphad),14/11/2006,113, ,NR,NR,NR
+Lasalgaon(Niphad),15/11/2006,113, ,NR,NR,NR
+Lasalgaon(Niphad),16/11/2006,134.5, ,NR,NR,NR
+Lonand,02/11/2006,440.4, ,NR,NR,NR
+Lonand,06/11/2006,79.6, ,NR,NR,NR
+Lonand,09/11/2006,277.8, ,NR,NR,NR
+Lonand,23/11/2006,192.8, ,NR,NR,NR
+Lonand,27/11/2006,104.4, ,NR,NR,NR
+Lonand,30/11/2006,133.3, ,NR,NR,NR
+Maanachar,01/11/2006,0.2,Other,500,500,500
+Maanachar,08/11/2006,0.1,Other,400,400,400
+Maanachar,13/11/2006,0.1,Other,600,600,600
+Malegaon,01/11/2006,27,Red,200,731,400
+Malegaon,02/11/2006,35.7,Other,219,644,500
+Malegaon,04/11/2006,40.5, ,NR,NR,NR
+Malegaon,06/11/2006,35, ,NR,NR,NR
+Malegaon,07/11/2006,35, ,NR,NR,NR
+Malegaon,08/11/2006,55,Other,271,700,500
+Malegaon,09/11/2006,120,Other,300,751,500
+Malegaon,11/11/2006,67, ,NR,NR,NR
+Malegaon,13/11/2006,52.5,Other,300,680,500
+Malegaon,14/11/2006,42.5, ,NR,NR,NR
+Malegaon,15/11/2006,12.5, ,NR,NR,NR
+Malegaon,20/11/2006,50, ,NR,NR,NR
+Malegaon,21/11/2006,50, ,NR,NR,NR
+Malegaon,27/11/2006,47.5,Red,180,500,361
+Malegaon,28/11/2006,55,Red,111,451,350
+Malegaon(Umarane),01/11/2006,657, ,NR,NR,NR
+Malegaon(Umarane),02/11/2006,544, ,NR,NR,NR
+Malegaon(Umarane),03/11/2006,797.5, ,NR,NR,NR
+Malegaon(Umarane),06/11/2006,750, ,NR,NR,NR
+Malegaon(Umarane),07/11/2006,715, ,NR,NR,NR
+Malegaon(Umarane),08/11/2006,567.5, ,NR,NR,NR
+Malegaon(Umarane),09/11/2006,545.5, ,NR,NR,NR
+Malegaon(Umarane),10/11/2006,628.5, ,NR,NR,NR
+Malegaon(Umarane),13/11/2006,237.5, ,NR,NR,NR
+Malegaon(Umarane),14/11/2006,850, ,NR,NR,NR
+Malegaon(Umarane),15/11/2006,890, ,NR,NR,NR
+Malegaon(Umarane),17/11/2006,1306, ,NR,NR,NR
+Malegaon(Umarane),23/11/2006,848, ,NR,NR,NR
+Malegaon(Umarane),24/11/2006,822.5, ,NR,NR,NR
+Malkapur,02/11/2006,3.7,Other,385,750,505
+Malkapur,03/11/2006,6.8,Other,375,585,450
+Malkapur,09/11/2006,16.7,Other,250,585,300
+Malkapur,10/11/2006,25.4,Other,200,420,330
+Malkapur,23/11/2006,140.6,Other,200,405,295
+Manmad,01/11/2006,350, ,NR,NR,NR
+Manmad,02/11/2006,400,Other,250,725,559
+Manmad,03/11/2006,400, ,NR,NR,NR
+Manmad,06/11/2006,40, ,NR,NR,NR
+Manmad,07/11/2006,300,Other,225,600,401
+Manmad,08/11/2006,20, ,NR,NR,NR
+Manmad,09/11/2006,250, ,NR,NR,NR
+Manmad,10/11/2006,170, ,NR,NR,NR
+Manmad,14/11/2006,60,Other,271,620,468
+Manmad,15/11/2006,120, ,NR,NR,NR
+Manmad,16/11/2006,200, ,NR,NR,NR
+Manmad,17/11/2006,200,Other,280,695,530
+Manmad,21/11/2006,850,Other,251,851,650
+Manmad,24/11/2006,900,Other,200,721,490
+Mumbai,01/11/2006,705,Other,400,800,600
+Mumbai,02/11/2006,845,Other,400,900,650
+Mumbai,03/11/2006,525,Other,400,800,600
+Mumbai,04/11/2006,690,Other,400,800,600
+Mumbai,06/11/2006,900,Other,400,800,600
+Mumbai,07/11/2006,635,Other,400,800,600
+Mumbai,08/11/2006,645,Other,400,750,575
+Mumbai,09/11/2006,780,Other,400,750,675
+Mumbai,10/11/2006,725,Other,350,750,550
+Mumbai,11/11/2006,715,Other,350,750,550
+Mumbai,13/11/2006,910,Other,400,800,600
+Mumbai,14/11/2006,700,Other,350,700,550
+Mumbai,15/11/2006,760,Other,500,850,675
+Mumbai,17/11/2006,615,Other,500,850,675
+Mumbai,18/11/2006,750,Other,500,850,675
+Mumbai,20/11/2006,650,Other,500,850,675
+Mumbai,21/11/2006,530,Other,500,850,675
+Mumbai,22/11/2006,845,Other,500,850,675
+Mumbai,24/11/2006,840,Other,400,700,550
+Mumbai,29/11/2006,520,Other,500,800,650
+Nagpur,01/11/2006,100,Other,875,925,900
+Nagpur,Red,625,775,700,925,900
+Nagpur,02/11/2006,53.9,Other,875,950,912
+Nagpur,Red,625,700,662,950,912
+Nagpur,03/11/2006,100,Other,875,950,912
+Nagpur,Red,625,700,662,950,912
+Nagpur,05/11/2006,200,Other,625,750,687
+Nagpur,Red,375,550,462,750,687
+Nagpur,06/11/2006,50,Other,625,750,687
+Nagpur,Red,375,550,462,750,687
+Nagpur,07/11/2006,80,Other,625,750,687
+Nagpur,Red,375,550,462,750,687
+Nagpur,08/11/2006,10,Other,625,750,687
+Nagpur,Red,375,650,412,750,687
+Nagpur,09/11/2006,20.7,Other,500,550,525
+Nagpur,Red,400,450,425,550,525
+Nagpur,10/11/2006,40,Other,625,750,687
+Nagpur,Red,450,500,475,750,687
+Nagpur,12/11/2006,60,Other,750,1000,875
+Nagpur,Red,500,625,562,1000,875
+Nagpur,13/11/2006,90,Other,750,1000,875
+Nagpur,Red,500,625,562,1000,875
+Nagpur,14/11/2006,150,Other,750,875,812
+Nagpur,Red,450,625,537,875,812
+Nagpur,15/11/2006,80,Other,750,875,812
+Nagpur,Red,450,625,537,875,812
+Nagpur,16/11/2006,100,Other,750,875,812
+Nagpur,Red,450,625,537,875,812
+Nagpur,17/11/2006,50,Other,750,875,812
+Nagpur,Red,375,500,437,875,812
+Nagpur,19/11/2006,100,Other,600,750,675
+Nagpur,Red,350,500,425,750,675
+Nagpur,20/11/2006,50,Other,600,750,675
+Nagpur,Red,350,500,425,750,675
+Nagpur,28/11/2006,50,Other,625,750,687
+Nagpur,Red,450,500,475,750,687
+Nagpur,29/11/2006,30,Other,500,625,562
+Nagpur,Red,400,500,450,625,562
+Nagpur,30/11/2006,100,Other,500,625,562
+Nagpur,Red,400,500,450,625,562
+Nandgaon,21/11/2006,413,Other,220,731,450
+Nandgaon,27/11/2006,378.5, ,NR,NR,NR
+Nandgaon,28/11/2006,440,Other,240,750,575
+Nandgaon,29/11/2006,360, ,NR,NR,NR
+Nandgaon,30/11/2006,320, ,NR,NR,NR
+Nandura,07/11/2006,10,Other,400,600,500
+Nashik(Devlali),14/11/2006,70.7, ,NR,NR,NR
+Nashik(Devlali),17/11/2006,43.9, ,NR,NR,NR
+Nashik(Devlali),21/11/2006,45.4, ,NR,NR,NR
+Nashik(Devlali),24/11/2006,27.4, ,NR,NR,NR
+Nashik(Devlali),28/11/2006,13.3,Other,200,401,300
+Nasik,01/11/2006,103.8, ,NR,NR,NR
+Nasik,02/11/2006,312.7, ,NR,NR,NR
+Nasik,03/11/2006,310.5,Other,200,660,551
+Nasik,04/11/2006,145.4,Other,250,600,500
+Nasik,06/11/2006,109, ,NR,NR,NR
+Nasik,09/11/2006,167.6, ,NR,NR,NR
+Nasik,10/11/2006,132.6, ,NR,NR,NR
+Nasik,11/11/2006,56.9, ,NR,NR,NR
+Nasik,13/11/2006,110, ,NR,NR,NR
+Nasik,14/11/2006,129.9, ,NR,NR,NR
+Nasik,15/11/2006,38.7, ,NR,NR,NR
+Nasik,16/11/2006,102.6, ,NR,NR,NR
+Nasik,17/11/2006,85.7,Other,210,465,350
+Nasik,18/11/2006,68.8,Other,250,551,400
+Nasik,20/11/2006,124.3, ,NR,NR,NR
+Nasik,21/11/2006,97.7, ,NR,NR,NR
+Nasik,22/11/2006,32.4, ,NR,NR,NR
+Nasik,23/11/2006,62.2, ,NR,NR,NR
+Nasik,24/11/2006,63.4, ,NR,NR,NR
+Nasik,29/11/2006,50.5, ,NR,NR,NR
+Navapur,04/11/2006,0.6,Other,500,500,500
+Navapur,11/11/2006,0.5,Other,200,300,241
+Navapur,18/11/2006,0.1,Other,400,450,428
+Navapur,19/11/2006,0.2,Other,300,400,350
+Navapur,21/11/2006,0.2,Other,400,400,400
+Osmanabad,01/11/2006,8.7, ,NR,NR,NR
+Osmanabad,03/11/2006,0.3, ,NR,NR,NR
+Osmanabad,04/11/2006,0.1, ,NR,NR,NR
+Palthan,03/11/2006,40, ,NR,NR,NR
+Palthan,07/11/2006,300, ,NR,NR,NR
+Palthan,10/11/2006,35, ,NR,NR,NR
+Palthan,14/11/2006,230, ,NR,NR,NR
+Palthan,17/11/2006,45, ,NR,NR,NR
+Palthan,24/11/2006,27.5, ,NR,NR,NR
+Palthan,28/11/2006,270, ,NR,NR,NR
+Pandharpur,08/11/2006,31.6, ,NR,NR,NR
+Pandharpur,09/11/2006,13.7, ,NR,NR,NR
+Pandharpur,10/11/2006,10.1, ,NR,NR,NR
+Pandharpur,11/11/2006,7.8, ,NR,NR,NR
+Pandharpur,13/11/2006,1.8, ,NR,NR,NR
+Pandharpur,14/11/2006,12.4, ,NR,NR,NR
+Pandharpur,15/11/2006,0.4,Other,360,500,475
+Pandharpur,16/11/2006,5.7, ,NR,NR,NR
+Pandharpur,18/11/2006,9.8, ,NR,NR,NR
+Pandharpur,20/11/2006,5.9, ,NR,NR,NR
+Pandharpur,21/11/2006,13.4, ,NR,NR,NR
+Pandharpur,22/11/2006,13.7, ,NR,NR,NR
+Pandharpur,24/11/2006,18.5, ,NR,NR,NR
+Pandharpur,29/11/2006,10.1,Other,220,500,400
+Parbhani,04/11/2006,20,Red,200,300,250
+Parbhani,11/11/2006,25,Red,250,320,275
+Parbhani,18/11/2006,18,Red,250,320,280
+Parbhani,21/11/2006,2,Red,300,350,320
+Pimpalgaon,01/11/2006,849,Other,300,839,651
+Pimpalgaon,02/11/2006,845.8,Other,280,793,621
+Pimpalgaon,03/11/2006,988.9,Other,211,753,575
+Pimpalgaon,06/11/2006,967.2,Other,211,770,611
+Pimpalgaon,07/11/2006,774.3,Other,265,770,621
+Pimpalgaon,08/11/2006,912.3,Other,260,755,611
+Pimpalgaon,09/11/2006,879.7,Other,235,771,580
+Pimpalgaon,10/11/2006,861.6,Other,300,751,580
+Pimpalgaon,13/11/2006,1191,Other,210,731,600
+Pimpalgaon,14/11/2006,811, ,NR,NR,NR
+Pimpalgaon,15/11/2006,291,Other,255,775,525
+Pimpalgaon,16/11/2006,726.5,Other,200,731,611
+Pimpalgaon,17/11/2006,782.5, ,NR,NR,NR
+Pimpalgaon,21/11/2006,1223.5, ,NR,NR,NR
+Pimpalgaon,22/11/2006,734.9, ,NR,NR,NR
+Pimpalgaon,23/11/2006,1047, ,NR,NR,NR
+Pimpalgaon,24/11/2006,826.9,Other,230,711,601
+Pimpalgaon,27/11/2006,1072, ,NR,NR,NR
+Pimpalgaon,28/11/2006,1008.9,Other,200,707,560
+Pimpalgaon,29/11/2006,900.3,Other,351,711,611
+Pimpalgaon,30/11/2006,1226.7,Other,351,694,625
+Pimpalgaon Baswant(Saykheda),01/11/2006,87.8,Other,275,679,550
+Pimpalgaon Baswant(Saykheda),03/11/2006,103.7,Other,250,609,500
+Pimpalgaon Baswant(Saykheda),04/11/2006,51.2,Other,200,579,480
+Pimpalgaon Baswant(Saykheda),06/11/2006,72.9,Other,250,600,500
+Pimpalgaon Baswant(Saykheda),07/11/2006,50.2,Other,240,628,475
+Pimpalgaon Baswant(Saykheda),08/11/2006,82.8,Other,200,610,475
+Pimpalgaon Baswant(Saykheda),10/11/2006,93.7, ,NR,NR,NR
+Pimpalgaon Baswant(Saykheda),11/11/2006,44.4,Other,200,610,475
+Pimpalgaon Baswant(Saykheda),13/11/2006,61.1,Other,200,511,470
+Pimpalgaon Baswant(Saykheda),14/11/2006,59.9, ,NR,NR,NR
+Pune,01/11/2006,715.8,Other,250,780,520
+Pune,02/11/2006,826.4,Other,250,750,500
+Pune,03/11/2006,834.7,Other,200,680,440
+Pune,05/11/2006,853.2,Other,250,700,475
+Pune,06/11/2006,607.1,Other,200,650,425
+Pune,08/11/2006,608.6,Other,200,680,440
+Pune,09/11/2006,581.2,Other,200,680,440
+Pune,10/11/2006,652.6,Other,200,650,425
+Pune,12/11/2006,594.9,Other,250,700,475
+Pune,13/11/2006,655.7,Other,250,680,465
+Pune,14/11/2006,647.2,Other,250,700,475
+Pune,15/11/2006,636.6,Other,200,700,450
+Pune,16/11/2006,629.8,Other,200,680,440
+Pune,17/11/2006,615.1,Other,200,680,440
+Pune,19/11/2006,672.3,Other,250,680,465
+Pune,20/11/2006,729.8,Other,200,680,440
+Pune,22/11/2006,0.1,Other,400,400,400
+Pune,24/11/2006,676.5,Other,250,750,500
+Pune(Khadiki),01/11/2006,4.3,Other,200,700,450
+Pune(Khadiki),02/11/2006,1.6,Other,200,700,450
+Pune(Khadiki),03/11/2006,0.7,Other,300,500,400
+Pune(Khadiki),04/11/2006,3.2,Other,200,800,500
+Pune(Khadiki),05/11/2006,4.4,Other,200,700,450
+Pune(Khadiki),06/11/2006,1.7,Other,300,600,450
+Pune(Khadiki),07/11/2006,1.6,Other,200,700,450
+Pune(Khadiki),08/11/2006,2,Other,300,700,500
+Pune(Khadiki),10/11/2006,1.4,Other,200,600,400
+Pune(Khadiki),12/11/2006,5.1,Other,200,700,450
+Pune(Khadiki),14/11/2006,0.9,Other,500,650,570
+Pune(Khadiki),16/11/2006,1.5,Other,400,600,450
+Pune(Khadiki),17/11/2006,1,Other,250,750,500
+Pune(Khadiki),19/11/2006,2.9,Other,250,750,500
+Pune(Khadiki),20/11/2006,0.5, ,NR,NR,NR
+Pune(Khadiki),21/11/2006,1.4,Other,400,800,600
+Pune(Khadiki),22/11/2006,2.2,Other,300,550,420
+Pune(Khadiki),24/11/2006,2.4,Other,300,600,450
+Pune(Pimpri),01/11/2006,1.6,Other,300,800,650
+Pune(Pimpri),02/11/2006,3.1,Other,300,650,500
+Pune(Pimpri),03/11/2006,3.3,Other,300,650,480
+Pune(Pimpri),04/11/2006,1.5,Other,250,650,450
+Pune(Pimpri),05/11/2006,2,Other,400,600,500
+Pune(Pimpri),06/11/2006,2.2,Other,250,600,430
+Pune(Pimpri),08/11/2006,1.3,Other,350,600,470
+Pune(Pimpri),10/11/2006,2.7,Other,200,600,400
+Pune(Pimpri),11/11/2006,1.2, ,NR,NR,NR
+Pune(Pimpri),12/11/2006,1.5,Other,250,600,430
+Pune(Pimpri),13/11/2006,1.1,Other,300,500,430
+Pune(Pimpri),14/11/2006,3.1,Other,200,700,450
+Pune(Pimpri),15/11/2006,1,Other,400,600,500
+Pune(Pimpri),16/11/2006,0.4,Other,500,600,550
+Pune(Pimpri),17/11/2006,1.4,Other,250,600,430
+Pune(Pimpri),18/11/2006,0.4,Other,400,600,500
+Pune(Pimpri),19/11/2006,2.1,Other,250,700,480
+Pune(Pimpri),20/11/2006,0.9,Other,200,600,400
+Pune(Pimpri),22/11/2006,1.1,Other,200,600,400
+Pune(Pimpri),24/11/2006,0.9,Other,600,650,625
+Pune(Pimpri),29/11/2006,1.7,Other,400,580,490
+Rahuri,03/11/2006,2150, ,NR,NR,NR
+Rahuri,05/11/2006,712.5, ,NR,NR,NR
+Rahuri,07/11/2006,1012.5, ,NR,NR,NR
+Rahuri,10/11/2006,1450, ,NR,NR,NR
+Rahuri,15/11/2006,1012.5, ,NR,NR,NR
+Rahuri,17/11/2006,1017.5, ,NR,NR,NR
+Rahuri,21/11/2006,1015, ,NR,NR,NR
+Rahuri(Vambori),11/11/2006,1, ,NR,NR,NR
+Rahuri(Vambori),16/11/2006,2.5, ,NR,NR,NR
+Rahuri(Vambori),18/11/2006,0.8,Other,200,350,250
+Rahuri(Vambori),23/11/2006,7.2, ,NR,NR,NR
+Rahuri(Vambori),25/11/2006,7.5, ,NR,NR,NR
+Sangamner,02/11/2006,689.6, ,NR,NR,NR
+Sangamner,05/11/2006,413, ,NR,NR,NR
+Sangamner,07/11/2006,257.3, ,NR,NR,NR
+Sangamner,09/11/2006,332.4, ,NR,NR,NR
+Sangamner,12/11/2006,276.9, ,NR,NR,NR
+Sangamner,14/11/2006,254.4, ,NR,NR,NR
+Sangamner,16/11/2006,263.5, ,NR,NR,NR
+Sangamner,19/11/2006,253.7, ,NR,NR,NR
+Sangamner,21/11/2006,243.7, ,NR,NR,NR
+Sangamner,28/11/2006,203.1, ,NR,NR,NR
+Sangamner,30/11/2006,186.2, ,NR,NR,NR
+Sangli(Phale,23/11/06,79.7, , NR,NR,NR
+Satara,02/11/2006,35.6,Other,200,600,400
+Satara,05/11/2006,33.8,Other,300,600,450
+Satara,07/11/2006,0.5,Other,300,400,350
+Satara,09/11/2006,25.4,Other,200,700,450
+Satara,12/11/2006,15.5,Other,200,600,400
+Satara,14/11/2006,0.5,Other,400,600,500
+Satara,16/11/2006,13,Other,200,700,450
+Shirpur,01/11/2006,1.4,Red,301,650,625
+Shirpur,04/11/2006,1, ,NR,NR,NR
+Shirpur,08/11/2006,1.3, ,NR,NR,NR
+Shirpur,15/11/2006,1.1,Red,315,370,355
+Shirpur,18/11/2006,0.4, ,NR,NR,NR
+Shirpur,29/11/2006,0.1,Red,355,405,405
+Shrirampur,03/11/2006,555.3, ,NR,NR,NR
+Shrirampur,05/11/2006,312.3, ,NR,NR,NR
+Shrirampur,10/11/2006,457.8, ,NR,NR,NR
+Sinner,01/11/2006,215.5, ,NR,NR,NR
+Sinner,03/11/2006,170.7, ,NR,NR,NR
+Sinner,06/11/2006,107.2, ,NR,NR,NR
+Sinner,08/11/2006,126.2, ,NR,NR,NR
+Sinner,09/11/2006,105, ,NR,NR,NR
+Sinner,10/11/2006,143.5, ,NR,NR,NR
+Sinner,13/11/2006,126.6, ,NR,NR,NR
+Sinner,15/11/2006,94.9, ,NR,NR,NR
+Sinner,16/11/2006,83, ,NR,NR,NR
+Sinner,18/11/2006,119.4, ,NR,NR,NR
+Sinner,22/11/2006,126.4, ,NR,NR,NR
+Sinner,23/11/2006,76.6, ,NR,NR,NR
+Sinner,24/11/2006,88.9, ,NR,NR,NR
+Sinner,27/11/2006,105.1, ,NR,NR,NR
+Sinner,29/11/2006,103.5, ,NR,NR,NR
+Sinner,30/11/2006,131.5, ,NR,NR,NR
+Solapur,02/11/2006,840, ,NR,NR,NR
+Solapur,08/11/2006,738.9, ,NR,NR,NR
+Solapur,10/11/2006,604.6, ,NR,NR,NR
+Solapur,14/11/2006,696.6, ,NR,NR,NR
+Solapur,16/11/2006,667, ,NR,NR,NR
+Solapur,20/11/2006,798.7, ,NR,NR,NR
+Solapur,21/11/2006,336.4, ,NR,NR,NR
+Vai,04/11/2006,1,Other,500,700,600
+Vai,06/11/2006,4,Other,250,550,400
+Vai,07/11/2006,0.4,Other,600,700,650
+Vai,09/11/2006,0.5,Other,400,450,425
+Vai,13/11/2006,2,Other,500,600,550
+Vai,28/11/2006,1,Other,400,700,550
+Vasai,01/11/2006,26.1,Other,400,600,500
+Vasai,02/11/2006,17.4,Other,450,575,500
+Vasai,03/11/2006,71.2,Other,450,600,500
+Vasai,04/11/2006,13.8,Other,450,600,500
+Vasai,05/11/2006,11.2,Other,450,645,550
+Vasai,06/11/2006,30.3,Other,450,650,550
+Vasai,07/11/2006,7.3,Other,450,625,550
+Vasai,08/11/2006,4.5,Other,400,600,500
+Vasai,09/11/2006,7.3,Other,425,600,550
+Vasai,10/11/2006,29.2,Other,450,600,550
+Vasai,11/11/2006,39.4,Other,425,600,550
+Vasai,12/11/2006,16.5,Other,450,650,500
+Vasai,13/11/2006,65.8,Other,450,650,500
+Vasai,14/11/2006,24.1,Other,450,600,550
+Vasai,15/11/2006,48.6,Other,450,625,500
+Vasai,16/11/2006,39.5,Other,450,600,550
+Vasai,17/11/2006,18,Other,400,600,500
+Vasai,18/11/2006,67.2,Other,450,600,550
+Vasai,19/11/2006,25.1,Other,450,675,550
+Vasai,20/11/2006,3.6,Other,500,650,550
+Vasai,21/11/2006,5.5,Other,500,600,550
+Vasai,22/11/2006,40.9,Other,500,600,550
+Vasai,23/11/2006,12.8,Other,500,600,550
+Vasai,24/11/2006,20.7,Other,500,650,550
+Vasai,25/11/2006,5.7,Other,500,600,550
+Yeola,01/11/2006,459,Other,275,670,525
+Yeola,02/11/2006,359.5,Other,250,660,500
+Yeola,03/11/2006,558.3, ,NR,NR,NR
+Yeola,04/11/2006,368.4,Other,200,560,425
+Yeola,05/11/2006,151.6,Other,200,552,425
+Yeola,06/11/2006,383.2,Other,200,604,475
+Yeola,07/11/2006,135.4,Other,250,600,500
+Yeola,08/11/2006,345,Other,200,575,450
+Yeola,09/11/2006,341,Other,200,575,450
+Yeola,10/11/2006,312.2,Other,200,550,450
+Yeola,11/11/2006,331,Other,225,515,400
+Yeola,13/11/2006,381.8, ,NR,NR,NR
+Yeola,15/11/2006,259.8, ,NR,NR,NR
+Yeola,17/11/2006,268.7, ,NR,NR,NR
+Yeola,23/11/2006,145.5, ,NR,NR,NR
+Yeola,30/11/2006,296.5,Red,200,572,500

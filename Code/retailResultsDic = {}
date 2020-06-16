@@ -1,0 +1,8 @@
+retailResultsDic = {}
+for k,v in retailDic.items():
+        series = pd.read_csv('../Data/Final/Retail/'+str(k),names = [0.1],index_col=0,header=None)
+        near = pd.read_csv('../Data/Final/Wholesale/'+str(v),names = [0.1],index_col=0,header=None)
+        retailResultsDic[k] = forecast(series,near)
+
+with open('retail.pickle', 'wb') as handle:
+    pickle.dump(retailResultsDic, handle)
